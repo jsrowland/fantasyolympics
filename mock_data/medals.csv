@@ -1,0 +1,31 @@
+medal_type,medal_code,medal_date,name,gender,discipline,event,event_type,url_event,code,country_code,country,country_long
+Gold Medal,1,2/07/2026,Johannes Thingnes BOE,M,Biathlon,Men's 20km Individual,ATH,/url/biathlon/m-20km,2001,NOR,Norway,Norway
+Silver Medal,2,2/07/2026,Quentin FILLON MAILLET,M,Biathlon,Men's 20km Individual,ATH,/url/biathlon/m-20km,2002,FRA,France,France
+Bronze Medal,3,2/07/2026,Sturla Holm LAEGREID,M,Biathlon,Men's 20km Individual,ATH,/url/biathlon/m-20km,2003,NOR,Norway,Norway
+Gold Medal,1,2/07/2026,Irene SCHOUTEN,W,Speed Skating,Women's 3000m,ATH,/url/skating/w-3000m,2004,NED,Netherlands,Netherlands
+Silver Medal,2,2/07/2026,Francesca LOLLOBRIGIDA,W,Speed Skating,Women's 3000m,ATH,/url/skating/w-3000m,2005,ITA,Italy,Italy
+Bronze Medal,3,2/07/2026,Isabelle WEIDEMANN,W,Speed Skating,Women's 3000m,ATH,/url/skating/w-3000m,2006,CAN,Canada,Canada
+Gold Medal,1,2/10/2026,Eileen GU,W,Freestyle Skiing,Women's Big Air,ATH,/url/ski/w-big-air,2101,CHN,China,China
+Silver Medal,2,2/10/2026,Tess LEDEUX,W,Freestyle Skiing,Women's Big Air,ATH,/url/ski/w-big-air,2102,FRA,France,France
+Bronze Medal,3,2/10/2026,Mathilde GREMAUD,W,Freestyle Skiing,Women's Big Air,ATH,/url/ski/w-big-air,2103,SUI,Switzerland,Switzerland
+Gold Medal,1,2/10/2026,Matthias MAYER,M,Alpine Skiing,Men's Super-G,ATH,/url/alpine/m-superg,2104,AUT,Austria,Austria
+Silver Medal,2,2/10/2026,Ryan COCHRAN-SIEGLE,M,Alpine Skiing,Men's Super-G,ATH,/url/alpine/m-superg,2105,USA,United States,United States
+Bronze Medal,3,2/10/2026,Aleksander Aamodt KILDE,M,Alpine Skiing,Men's Super-G,ATH,/url/alpine/m-superg,2106,NOR,Norway,Norway
+Gold Medal,1,2/14/2026,Kaillie HUMPHRIES,W,Bobsleigh,Women's Monobob,ATH,/url/bob/w-mono,2201,USA,United States,United States
+Silver Medal,2,2/14/2026,Elana MEYERS TAYLOR,W,Bobsleigh,Women's Monobob,ATH,/url/bob/w-mono,2202,USA,United States,United States
+Bronze Medal,3,2/14/2026,Christine de BRUIN,W,Bobsleigh,Women's Monobob,ATH,/url/bob/w-mono,2203,CAN,Canada,Canada
+Gold Medal,1,2/14/2026,Nils VAN DER POEL,M,Speed Skating,Men's 10000m,ATH,/url/skating/m-10000m,2204,SWE,Sweden,Sweden
+Silver Medal,2,2/14/2026,Patrick ROEST,M,Speed Skating,Men's 10000m,ATH,/url/skating/m-10000m,2205,NED,Netherlands,Netherlands
+Bronze Medal,3,2/14/2026,Davide GHIOTTO,M,Speed Skating,Men's 10000m,ATH,/url/skating/m-10000m,2206,ITA,Italy,Italy
+Gold Medal,1,2/18/2026,Shaoang LIU,M,Short Track,Men's 500m,ATH,/url/short/m-500m,2301,HUN,Hungary,Hungary
+Silver Medal,2,2/18/2026,Konstantin IVLIEV,M,Short Track,Men's 500m,ATH,/url/short/m-500m,2302,AIN,AIN,Individual Neutral Athletes
+Bronze Medal,3,2/18/2026,Steven DUBOIS,M,Short Track,Men's 500m,ATH,/url/short/m-500m,2303,CAN,Canada,Canada
+Gold Medal,1,2/18/2026,Mikaela SHIFFRIN,W,Alpine Skiing,Women's Slalom,ATH,/url/alpine/w-slalom,2304,USA,United States,United States
+Silver Medal,2,2/18/2026,Petra VLHOVA,W,Alpine Skiing,Women's Slalom,ATH,/url/alpine/w-slalom,2305,SVK,Slovakia,Slovakia
+Bronze Medal,3,2/18/2026,Katharina LIENSBERGER,W,Alpine Skiing,Women's Slalom,ATH,/url/alpine/w-slalom,2306,AUT,Austria,Austria
+Gold Medal,1,2/22/2026,Therese JOHAUG,W,Cross-Country,Women's 30km Mass Start,ATH,/url/xc/w-30km,2401,NOR,Norway,Norway
+Silver Medal,2,2/22/2026,Jessie DIGGINS,W,Cross-Country,Women's 30km Mass Start,ATH,/url/xc/w-30km,2402,USA,United States,United States
+Bronze Medal,3,2/22/2026,Ebba ANDERSSON,W,Cross-Country,Women's 30km Mass Start,ATH,/url/xc/w-30km,2403,SWE,Sweden,Sweden
+Gold Medal,1,2/22/2026,Team Canada,M,Ice Hockey,Men's Tournament,TEAM,/url/hockey/m-final,2404,CAN,Canada,Canada
+Silver Medal,2,2/22/2026,Team USA,M,Ice Hockey,Men's Tournament,TEAM,/url/hockey/m-final,2405,USA,United States,United States
+Bronze Medal,3,2/22/2026,Team Finland,M,Ice Hockey,Men's Tournament,TEAM,/url/hockey/m-final,2406,FIN,Finland,Finland
