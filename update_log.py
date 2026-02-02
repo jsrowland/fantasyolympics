@@ -70,9 +70,40 @@ def update_log():
             "players": df_snapshot.to_dict(orient='index')
         })
 
-    # Save to the score_log.json
-    with open('score_log.json', 'w') as f:
-        json.dump(score_log, f, indent=2)
+    # Create the "News Feed" entries
+    news_feed = []
+    # Sort results by date descending so newest news is first
+    for _, row in results.sort_values(by='medal_date', ascending=False).iterrows():
+        news_feed.append({
+            "date": row['medal_date'].strftime("%b %d, %Y"),
+            "entry": f"**{row['name']}** ({row['country']}, {row['athletes']} athletes) takes {row['medal_type']} in {row['event']}, winning **{row['owner']}** {row['medal_points']:.2f} points!"
+        })
+
+    # Create the "Medal Table" entries (Country-level breakdown)
+    medal_breakdown = results.groupby('country').agg({
+        'medal_type': [
+            ('golds', lambda x: (x == 'Gold Medal').sum()),
+            ('silvers', lambda x: (x == 'Silver Medal').sum()),
+            ('bronzes', lambda x: (x == 'Bronze Medal').sum())
+        ],
+        'medal_points': 'sum',
+        'athletes': 'first',
+        'owner': 'first'
+    })
+    # Flatten columns and calculate PA score
+    medal_breakdown.columns = [c[1] for c in medal_breakdown.columns]
+    medal_breakdown['pa_score'] = medal_breakdown['medal_points'] / medal_breakdown['athletes']
+    medal_table_data = medal_breakdown.reset_index().to_dict(orient='records')
+
+    # Combine everything into one master file
+    dashboard_data = {
+        "history": score_log, # Your existing time-series data
+        "medal_table": medal_table_data,
+        "news": news_feed
+    }
+
+    with open('dashboard_data.json', 'w') as f:
+        json.dump(dashboard_data, f, indent=2)
     
     print(f"✅ score_log.json updated with {len(unique_dates)} dates.")
 
