@@ -1,0 +1,117 @@
+event,sport,discipline,is_team,is_prestige
+Men's Downhill,Alpine Skiing,Alpine Skiing,FALSE,TRUE
+Men's Slalom,Alpine Skiing,Alpine Skiing,FALSE,FALSE
+Men's Giant Slalom,Alpine Skiing,Alpine Skiing,FALSE,FALSE
+Men's Super-G,Alpine Skiing,Alpine Skiing,FALSE,FALSE
+Men's Alpine Combined,Alpine Skiing,Alpine Skiing,FALSE,FALSE
+Women's Downhill,Alpine Skiing,Alpine Skiing,FALSE,TRUE
+Women's Slalom,Alpine Skiing,Alpine Skiing,FALSE,FALSE
+Women's Giant Slalom,Alpine Skiing,Alpine Skiing,FALSE,FALSE
+Women's Super-G,Alpine Skiing,Alpine Skiing,FALSE,FALSE
+Women's Alpine Combined,Alpine Skiing,Alpine Skiing,FALSE,FALSE
+Men's 10km Sprint Biathlon,Biathlon,Biathlon,FALSE,FALSE
+Men's 12.5km Pursuit Biathlon,Biathlon,Biathlon,FALSE,FALSE
+Men's 20km Individual Biathlon,Biathlon,Biathlon,FALSE,FALSE
+Men's 15km Mass Start Biathlon,Biathlon,Biathlon,FALSE,FALSE
+Men's 4x7.5km Relay Biathlon,Biathlon,Biathlon,TRUE,FALSE
+Women's 7.5km Sprint Biathlon,Biathlon,Biathlon,FALSE,FALSE
+Women's 10km Pursuit Biathlon,Biathlon,Biathlon,FALSE,FALSE
+Women's 15km Individual Biathlon,Biathlon,Biathlon,FALSE,FALSE
+Women's 12.5km Mass Start Biathlon,Biathlon,Biathlon,FALSE,FALSE
+Women's 4x6km Relay Biathlon,Biathlon,Biathlon,TRUE,FALSE
+Mixed Relay Biathlon,Biathlon,Biathlon,TRUE,FALSE
+Men's 15km + 15km Skiathlon,Cross-Country Skiing,Endurance Snow,FALSE,FALSE
+Men's 15km Free,Cross-Country Skiing,Endurance Snow,FALSE,FALSE
+Men's 50km Mass Start,Cross-Country Skiing,Endurance Snow,FALSE,TRUE
+Men's 4x10km Relay,Cross-Country Skiing,Endurance Snow,TRUE,FALSE
+Men's Sprint Free,Cross-Country Skiing,Endurance Snow,FALSE,FALSE
+Men's Team Sprint,Cross-Country Skiing,Endurance Snow,TRUE,FALSE
+Women's 7.5km + 7.5km Skiathlon,Cross-Country Skiing,Endurance Snow,FALSE,FALSE
+Women's 10km Free,Cross-Country Skiing,Endurance Snow,FALSE,FALSE
+Women's 30km Mass Start,Cross-Country Skiing,Endurance Snow,FALSE,TRUE
+Women's 4x5km Relay,Cross-Country Skiing,Endurance Snow,TRUE,FALSE
+Women's Sprint Free,Cross-Country Skiing,Endurance Snow,FALSE,FALSE
+Women's Team Sprint,Cross-Country Skiing,Endurance Snow,TRUE,FALSE
+Men's Sprint SkiMo,Ski Mountaineering,Endurance Snow,FALSE,FALSE
+Women's Sprint SkiMo,Ski Mountaineering,Endurance Snow,FALSE,FALSE
+Mixed Relay SkiMo,Ski Mountaineering,Endurance Snow,TRUE,FALSE
+Two-man Bobsleigh,Bobsleigh,Sliding,TRUE,FALSE
+Four-man Bobsleigh,Bobsleigh,Sliding,TRUE,TRUE
+Women's Monobob,Bobsleigh,Sliding,FALSE,FALSE
+Two-woman Bobsleigh,Bobsleigh,Sliding,TRUE,FALSE
+Men's Singles Luge,Luge,Sliding,FALSE,FALSE
+Men's Doubles Luge,Luge,Sliding,TRUE,FALSE
+Women's Singles Luge,Luge,Sliding,FALSE,FALSE
+Women's Doubles Luge,Luge,Sliding,TRUE,FALSE
+Team Relay Luge,Luge,Sliding,TRUE,FALSE
+Men's Skeleton,Skeleton,Sliding,FALSE,FALSE
+Women's Skeleton,Skeleton,Sliding,FALSE,FALSE
+Mixed Team Skeleton,Skeleton,Sliding,TRUE,FALSE
+Men's 500m Speed Skating,Speed Skating,Speed Skating,FALSE,FALSE
+Men's 1000m Speed Skating,Speed Skating,Speed Skating,FALSE,FALSE
+Men's 1500m Speed Skating,Speed Skating,Speed Skating,FALSE,FALSE
+Men's 5000m Speed Skating,Speed Skating,Speed Skating,FALSE,FALSE
+"Men's 10,000m Speed Skating",Speed Skating,Speed Skating,FALSE,FALSE
+Men's Mass Start Speed Skating,Speed Skating,Speed Skating,FALSE,FALSE
+Men's Team Pursuit Speed Skating,Speed Skating,Speed Skating,TRUE,FALSE
+Women's 500m Speed Skating,Speed Skating,Speed Skating,FALSE,FALSE
+Women's 1000m Speed Skating,Speed Skating,Speed Skating,FALSE,FALSE
+Women's 1500m Speed Skating,Speed Skating,Speed Skating,FALSE,FALSE
+Women's 3000m Speed Skating,Speed Skating,Speed Skating,FALSE,FALSE
+Women's 5000m Speed Skating,Speed Skating,Speed Skating,FALSE,FALSE
+Women's Mass Start Speed Skating,Speed Skating,Speed Skating,FALSE,FALSE
+Women's Team Pursuit Speed Skating,Speed Skating,Speed Skating,TRUE,FALSE
+Men's Singles Figure Skating,Figure Skating,Figure Skating,FALSE,TRUE
+Women's Singles Figure Skating,Figure Skating,Figure Skating,FALSE,TRUE
+Pairs Figure Skating,Figure Skating,Figure Skating,TRUE,FALSE
+Ice Dance,Figure Skating,Figure Skating,TRUE,FALSE
+Team Event Figure Skating,Figure Skating,Figure Skating,TRUE,FALSE
+Men's 500m Short Track,Short Track Speed Skating,Short Track,FALSE,FALSE
+Men's 1000m Short Track,Short Track Speed Skating,Short Track,FALSE,FALSE
+Men's 1500m Short Track,Short Track Speed Skating,Short Track,FALSE,FALSE
+Men's 5000m Relay,Short Track Speed Skating,Short Track,TRUE,FALSE
+Women's 500m Short Track,Short Track Speed Skating,Short Track,FALSE,FALSE
+Women's 1000m Short Track,Short Track Speed Skating,Short Track,FALSE,FALSE
+Women's 1500m Short Track,Short Track Speed Skating,Short Track,FALSE,FALSE
+Women's 3000m Relay,Short Track Speed Skating,Short Track,TRUE,FALSE
+Mixed Team Relay Short Track,Short Track Speed Skating,Short Track,TRUE,FALSE
+Men's Normal Hill Ski Jumping,Ski Jumping,Ski Jumping,FALSE,FALSE
+Men's Large Hill Ski Jumping,Ski Jumping,Ski Jumping,FALSE,FALSE
+Men's Super Team Ski Jumping,Ski Jumping,Ski Jumping,TRUE,FALSE
+Women's Normal Hill Ski Jumping,Ski Jumping,Ski Jumping,FALSE,FALSE
+Women's Large Hill Ski Jumping,Ski Jumping,Ski Jumping,FALSE,FALSE
+Women's Super Team Ski Jumping,Ski Jumping,Ski Jumping,TRUE,FALSE
+Men's Individual Normal Hill Nordic Combined,Nordic Combined,Ski Jumping,FALSE,FALSE
+Men's Individual Large Hill Nordic Combined,Nordic Combined,Ski Jumping,FALSE,FALSE
+Men's Team Sprint Large Hill Nordic Combined,Nordic Combined,Ski Jumping,TRUE,FALSE
+Men's Aerials,Freestyle Skiing,Freestyle Skiing,FALSE,FALSE
+Men's Moguls,Freestyle Skiing,Freestyle Skiing,FALSE,FALSE
+Men's Dual Moguls,Freestyle Skiing,Freestyle Skiing,FALSE,FALSE
+Men's Ski Cross,Freestyle Skiing,Freestyle Skiing,FALSE,FALSE
+Men's Slopestyle Freestyle,Freestyle Skiing,Freestyle Skiing,FALSE,FALSE
+Men's Halfpipe Freestyle,Freestyle Skiing,Freestyle Skiing,FALSE,FALSE
+Men's Big Air Freestyle,Freestyle Skiing,Freestyle Skiing,FALSE,FALSE
+Women's Aerials,Freestyle Skiing,Freestyle Skiing,FALSE,FALSE
+Women's Moguls,Freestyle Skiing,Freestyle Skiing,FALSE,FALSE
+Women's Dual Moguls,Freestyle Skiing,Freestyle Skiing,FALSE,FALSE
+Women's Ski Cross,Freestyle Skiing,Freestyle Skiing,FALSE,FALSE
+Women's Slopestyle Freestyle,Freestyle Skiing,Freestyle Skiing,FALSE,FALSE
+Women's Halfpipe Freestyle,Freestyle Skiing,Freestyle Skiing,FALSE,FALSE
+Women's Big Air Freestyle,Freestyle Skiing,Freestyle Skiing,FALSE,FALSE
+Mixed Team Aerials,Freestyle Skiing,Freestyle Skiing,TRUE,FALSE
+Men's Parallel Giant Slalom,Snowboarding,Snowboarding,FALSE,FALSE
+Men's Snowboard Cross,Snowboarding,Snowboarding,FALSE,FALSE
+Men's Slopestyle Snowboard,Snowboarding,Snowboarding,FALSE,FALSE
+Men's Halfpipe Snowboard,Snowboarding,Snowboarding,FALSE,FALSE
+Men's Big Air Snowboard,Snowboarding,Snowboarding,FALSE,FALSE
+Women's Parallel Giant Slalom,Snowboarding,Snowboarding,FALSE,FALSE
+Women's Snowboard Cross,Snowboarding,Snowboarding,FALSE,FALSE
+Women's Slopestyle Snowboard,Snowboarding,Snowboarding,FALSE,FALSE
+Women's Halfpipe Snowboard,Snowboarding,Snowboarding,FALSE,FALSE
+Women's Big Air Snowboard,Snowboarding,Snowboarding,FALSE,FALSE
+Mixed Team Snowboard Cross,Snowboarding,Snowboarding,TRUE,FALSE
+Men's Ice Hockey,Ice Hockey,Ice Hockey,TRUE,TRUE
+Women's Ice Hockey,Ice Hockey,Ice Hockey,TRUE,TRUE
+Men's Curling,Curling,Curling,TRUE,FALSE
+Women's Curling,Curling,Curling,TRUE,FALSE
+Mixed Doubles Curling,Curling,Curling,TRUE,FALSE
