@@ -1,0 +1,388 @@
+{
+  "history": [
+    {
+      "timestamp": "2026-02-10T00:00:00",
+      "players": {
+        "Kalida": {
+          "medal_score": 24.0,
+          "pa_score": 0.0667,
+          "norm_medal": 0.4,
+          "norm_pa": 0.2341,
+          "daily_score": 26.73
+        },
+        "John": {
+          "medal_score": 0.0,
+          "pa_score": 0.0,
+          "norm_medal": 0.0,
+          "norm_pa": 0.0,
+          "daily_score": 0.0
+        },
+        "Eric": {
+          "medal_score": 0.0,
+          "pa_score": 0.0,
+          "norm_medal": 0.0,
+          "norm_pa": 0.0,
+          "daily_score": 0.0
+        },
+        "Grant": {
+          "medal_score": 36.0,
+          "pa_score": 0.2182,
+          "norm_medal": 0.6,
+          "norm_pa": 0.7659,
+          "daily_score": 73.27
+        },
+        "Meredith": {
+          "medal_score": 0.0,
+          "pa_score": 0.0,
+          "norm_medal": 0.0,
+          "norm_pa": 0.0,
+          "daily_score": 0.0
+        }
+      }
+    },
+    {
+      "timestamp": "2026-02-14T00:00:00",
+      "players": {
+        "Kalida": {
+          "medal_score": 24.0,
+          "pa_score": 0.0667,
+          "norm_medal": 0.15,
+          "norm_pa": 0.0825,
+          "daily_score": 9.6
+        },
+        "John": {
+          "medal_score": 20.0,
+          "pa_score": 0.039,
+          "norm_medal": 0.125,
+          "norm_pa": 0.0482,
+          "daily_score": 6.36
+        },
+        "Eric": {
+          "medal_score": 0.0,
+          "pa_score": 0.0,
+          "norm_medal": 0.0,
+          "norm_pa": 0.0,
+          "daily_score": 0.0
+        },
+        "Grant": {
+          "medal_score": 116.0,
+          "pa_score": 0.703,
+          "norm_medal": 0.725,
+          "norm_pa": 0.8693,
+          "daily_score": 84.04
+        },
+        "Meredith": {
+          "medal_score": 0.0,
+          "pa_score": 0.0,
+          "norm_medal": 0.0,
+          "norm_pa": 0.0,
+          "daily_score": 0.0
+        }
+      }
+    },
+    {
+      "timestamp": "2026-02-18T00:00:00",
+      "players": {
+        "Kalida": {
+          "medal_score": 24.0,
+          "pa_score": 0.0667,
+          "norm_medal": 0.0938,
+          "norm_pa": 0.0477,
+          "daily_score": 5.69
+        },
+        "John": {
+          "medal_score": 20.0,
+          "pa_score": 0.039,
+          "norm_medal": 0.0781,
+          "norm_pa": 0.0279,
+          "daily_score": 3.79
+        },
+        "Eric": {
+          "medal_score": 36.0,
+          "pa_score": 0.2264,
+          "norm_medal": 0.1406,
+          "norm_pa": 0.1619,
+          "daily_score": 15.76
+        },
+        "Grant": {
+          "medal_score": 176.0,
+          "pa_score": 1.0667,
+          "norm_medal": 0.6875,
+          "norm_pa": 0.7626,
+          "daily_score": 74.76
+        },
+        "Meredith": {
+          "medal_score": 0.0,
+          "pa_score": 0.0,
+          "norm_medal": 0.0,
+          "norm_pa": 0.0,
+          "daily_score": 0.0
+        }
+      }
+    },
+    {
+      "timestamp": "2026-02-22T00:00:00",
+      "players": {
+        "Kalida": {
+          "medal_score": 64.0,
+          "pa_score": 0.1778,
+          "norm_medal": 0.1905,
+          "norm_pa": 0.1054,
+          "daily_score": 12.24
+        },
+        "John": {
+          "medal_score": 36.0,
+          "pa_score": 0.0702,
+          "norm_medal": 0.1071,
+          "norm_pa": 0.0416,
+          "daily_score": 5.47
+        },
+        "Eric": {
+          "medal_score": 36.0,
+          "pa_score": 0.2264,
+          "norm_medal": 0.1071,
+          "norm_pa": 0.1342,
+          "daily_score": 12.88
+        },
+        "Grant": {
+          "medal_score": 200.0,
+          "pa_score": 1.2121,
+          "norm_medal": 0.5952,
+          "norm_pa": 0.7187,
+          "daily_score": 69.4
+        },
+        "Meredith": {
+          "medal_score": 0.0,
+          "pa_score": 0.0,
+          "norm_medal": 0.0,
+          "norm_pa": 0.0,
+          "daily_score": 0.0
+        }
+      }
+    }
+  ],
+  "medal_table": [
+    {
+      "country": "Netherlands",
+      "owner": "Kalida",
+      "draft_pick": 1,
+      "draft_round": 1,
+      "athletes": 67,
+      "golds": 0.0,
+      "silvers": 0.0,
+      "bronzes": 0.0,
+      "medal_points": 0.0,
+      "pa_score": 0.0
+    },
+    {
+      "country": "Canada",
+      "owner": "John",
+      "draft_pick": 2,
+      "draft_round": 1,
+      "athletes": 207,
+      "golds": 0.0,
+      "silvers": 0.0,
+      "bronzes": 1.0,
+      "medal_points": 20.0,
+      "pa_score": 0.0966183574879227
+    },
+    {
+      "country": "Slovakia",
+      "owner": "Eric",
+      "draft_pick": 3,
+      "draft_round": 1,
+      "athletes": 5,
+      "golds": 0.0,
+      "silvers": 1.0,
+      "bronzes": 0.0,
+      "medal_points": 36.0,
+      "pa_score": 7.2
+    },
+    {
+      "country": "China",
+      "owner": "Grant",
+      "draft_pick": 4,
+      "draft_round": 1,
+      "athletes": 59,
+      "golds": 0.0,
+      "silvers": 0.0,
+      "bronzes": 0.0,
+      "medal_points": 0.0,
+      "pa_score": 0.0
+    },
+    {
+      "country": "Norway",
+      "owner": "Kalida",
+      "draft_pick": 5,
+      "draft_round": 1,
+      "athletes": 80,
+      "golds": 1.0,
+      "silvers": 0.0,
+      "bronzes": 1.0,
+      "medal_points": 64.0,
+      "pa_score": 0.8
+    },
+    {
+      "country": "France",
+      "owner": "Kalida",
+      "draft_pick": 6,
+      "draft_round": 2,
+      "athletes": 160,
+      "golds": 0.0,
+      "silvers": 0.0,
+      "bronzes": 0.0,
+      "medal_points": 0.0,
+      "pa_score": 0.0
+    },
+    {
+      "country": "United States",
+      "owner": "Grant",
+      "draft_pick": 7,
+      "draft_round": 2,
+      "athletes": 103,
+      "golds": 2.0,
+      "silvers": 3.0,
+      "bronzes": 0.0,
+      "medal_points": 200.0,
+      "pa_score": 1.941747572815534
+    },
+    {
+      "country": "AIN",
+      "owner": "Eric",
+      "draft_pick": 8,
+      "draft_round": 2,
+      "athletes": 39,
+      "golds": 0.0,
+      "silvers": 0.0,
+      "bronzes": 0.0,
+      "medal_points": 0.0,
+      "pa_score": 0.0
+    },
+    {
+      "country": "Belgium",
+      "owner": "Meredith",
+      "draft_pick": 9,
+      "draft_round": 2,
+      "athletes": 30,
+      "golds": 0.0,
+      "silvers": 0.0,
+      "bronzes": 0.0,
+      "medal_points": 0.0,
+      "pa_score": 0.0
+    },
+    {
+      "country": "Italy",
+      "owner": "John",
+      "draft_pick": 10,
+      "draft_round": 2,
+      "athletes": 196,
+      "golds": 0.0,
+      "silvers": 0.0,
+      "bronzes": 0.0,
+      "medal_points": 0.0,
+      "pa_score": 0.0
+    },
+    {
+      "country": "Sweden",
+      "owner": "John",
+      "draft_pick": 11,
+      "draft_round": 3,
+      "athletes": 110,
+      "golds": 0.0,
+      "silvers": 0.0,
+      "bronzes": 1.0,
+      "medal_points": 16.0,
+      "pa_score": 0.14545454545454545
+    },
+    {
+      "country": "Hungary",
+      "owner": "Meredith",
+      "draft_pick": 12,
+      "draft_round": 3,
+      "athletes": 14,
+      "golds": 0.0,
+      "silvers": 0.0,
+      "bronzes": 0.0,
+      "medal_points": 0.0,
+      "pa_score": 0.0
+    },
+    {
+      "country": "Czech Republic",
+      "owner": "Eric",
+      "draft_pick": 13,
+      "draft_round": 3,
+      "athletes": 115,
+      "golds": 0.0,
+      "silvers": 0.0,
+      "bronzes": 0.0,
+      "medal_points": 0.0,
+      "pa_score": 0.0
+    },
+    {
+      "country": "Finland",
+      "owner": "Grant",
+      "draft_pick": 14,
+      "draft_round": 3,
+      "athletes": 3,
+      "golds": 0.0,
+      "silvers": 0.0,
+      "bronzes": 0.0,
+      "medal_points": 0.0,
+      "pa_score": 0.0
+    },
+    {
+      "country": "Australia",
+      "owner": "Kalida",
+      "draft_pick": 15,
+      "draft_round": 3,
+      "athletes": 53,
+      "golds": 0.0,
+      "silvers": 0.0,
+      "bronzes": 0.0,
+      "medal_points": 0.0,
+      "pa_score": 0.0
+    }
+  ],
+  "news": [
+    {
+      "date": "Feb 22, 2026",
+      "entry": "**Therese JOHAUG** (Norway, 80 athletes) takes Gold Medal in Women's 30km Mass Start, winning **Kalida** 40.00 points!"
+    },
+    {
+      "date": "Feb 22, 2026",
+      "entry": "**Jessie DIGGINS** (United States, 103 athletes) takes Silver Medal in Women's 30km Mass Start, winning **Grant** 24.00 points!"
+    },
+    {
+      "date": "Feb 22, 2026",
+      "entry": "**Ebba ANDERSSON** (Sweden, 110 athletes) takes Bronze Medal in Women's 30km Mass Start, winning **John** 16.00 points!"
+    },
+    {
+      "date": "Feb 18, 2026",
+      "entry": "**Mikaela SHIFFRIN** (United States, 103 athletes) takes Gold Medal in Women's Slalom, winning **Grant** 60.00 points!"
+    },
+    {
+      "date": "Feb 18, 2026",
+      "entry": "**Petra VLHOVA** (Slovakia, 5 athletes) takes Silver Medal in Women's Slalom, winning **Eric** 36.00 points!"
+    },
+    {
+      "date": "Feb 14, 2026",
+      "entry": "**Kaillie HUMPHRIES** (United States, 103 athletes) takes Gold Medal in Women's Monobob, winning **Grant** 50.00 points!"
+    },
+    {
+      "date": "Feb 14, 2026",
+      "entry": "**Elana MEYERS TAYLOR** (United States, 103 athletes) takes Silver Medal in Women's Monobob, winning **Grant** 30.00 points!"
+    },
+    {
+      "date": "Feb 14, 2026",
+      "entry": "**Christine de BRUIN** (Canada, 207 athletes) takes Bronze Medal in Women's Monobob, winning **John** 20.00 points!"
+    },
+    {
+      "date": "Feb 10, 2026",
+      "entry": "**Ryan COCHRAN-SIEGLE** (United States, 103 athletes) takes Silver Medal in Men's Super-G, winning **Grant** 36.00 points!"
+    },
+    {
+      "date": "Feb 10, 2026",
+      "entry": "**Aleksander Aamodt KILDE** (Norway, 80 athletes) takes Bronze Medal in Men's Super-G, winning **Kalida** 24.00 points!"
+    }
+  ]
+}

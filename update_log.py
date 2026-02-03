@@ -1,22 +1,30 @@
 import pandas as pd
-import os
+import argparse
 import json
 from dotenv import load_dotenv
 
-# kaggle imports creds on import so load_dotenv first
-load_dotenv()
-from kaggle.api.kaggle_api_extended import KaggleApi
+def pull_data():
+    # kaggle imports creds on import so load_dotenv first
+    load_dotenv()
+    from kaggle import api
 
-DATA_DIR = './mock_data'
+    api.authenticate()
 
-def update_log():
+    #dataset_slug = "piterfm/milano-cortina-2026-olympic-winter-games"
+    dataset_slug = "piterfm/paris-2024-olympic-summer-games" # testing
+    api.dataset_download_files(dataset_slug, path='./data', unzip=True)
+
+    results_df = pd.read_csv('./data/results.csv')
+    schedules_df = pd.read_csv('./data/schedules.csv')
+
+def update_log(data_dir):
     """
     Updates the daily player score json.    
     Will overwrite every day's score as necessary.
     """
-    events_df = pd.read_csv(DATA_DIR + '/events.csv')    
-    roster_df = pd.read_csv(DATA_DIR + '/roster.csv')
-    medals_df = pd.read_csv(DATA_DIR + '/medals.csv')
+    events_df = pd.read_csv(data_dir + '/events.csv')    
+    roster_df = pd.read_csv(data_dir + '/roster.csv')
+    medals_df = pd.read_csv(data_dir + '/medals.csv')
 
     results = medals_df.merge(events_df, on='event')
     results = results.merge(roster_df, on='country')
@@ -70,11 +78,64 @@ def update_log():
             "players": df_snapshot.to_dict(orient='index')
         })
 
-    # Save to the score_log.json
-    with open('score_log.json', 'w') as f:
-        json.dump(score_log, f, indent=2)
+    # Create the "News Feed" entries
+    news_feed = []
+    # Sort results by date descending so newest news is first
+    for _, row in results.sort_values(by='medal_date', ascending=False).iterrows():
+        news_feed.append({
+            "date": row['medal_date'].strftime("%b %d, %Y"),
+            "entry": f"**{row['name']}** ({row['country']}, {row['athletes']} athletes) takes {row['medal_type']} in {row['event']}, winning **{row['owner']}** {row['medal_points']:.2f} points!"
+        })
+
+    # Create the "Medal Table" entries (Country-level breakdown)
+    medal_breakdown = results.groupby('country').agg(
+        golds=('medal_type', lambda x: (x == 'Gold Medal').sum()),
+        silvers=('medal_type', lambda x: (x == 'Silver Medal').sum()),
+        bronzes=('medal_type', lambda x: (x == 'Bronze Medal').sum()),
+        medal_points=('medal_points', 'sum'),
+        athletes=('athletes', 'first'),
+        owner=('owner', 'first')
+    )
+    medal_breakdown['pa_score'] = medal_breakdown['medal_points'] / medal_breakdown['athletes']
+    
+    # Merge with roster_df (and handle potential duplicate columns) to capture countries w/o medals
+    final_table = roster_df.merge(
+        medal_breakdown.reset_index(), 
+        on='country', 
+        how='left',
+        suffixes=('', '_drop') # Use suffixes=(None, '_drop') so original columns stay as-is
+    ).fillna(0)
+
+    # Drop any duplicate columns that popped up during merge
+    final_table = final_table.drop(columns=[c for c in final_table.columns if '_drop' in c])
+
+    medal_table_data = final_table.to_dict(orient='records')
+
+    # Combine everything into one master file
+    dashboard_data = {
+        "history": score_log, # Your existing time-series data
+        "medal_table": medal_table_data,
+        "news": news_feed
+    }
+
+    with open('dashboard_data.json', 'w') as f:
+        json.dump(dashboard_data, f, indent=2)
     
     print(f"✅ score_log.json updated with {len(unique_dates)} dates.")
 
-if __name__ == "__main__": 
-    update_log()
+if __name__ == "__main__":
+
+    parser = argparse.ArgumentParser(description="Milano 2026 Score Updater")
+    # 'store_true' means if the flag is present, debug = True. Otherwise, False.
+    parser.add_argument('--debug', action='store_true', help="Use mock data and skip live pull")
+    
+    args = parser.parse_args()
+
+    # 4. Implement your conditional logic
+    if args.debug:
+        print("🛠️ DEBUG MODE: Skipping pull, using ./mock_data")
+        update_log('./mock_data')
+    else:
+        print("🚀 PRODUCTION MODE: Pulling live data...")
+        pull_data()
+        update_log('./data')

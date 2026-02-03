@@ -1,5 +1,8 @@
 import pandas as pd
 import numpy as np
+import os
+
+EVENTS_PATH = './data/events.csv'
 
 def set_base_scores(df, points_per_disc = 120, max_base_score = 15):
     """
@@ -25,8 +28,9 @@ def set_base_scores(df, points_per_disc = 120, max_base_score = 15):
     
     # Clean up the helper column
     return df.drop(columns=['events_in_discipline'])
-
-events_df = pd.read_csv('./data/milano_2026_events.csv')
-events_df.to_csv('./data/milano_2026_events_backup.csv')
+EVENTS_PATH = './data/events.csv'
+events_df = pd.read_csv(EVENTS_PATH)
+name, ext = os.path.splitext(EVENTS_PATH)
+events_df.to_csv(name + '_backup' + ext)
 events_df = set_base_scores(events_df)
 events_df.to_csv('./data/milano_2026_events.csv')
