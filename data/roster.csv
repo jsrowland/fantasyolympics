@@ -1,16 +1,36 @@
-country,owner,draft_pick,draft_round
-Latvia,Kalida,1,1
-Canada,John,2,1
-Greece,Eric,3,1
-Poland,Grant,4,1
-Norway,Kalida,5,1
-France,Kalida,6,2
-Finland,Grant,7,2
-Denmark,Eric,8,2
-Belgium,Meredith,9,2
-Italy,John,10,2
-Sweden,John,11,3
-Croatia,Meredith,12,3
-Czech Republic,Eric,13,3
-Hong Kong,Grant,14,3
-Australia,Kalida,15,3
+country,code,owner,draft_pick,draft_round,athletes
+Norway,NOR,Grant,1,1,80
+Canada,CAN,John,2,1,211
+Finland,FIN,Eric,3,1,103
+Sweden,SWE,Meredith,4,1,110
+Germany,GER,Kalida,5,1,189
+Netherlands,NED,Kalida,6,2,39
+Italy,ITA,Meredith,7,2,195
+Switzerland,SUI,Eric,8,2,175
+South Korea,KOR,John,9,2,73
+Latvia,LAT,Grant,10,2,68
+Austria,AUT,Grant,11,3,117
+France,FRA,John,12,3,162
+China,CHN,Eric,13,3,126
+Czech Republic,CZE,Meredith,14,3,114
+Japan,JPN,Kalida,15,3,121
+Slovenia,SLO,Kalida,16,4,37
+Great Britain,GBR,Meredith,17,4,55
+Poland,POL,Eric,18,4,60
+New Zealand,NZL,John,19,4,17
+Individual Neutral Athletes,AIN,Grant,20,4,20
+Estonia,EST,Grant,21,5,32
+Lithuania,LTU,John,22,5,17
+Denmark,DEN,Eric,23,5,39
+Australia,AUS,Meredith,24,5,54
+Hungary,HUN,Kalida,25,5,15
+Belgium,BEL,Kalida,26,6,30
+Liechtenstein,LIE,Meredith,27,6,8
+Ukraine,UKR,Eric,28,6,46
+Brazil,BRA,John,29,6,15
+Kazakhstan,KAZ,Grant,30,6,36
+Croatia,CRO,Grant,31,7,14
+Luxembourg,LUX,John,32,7,2
+Slovakia,SVK,Eric,33,7,53
+Jamaica,JAM,Meredith,34,7,7
+Spain,ESP,Kalida,35,7,20
