@@ -1,7 +1,11 @@
 import pandas as pd
 import argparse
 import json
+import os
 from dotenv import load_dotenv
+
+MAPPING_FILE = 'event_mapping.json'
+EXCEPTIONS_FILE = 'missing_events.json'
 
 def pull_data():
     # kaggle imports creds on import so load_dotenv first
@@ -23,7 +27,36 @@ def update_log(data_dir):
     roster_df = pd.read_csv(data_dir + '/roster.csv')
     medallists_df = pd.read_csv(data_dir + '/medallists.csv')
 
-    results = medallists_df.merge(events_df, left_on='event_name', right_on='event')
+    # 1. Load existing mappings if they exist
+    if os.path.exists(MAPPING_FILE):
+        with open(MAPPING_FILE, 'r') as f:
+            mapping = json.load(f)
+        # Apply the mapping to the kaggle names
+        medallists_df['event_name'] = medallists_df['event_name'].replace(mapping)
+
+    # 2. Perform a LEFT merge so we don't lose rows that don't match
+    # This allows us to see which events failed to find a partner in events_df
+    results = medallists_df.merge(events_df, left_on='event_name', right_on='event', how='left')
+
+    # 3. Check for missing event data
+    missing_mask = results['event'].isna()
+    if missing_mask.any():
+        # Select both columns as a list, drop duplicates, and convert to records
+        missing_df = results.loc[missing_mask, ['event_name', 'discipline_x']].drop_duplicates()
+        missing_events = missing_df.to_dict(orient='records') 
+        
+        with open(EXCEPTIONS_FILE, 'w') as f:
+            json.dump(missing_events, f, indent=2)
+            
+        print(f"⚠️  {len(missing_events)} unique events could not be mapped. See {EXCEPTIONS_FILE}")
+        
+        # Filter results to only matched rows
+        results = results.dropna(subset=['event'])
+    else:
+        # If no missing events, clear the exceptions file if it exists
+        if os.path.exists(EXCEPTIONS_FILE):
+            os.remove(EXCEPTIONS_FILE)
+
     results = results.merge(roster_df.drop(columns='country'), left_on='country', right_on='code')
 
     # This is better for the news feed
@@ -141,5 +174,5 @@ if __name__ == "__main__":
         update_log('./mock_data')
     else:
         print("🚀 PRODUCTION MODE: Pulling live data...")
-        #pull_data()
+        pull_data()
         update_log('./data')
