@@ -19,114 +19,95 @@ def load_json(filepath):
 def save_mapping(mapping):
     with open(MAPPING_FILE, 'w') as f:
         json.dump(mapping, f, indent=2)
-    print(f"✅ Mapping saved to {MAPPING_FILE}")
+    print(f"\n✅ Mapping saved to {MAPPING_FILE}")
 
 def run_mapper(mode):
-    # 1. Load Reference Data
     if not os.path.exists(EVENTS_CSV):
         return print(f"❌ Error: {EVENTS_CSV} not found.")
     
+    # 1. Load Local Events & Current Mapping
     local_df = pd.read_csv(EVENTS_CSV)
     local_df['key'] = local_df['discipline'] + "|" + local_df['event']
-    local_keys = local_df['key'].tolist()
     
     mapping = load_json(MAPPING_FILE)
     to_process = []
 
-    # 2. Select Source based on CLI Argument
+    # 2. Identify "Used" Local Events (Values in our mapping)
+    used_local_keys = set(mapping.values())
+
+    # 3. Choose Source
     if mode == 'schedule':
-        if not os.path.exists(SCHEDULE_CSV):
-            return print(f"❌ Error: {SCHEDULE_CSV} not found.")
+        if not os.path.exists(SCHEDULE_CSV): return print("❌ schedules.csv missing.")
         sched_df = pd.read_csv(SCHEDULE_CSV)
-        # Only medal events; normalize keys
         medal_events = sched_df[sched_df['event_medal'] == 1][['discipline', 'event']].drop_duplicates()
-        for _, row in medal_events.iterrows():
-            to_process.append({'discipline': row['discipline'], 'event': row['event']})
-        print(f"📋 Mode: Schedule (Processing {len(to_process)} medal events)")
-
-    elif mode == 'missing':
+        to_process = [{'discipline': r['discipline'], 'event': r['event']} for _, r in medal_events.iterrows()]
+    else:
         missing_data = load_json(EXCEPTIONS_FILE)
-        if not missing_data:
-            return print(f"✅ No missing events found in {EXCEPTIONS_FILE}.")
-        for item in missing_data:
-            # Main script uses discipline_x and event_name
-            to_process.append({'discipline': item['discipline_x'], 'event': item['event_name']})
-        print(f"📋 Mode: Missing (Processing {len(to_process)} exceptions)")
+        if not missing_data: return print("✅ No missing events found.")
+        to_process = [{'discipline': i['discipline_x'], 'event': i['event_name']} for i in missing_data]
 
-    # 3. Pass 1: Auto-Mapping (Exact matches)
-    auto_count = 0
+    # 4. Pass 1: Auto-Mapping (Exact Matches in pool)
     remaining = []
     for item in to_process:
         k_key = f"{item['discipline']}|{item['event']}"
-        if k_key in mapping:
-            continue
-        if k_key in local_keys:
+        if k_key in mapping: continue
+        
+        # If exact match exists AND hasn't been used yet
+        if k_key in local_df['key'].values and k_key not in used_local_keys:
             mapping[k_key] = k_key
-            auto_count += 1
+            used_local_keys.add(k_key)
         else:
             remaining.append(item)
 
-    if auto_count > 0:
-        print(f"🤖 Auto-mapped {auto_count} exact matches.")
-
-    # 4. Pass 2: Interactive Mapping
-    if not remaining:
-        save_mapping(mapping)
-        return
-
-    print(f"\n--- {len(remaining)} events require manual mapping ---")
+    # 5. Pass 2: Interactive Reordered Mapping
     for item in remaining:
         k_name, k_disc = item['event'], item['discipline']
         k_key = f"{k_disc}|{k_name}"
+        if k_key in mapping: continue
 
         print(f"\nTarget: **{k_name}** ({k_disc})")
 
-        # 1. Filter local choices by discipline
-        disc_matches = local_df[local_df['discipline'].str.contains(k_disc, case=False, na=False)].copy()
-        if disc_matches.empty:
-            disc_matches = local_df.copy()
+        # FILTER: Only show events NOT already in used_local_keys
+        available_df = local_df[~local_df['key'].isin(used_local_keys)].copy()
+        
+        # Priority Filter: Same discipline
+        disc_pool = available_df[available_df['discipline'].str.contains(k_disc, case=False, na=False)].copy()
+        if disc_pool.empty: disc_pool = available_df # Fallback
 
-        # 2. Generate Fuzzy Suggestions
-        guesses = difflib.get_close_matches(k_name, disc_matches['event'].tolist(), n=3, cutoff=0.2)
+        # Fuzzy Suggestions
+        guesses = difflib.get_close_matches(k_name, disc_pool['event'].tolist(), n=3, cutoff=0.2)
         
-        # 3. Reorder: Pull guesses to the top
-        # Create a 'priority' dataframe for guesses and 'others' for the rest
-        priority_df = disc_matches[disc_matches['event'].isin(guesses)].copy()
-        # Sort priority_df to match the order of 'guesses' (best match first)
-        priority_df['sort_order'] = priority_df['event'].apply(lambda x: guesses.index(x))
-        priority_df = priority_df.sort_values('sort_order')
+        # Reorder Pool: Suggestions First
+        priority_df = disc_pool[disc_pool['event'].isin(guesses)].copy()
+        if not priority_df.empty:
+            priority_df['sort'] = priority_df['event'].apply(lambda x: guesses.index(x))
+            priority_df = priority_df.sort_values('sort')
         
-        others_df = disc_matches[~disc_matches['event'].isin(guesses)]
-        
-        # Combine them: Suggestions first, then the rest
+        others_df = disc_pool[~disc_pool['event'].isin(guesses)]
         final_selection_df = pd.concat([priority_df, others_df])
-        
+
         options = (final_selection_df['event'] + " (" + final_selection_df['discipline'] + ")").tolist()
         option_keys = final_selection_df['key'].tolist()
 
-        # 4. Display
-        print(f"--- Top Suggestions ---")
+        print(f"--- Available Options ({len(options)} left in discipline) ---")
         for i, opt in enumerate(options):
-            if i == len(guesses):
-                print(f"--- All Other {k_disc} Events ---")
-            
-            # Highlight the top guesses to make them pop
-            prefix = "⭐ " if i < len(guesses) else "  "
+            prefix = "⭐ " if i < len(guesses) else "   "
+            if i == len(guesses): print("-----------------------")
             print(f"{prefix}{i}: {opt}")
 
-        choice = input(f"\nSelect index for '{k_name}' (or Enter to skip): ").strip()
+        choice = input(f"\nMatch index for '{k_name}' (Enter to skip): ").strip()
         
         if choice.isdigit() and int(choice) < len(option_keys):
-            mapping[k_key] = option_keys[int(choice)]
-            print(f"✅ Linked to: {option_keys[int(choice)]}")
+            selected_key = option_keys[int(choice)]
+            mapping[k_key] = selected_key
+            used_local_keys.add(selected_key) # IMMEDIATELY remove from next loop's pool
+            print(f"Linked!")
 
     save_mapping(mapping)
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Olympic Event Mapper")
+    parser = argparse.ArgumentParser()
     group = parser.add_mutually_exclusive_group(required=True)
     group.add_argument('--schedule', action='store_const', const='schedule', dest='mode')
     group.add_argument('--missing', action='store_const', const='missing', dest='mode')
-    
-    args = parser.parse_args()
-    run_mapper(args.mode)
+    run_mapper(parser.parse_args().mode)
