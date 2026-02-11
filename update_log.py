@@ -25,20 +25,38 @@ def update_log(data_dir):
     """
     events_df = pd.read_csv(data_dir + '/events.csv')    
     roster_df = pd.read_csv(data_dir + '/roster.csv')
-    medallists_df = pd.read_csv(data_dir + '/medallists.csv')    
+    medallists_df = pd.read_csv(data_dir + '/medallists.csv')  
 
     # Create the composite keys
     medallists_df['lookup_key'] = medallists_df['discipline'] + "|" + medallists_df['event_name']
-    events_df['lookup_key'] = events_df['discipline'] + "|" + events_df['event']
+    events_df['lookup_key'] = events_df['discipline'] + "|" + events_df['event'] 
+    
+    # Aggregate athlete names into a list and keep the first instance of everything else
+    group_cols = ['date', 'country', 'lookup_key', 'medal', 'event_name'] 
+    collapsed_medals = medallists_df.groupby(group_cols).agg({
+        'name': list,           # Collect names into a Python list
+        'discipline': 'first'   # Keep the discipline for mapping
+    }).reset_index()
 
-    # 1. Apply JSON Mapping (Maps Kaggle Key -> Local Key)
+    # Create the "Formatted Names" for the News Feed
+    def format_winners(names):
+        if len(names) == 1:
+            return f"**{names[0]}**"
+        elif len(names) == 2:
+            return f"**{names[0]} and {names[1]}**"
+        else:
+            # Oxford Comma: "Name A, Name B, and Name C"
+            return f"**{', '.join(names[:-1])}, and {names[-1]}**"
+    collapsed_medals['winner_display'] = collapsed_medals['name'].apply(format_winners)
+    
+    # Apply JSON Mapping (Maps Kaggle Key -> Local Key)
     if os.path.exists(MAPPING_FILE):
         with open(MAPPING_FILE, 'r') as f:
             mapping = json.load(f)
-        medallists_df['lookup_key'] = medallists_df['lookup_key'].replace(mapping)
+        collapsed_medals['lookup_key'] = collapsed_medals['lookup_key'].replace(mapping)
 
-    # 2. Merge on the composite key
-    results = medallists_df.merge(
+    # Merge on the composite key
+    results = collapsed_medals.merge(
         events_df.drop(columns=['discipline']), 
         on='lookup_key', 
         how='left'
@@ -164,18 +182,33 @@ def update_log(data_dir):
     print(f"✅ dashboard_data.json updated with {len(unique_dates)} dates.")
 
 if __name__ == "__main__":
-
     parser = argparse.ArgumentParser(description="Milano 2026 Score Updater")
-    # 'store_true' means if the flag is present, debug = True. Otherwise, False.
-    parser.add_argument('--debug', action='store_true', help="Use mock data and skip live pull")
+    
+    # Using a positional argument with specific choices
+    parser.add_argument(
+        'mode', 
+        choices=['mock', 'local', 'pull'], 
+        help="Run mode: 'mock' (test data), 'local' (process existing data), or 'pull' (fetch & process)"
+    )
     
     args = parser.parse_args()
 
-    # 4. Implement your conditional logic
-    if args.debug:
-        print("🛠️ DEBUG MODE: Skipping pull, using ./mock_data")
+    if args.mode == 'mock':
+        print("🛠️  MOCK MODE: Skipping Kaggle, using ./mock_data")
         update_log('./mock_data')
-    else:
-        print("🚀 PRODUCTION MODE: Pulling live data...")
-        #pull_data()
-        update_log('./data')
+
+    elif args.mode == 'local':
+        print("🏠 LOCAL MODE: Processing existing files in ./data (No Kaggle hit)")
+        if not os.path.exists('./data'):
+            print("❌ Error: ./data directory not found. Run with 'pull' first.")
+        else:
+            update_log('./data')
+
+    elif args.mode == 'pull':
+        print("🚀 PULL MODE: Fetching live data from Kaggle...")
+        try:
+            pull_data()
+            print("✅ Data download complete.")
+            update_log('./data')
+        except Exception as e:
+            print(f"❌ Kaggle Pull Failed: {e}")

@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "name": "Update_Log: Local",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}\\update_log.py",
+            "console": "integratedTerminal",
+            "args": ["local"]
+        }
+    ]
+}
