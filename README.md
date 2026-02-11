@@ -29,3 +29,11 @@ From that point on, `update.yml` runs the following sequence on a cadence accord
 # Future Improvements
 - during the draft it would be cool if people could select their countries on their own phone instead of passing around a laptop. Also the phones should auto-refresh when a selection is made.
 - need a way to validate the data -- some sort of debug index if events or countries aren't matching
+
+# Missing Events
+
+Cross Country Classic
+Mixed Team Ski Jumping
+Gundersen Normal Hill??
+Cross Country Sprint
+Men's 10km Interval Start Free
