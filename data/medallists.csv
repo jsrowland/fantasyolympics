@@ -1,86 +1,86 @@
 date,medal,code,name,gender,country,country_code,discipline,discipline_code,event_name
-2026-02-07,ME_GOLD,48729,von ALLMEN Franjo,M,SUI,Switzerland,Alpine Skiing,ALP,Men's Downhill
-2026-02-07,ME_GOLD,48729,von ALLMEN Franjo,M,SUI,Switzerland,Alpine Skiing,ALP,Men's Downhill
-2026-02-09,ME_GOLD,19240,KARL Benjamin,M,AUT,Austria,Alpine Skiing,ALP,Men's Team Combined
-2026-02-08,ME_GOLD,45479,MADEROVA Zuzana,F,CZE,Czechia,Snowboard,SBD,Men's Parallel Giant Slalom
-2026-02-08,ME_GOLD,46398,FILLON MAILLET Quentin,M,FRA,France,Snowboard,SBD,Women's Parallel Giant Slalom
-2026-02-08,ME_GOLD,44685,JEANMONNOT Lou,F,FRA,France,Biathlon,BTH,Mixed Relay 4 x 6km (M+W)
-2026-02-08,ME_GOLD,44692,PERROT Eric,M,FRA,France,Biathlon,BTH,Mixed Relay 4 x 6km (M+W)
-2026-02-08,ME_GOLD,44694,SIMON Julia,F,FRA,France,Biathlon,BTH,Mixed Relay 4 x 6km (M+W)
-2026-02-08,ME_GOLD,20086,LANGENHAN Max,M,GER,Germany,Biathlon,BTH,Mixed Relay 4 x 6km (M+W)
-2026-02-08,ME_GOLD,41427,RAIMUND Philipp,M,GER,Germany,Luge,LUG,Men's Singles
-2026-02-09,ME_GOLD,22165,LOLLOBRIGIDA Francesca,F,ITA,Italy,Ski Jumping,SJP,Men's NH Individual
-2026-02-07,ME_GOLD,42823,KIMURA Kira,M,JPN,Japan,Speed Skating,SSK,Women's 3000m
-2026-02-07,ME_GOLD,42835,MURASE Kokomo,F,JPN,Japan,Snowboard,SBD,Men's Snowboard Big Air
-2026-02-09,ME_GOLD,51847,LEERDAM Jutta,F,NED,Netherlands,Snowboard,SBD,Women's Snowboard Big Air
-2026-02-09,ME_GOLD,42377,EITREM Sander,M,NOR,Norway,Speed Skating,SSK,Women's 1000m
-2026-02-08,ME_GOLD,42284,KLAEBO Johannes Hoesflot,M,NOR,Norway,Speed Skating,SSK,Men's 5000m
-2026-02-08,ME_GOLD,42353,STROEM Anna Odine,F,NOR,Norway,Cross-Country Skiing,CCS,Men's 10km + 10km Skiathlon
-2026-02-07,ME_GOLD,48388,GREMAUD Mathilde,F,SUI,Switzerland,Ski Jumping,SJP,Women's NH Individual
-2026-02-09,ME_GOLD,48602,NEF Tanguy,M,SUI,Switzerland,Freestyle Skiing,FRS,Women's Freeski Slopestyle
-2026-02-09,ME_GOLD,30739,KARLSSON Frida,F,SWE,Sweden,Alpine Skiing,ALP,Men's Team Combined
-2026-02-07,ME_GOLD,24779,BATES Evan,M,USA,United States,Cross-Country Skiing,CCS,Women's 10km + 10km Skiathlon
-2026-02-08,ME_GOLD,24804,CHOCK Madison,F,USA,United States,Figure Skating,FSK,Team Event
-2026-02-08,ME_GOLD,24750,GLENN Amber,F,USA,United States,Figure Skating,FSK,Team Event
-2026-02-08,ME_GOLD,25476,JOHNSON Breezy,F,USA,United States,Figure Skating,FSK,Team Event
-2026-02-08,ME_GOLD,24770,KAM Ellie,F,USA,United States,Alpine Skiing,ALP,Women's Downhill
-2026-02-08,ME_GOLD,24749,LIU Alysa,F,USA,United States,Figure Skating,FSK,Team Event
-2026-02-08,ME_GOLD,24783,MALININ Ilia,M,USA,United States,Figure Skating,FSK,Team Event
-2026-02-08,ME_GOLD,24765,O'SHEA Danny,M,USA,United States,Figure Skating,FSK,Team Event
-2026-02-08,ME_GOLD,20284,FELLER Manuel,M,AUT,Austria,Figure Skating,FSK,Team Event
-2026-02-09,ME_SILVER,20306,KRIECHMAYR Vincent,M,AUT,Austria,Alpine Skiing,ALP,Men's Team Combined
-2026-02-09,ME_SILVER,18026,MUELLER Jonas,M,AUT,Austria,Alpine Skiing,ALP,Men's Team Combined
-2026-02-08,ME_SILVER,19255,PAYER Sabine,F,AUT,Austria,Luge,LUG,Men's Singles
-2026-02-08,ME_SILVER,40014,GU Ailing Eileen,F,CHN,China,Snowboard,SBD,Women's Parallel Giant Slalom
-2026-02-09,ME_SILVER,43365,JILEK Metodej,M,CZE,Czechia,Freestyle Skiing,FRS,Women's Freeski Slopestyle
-2026-02-08,ME_SILVER,45591,DESLOGES Mathis,M,FRA,France,Speed Skating,SSK,Men's 5000m
-2026-02-08,ME_SILVER,41302,AICHER Emma,F,GER,Germany,Cross-Country Skiing,CCS,Men's 10km + 10km Skiathlon
-2026-02-08,ME_SILVER,25998,FRANZONI Giovanni,M,ITA,Italy,Alpine Skiing,ALP,Women's Downhill
-2026-02-07,ME_SILVER,6490,GIACOMEL Tommaso,M,ITA,Italy,Alpine Skiing,ALP,Men's Downhill
-2026-02-08,ME_SILVER,6489,HOFER Lukas,M,ITA,Italy,Biathlon,BTH,Mixed Relay 4 x 6km (M+W)
-2026-02-08,ME_SILVER,22484,VITTOZZI Lisa,F,ITA,Italy,Biathlon,BTH,Mixed Relay 4 x 6km (M+W)
-2026-02-08,ME_SILVER,6486,WIERER Dorothea,F,ITA,Italy,Biathlon,BTH,Mixed Relay 4 x 6km (M+W)
-2026-02-08,ME_SILVER,46221,KAGIYAMA Yuma,M,JPN,Japan,Biathlon,BTH,Mixed Relay 4 x 6km (M+W)
-2026-02-08,ME_SILVER,46227,KIHARA Ryuichi,M,JPN,Japan,Figure Skating,FSK,Team Event
-2026-02-08,ME_SILVER,42838,KIMATA Ryoma,M,JPN,Japan,Figure Skating,FSK,Team Event
-2026-02-07,ME_SILVER,46240,MIURA Riku,F,JPN,Japan,Snowboard,SBD,Men's Snowboard Big Air
-2026-02-08,ME_SILVER,46246,MORITA Masaya,M,JPN,Japan,Figure Skating,FSK,Team Event
-2026-02-08,ME_SILVER,46263,SAKAMOTO Kaori,F,JPN,Japan,Figure Skating,FSK,Team Event
-2026-02-08,ME_SILVER,46265,SATO Shun,M,JPN,Japan,Figure Skating,FSK,Team Event
-2026-02-08,ME_SILVER,46298,YOSHIDA Utana,F,JPN,Japan,Figure Skating,FSK,Team Event
-2026-02-08,ME_SILVER,42165,KIM Sangkyum,M,KOR,Korea,Figure Skating,FSK,Team Event
-2026-02-08,ME_SILVER,51795,KOK Femke,F,NED,Netherlands,Snowboard,SBD,Men's Parallel Giant Slalom
-2026-02-09,ME_SILVER,42383,WIKLUND Ragne,F,NOR,Norway,Speed Skating,SSK,Women's 1000m
-2026-02-07,ME_SILVER,20898,SADOWSKI SYNNOTT Zoi,F,NZL,New Zealand,Speed Skating,SSK,Women's 3000m
-2026-02-09,ME_SILVER,18684,TOMASIAK Kacper,M,POL,Poland,Snowboard,SBD,Women's Snowboard Big Air
-2026-02-09,ME_SILVER,35642,PREVC Nika,F,SLO,Slovenia,Ski Jumping,SJP,Men's NH Individual
-2026-02-07,ME_SILVER,48571,MEILLARD Loic,M,SUI,Switzerland,Ski Jumping,SJP,Women's NH Individual
-2026-02-09,ME_SILVER,48607,ODERMATT Marco,M,SUI,Switzerland,Alpine Skiing,ALP,Men's Team Combined
-2026-02-09,ME_SILVER,30707,ANDERSSON Ebba,F,SWE,Sweden,Alpine Skiing,ALP,Men's Team Combined
-2026-02-07,ME_SILVER,19175,ZAMFIROV Tervel,M,BUL,Bulgaria,Cross-Country Skiing,CCS,Women's 10km + 10km Skiathlon
-2026-02-08,ME_BRONZE,44030,MALTAIS Valerie,F,CAN,Canada,Snowboard,SBD,Men's Parallel Giant Slalom
-2026-02-07,ME_BRONZE,53480,OLDHAM Megan,F,CAN,Canada,Speed Skating,SSK,Women's 3000m
-2026-02-09,ME_BRONZE,47418,SU Yiming,M,CHN,China,Freestyle Skiing,FRS,Women's Freeski Slopestyle
-2026-02-07,ME_BRONZE,41415,NAWRATH Philipp,M,GER,Germany,Snowboard,SBD,Men's Snowboard Big Air
-2026-02-08,ME_BRONZE,41425,PREUSS Franziska,F,GER,Germany,Biathlon,BTH,Mixed Relay 4 x 6km (M+W)
-2026-02-08,ME_BRONZE,41465,STRELOW Justus,M,GER,Germany,Biathlon,BTH,Mixed Relay 4 x 6km (M+W)
-2026-02-08,ME_BRONZE,41490,VOIGT Vanessa,F,GER,Germany,Biathlon,BTH,Mixed Relay 4 x 6km (M+W)
-2026-02-08,ME_BRONZE,40582,CONTI Sara,F,ITA,Italy,Biathlon,BTH,Mixed Relay 4 x 6km (M+W)
-2026-02-08,ME_BRONZE,22487,DALMASSO Lucia,F,ITA,Italy,Figure Skating,FSK,Team Event
-2026-02-08,ME_BRONZE,40570,FABBRI Marco,M,ITA,Italy,Snowboard,SBD,Women's Parallel Giant Slalom
-2026-02-08,ME_BRONZE,26535,FISCHNALLER Dominik,M,ITA,Italy,Figure Skating,FSK,Team Event
-2026-02-08,ME_BRONZE,6472,GOGGIA Sofia,F,ITA,Italy,Luge,LUG,Men's Singles
-2026-02-08,ME_BRONZE,26523,GRASSL Daniel,M,ITA,Italy,Alpine Skiing,ALP,Women's Downhill
-2026-02-08,ME_BRONZE,40569,GUIGNARD Charlene,F,ITA,Italy,Figure Skating,FSK,Team Event
-2026-02-08,ME_BRONZE,40594,GUTMANN Lara Naki,F,ITA,Italy,Figure Skating,FSK,Team Event
-2026-02-08,ME_BRONZE,22177,LORELLO Riccardo,M,ITA,Italy,Figure Skating,FSK,Team Event
-2026-02-08,ME_BRONZE,40583,MACII Niccolo,M,ITA,Italy,Speed Skating,SSK,Men's 5000m
-2026-02-08,ME_BRONZE,26002,PARIS Dominik,M,ITA,Italy,Figure Skating,FSK,Team Event
-2026-02-07,ME_BRONZE,40598,RIZZO Matteo,M,ITA,Italy,Alpine Skiing,ALP,Men's Downhill
-2026-02-08,ME_BRONZE,42754,MARUYAMA Nozomi,F,JPN,Japan,Figure Skating,FSK,Team Event
-2026-02-07,ME_BRONZE,42742,NIKAIDO Ren,M,JPN,Japan,Ski Jumping,SJP,Women's NH Individual
-2026-02-09,ME_BRONZE,36075,TAKAGI Miho,F,JPN,Japan,Ski Jumping,SJP,Men's NH Individual
-2026-02-09,ME_BRONZE,42181,YU Seungeun,F,KOR,Korea,Speed Skating,SSK,Women's 1000m
-2026-02-09,ME_BRONZE,42285,NYENGET Martin Loewstroem,M,NOR,Norway,Snowboard,SBD,Women's Snowboard Big Air
-2026-02-08,ME_BRONZE,42290,WENG Heidi,F,NOR,Norway,Cross-Country Skiing,CCS,Men's 10km + 10km Skiathlon
-2026-02-07,ME_BRONZE,48337,DESCHWANDEN Gregor,M,SUI,Switzerland,Cross-Country Skiing,CCS,Women's 10km + 10km Skiathlon
+2/7/2026,ME_GOLD,48729,von ALLMEN Franjo,M,SUI,Switzerland,Alpine Skiing,ALP,Men's Downhill
+2/7/2026,ME_GOLD,48729,von ALLMEN Franjo,M,SUI,Switzerland,Alpine Skiing,ALP,Men's Team Combined
+2/9/2026,ME_GOLD,19240,KARL Benjamin,M,AUT,Austria,Snowboard,SBD,Men's Parallel Giant Slalom
+2/8/2026,ME_GOLD,45479,MADEROVA Zuzana,F,CZE,Czechia,Snowboard,SBD,Women's Parallel Giant Slalom
+2/8/2026,ME_GOLD,46398,FILLON MAILLET Quentin,M,FRA,France,Biathlon,BTH,Mixed Relay 4 x 6km (M+W)
+2/8/2026,ME_GOLD,44685,JEANMONNOT Lou,F,FRA,France,Biathlon,BTH,Mixed Relay 4 x 6km (M+W)
+2/8/2026,ME_GOLD,44692,PERROT Eric,M,FRA,France,Biathlon,BTH,Mixed Relay 4 x 6km (M+W)
+2/8/2026,ME_GOLD,44694,SIMON Julia,F,FRA,France,Biathlon,BTH,Mixed Relay 4 x 6km (M+W)
+2/8/2026,ME_GOLD,20086,LANGENHAN Max,M,GER,Germany,Luge,LUG,Men's Singles
+2/8/2026,ME_GOLD,41427,RAIMUND Philipp,M,GER,Germany,Ski Jumping,SJP,Men's NH Individual
+2/9/2026,ME_GOLD,22165,LOLLOBRIGIDA Francesca,F,ITA,Italy,Speed Skating,SSK,Women's 3000m
+2/7/2026,ME_GOLD,42823,KIMURA Kira,M,JPN,Japan,Snowboard,SBD,Men's Snowboard Big Air
+2/7/2026,ME_GOLD,42835,MURASE Kokomo,F,JPN,Japan,Snowboard,SBD,Women's Snowboard Big Air
+2/9/2026,ME_GOLD,51847,LEERDAM Jutta,F,NED,Netherlands,Speed Skating,SSK,Women's 1000m
+2/9/2026,ME_GOLD,42377,EITREM Sander,M,NOR,Norway,Speed Skating,SSK,Men's 5000m
+2/8/2026,ME_GOLD,42284,KLAEBO Johannes Hoesflot,M,NOR,Norway,Cross-Country Skiing,CCS,Men's 10km + 10km Skiathlon
+2/8/2026,ME_GOLD,42353,STROEM Anna Odine,F,NOR,Norway,Ski Jumping,SJP,Women's NH Individual
+2/7/2026,ME_GOLD,48388,GREMAUD Mathilde,F,SUI,Switzerland,Freestyle Skiing,FRS,Women's Freeski Slopestyle
+2/9/2026,ME_GOLD,48602,NEF Tanguy,M,SUI,Switzerland,Alpine Skiing,ALP,Men's Team Combined
+2/9/2026,ME_GOLD,30739,KARLSSON Frida,F,SWE,Sweden,Cross-Country Skiing,CCS,Women's 10km + 10km Skiathlon
+2/7/2026,ME_GOLD,24779,BATES Evan,M,USA,United States,Figure Skating,FSK,Team Event
+2/8/2026,ME_GOLD,24804,CHOCK Madison,F,USA,United States,Figure Skating,FSK,Team Event
+2/8/2026,ME_GOLD,24750,GLENN Amber,F,USA,United States,Figure Skating,FSK,Team Event
+2/8/2026,ME_GOLD,25476,JOHNSON Breezy,F,USA,United States,Alpine Skiing,ALP,Women's Downhill
+2/8/2026,ME_GOLD,24770,KAM Ellie,F,USA,United States,Figure Skating,FSK,Team Event
+2/8/2026,ME_GOLD,24749,LIU Alysa,F,USA,United States,Figure Skating,FSK,Team Event
+2/8/2026,ME_GOLD,24783,MALININ Ilia,M,USA,United States,Figure Skating,FSK,Team Event
+2/8/2026,ME_GOLD,24765,O'SHEA Danny,M,USA,United States,Figure Skating,FSK,Team Event
+2/8/2026,ME_GOLD,20284,FELLER Manuel,M,AUT,Austria,Alpine Skiing,ALP,Men's Team Combined
+2/9/2026,ME_SILVER,20306,KRIECHMAYR Vincent,M,AUT,Austria,Alpine Skiing,ALP,Men's Team Combined
+2/9/2026,ME_SILVER,18026,MUELLER Jonas,M,AUT,Austria,Luge,LUG,Men's Singles
+2/8/2026,ME_SILVER,19255,PAYER Sabine,F,AUT,Austria,Snowboard,SBD,Women's Parallel Giant Slalom
+2/8/2026,ME_SILVER,40014,GU Ailing Eileen,F,CHN,China,Freestyle Skiing,FRS,Women's Freeski Slopestyle
+2/9/2026,ME_SILVER,43365,JILEK Metodej,M,CZE,Czechia,Speed Skating,SSK,Men's 5000m
+2/8/2026,ME_SILVER,45591,DESLOGES Mathis,M,FRA,France,Cross-Country Skiing,CCS,Men's 10km + 10km Skiathlon
+2/8/2026,ME_SILVER,41302,AICHER Emma,F,GER,Germany,Alpine Skiing,ALP,Women's Downhill
+2/8/2026,ME_SILVER,25998,FRANZONI Giovanni,M,ITA,Italy,Alpine Skiing,ALP,Men's Downhill
+2/7/2026,ME_SILVER,6490,GIACOMEL Tommaso,M,ITA,Italy,Biathlon,BTH,Mixed Relay 4 x 6km (M+W)
+2/8/2026,ME_SILVER,6489,HOFER Lukas,M,ITA,Italy,Biathlon,BTH,Mixed Relay 4 x 6km (M+W)
+2/8/2026,ME_SILVER,22484,VITTOZZI Lisa,F,ITA,Italy,Biathlon,BTH,Mixed Relay 4 x 6km (M+W)
+2/8/2026,ME_SILVER,6486,WIERER Dorothea,F,ITA,Italy,Biathlon,BTH,Mixed Relay 4 x 6km (M+W)
+2/8/2026,ME_SILVER,46221,KAGIYAMA Yuma,M,JPN,Japan,Figure Skating,FSK,Team Event
+2/8/2026,ME_SILVER,46227,KIHARA Ryuichi,M,JPN,Japan,Figure Skating,FSK,Team Event
+2/8/2026,ME_SILVER,42838,KIMATA Ryoma,M,JPN,Japan,Snowboard,SBD,Men's Snowboard Big Air
+2/7/2026,ME_SILVER,46240,MIURA Riku,F,JPN,Japan,Figure Skating,FSK,Team Event
+2/8/2026,ME_SILVER,46246,MORITA Masaya,M,JPN,Japan,Figure Skating,FSK,Team Event
+2/8/2026,ME_SILVER,46263,SAKAMOTO Kaori,F,JPN,Japan,Figure Skating,FSK,Team Event
+2/8/2026,ME_SILVER,46265,SATO Shun,M,JPN,Japan,Figure Skating,FSK,Team Event
+2/8/2026,ME_SILVER,46298,YOSHIDA Utana,F,JPN,Japan,Figure Skating,FSK,Team Event
+2/8/2026,ME_SILVER,42165,KIM Sangkyum,M,KOR,Korea,Snowboard,SBD,Men's Parallel Giant Slalom
+2/8/2026,ME_SILVER,51795,KOK Femke,F,NED,Netherlands,Speed Skating,SSK,Women's 1000m
+2/9/2026,ME_SILVER,42383,WIKLUND Ragne,F,NOR,Norway,Speed Skating,SSK,Women's 3000m
+2/7/2026,ME_SILVER,20898,SADOWSKI SYNNOTT Zoi,F,NZL,New Zealand,Snowboard,SBD,Women's Snowboard Big Air
+2/9/2026,ME_SILVER,18684,TOMASIAK Kacper,M,POL,Poland,Ski Jumping,SJP,Men's NH Individual
+2/9/2026,ME_SILVER,35642,PREVC Nika,F,SLO,Slovenia,Ski Jumping,SJP,Women's NH Individual
+2/7/2026,ME_SILVER,48571,MEILLARD Loic,M,SUI,Switzerland,Alpine Skiing,ALP,Men's Team Combined
+2/9/2026,ME_SILVER,48607,ODERMATT Marco,M,SUI,Switzerland,Alpine Skiing,ALP,Men's Team Combined
+2/9/2026,ME_SILVER,30707,ANDERSSON Ebba,F,SWE,Sweden,Cross-Country Skiing,CCS,Women's 10km + 10km Skiathlon
+2/7/2026,ME_SILVER,19175,ZAMFIROV Tervel,M,BUL,Bulgaria,Snowboard,SBD,Men's Parallel Giant Slalom
+2/8/2026,ME_BRONZE,44030,MALTAIS Valerie,F,CAN,Canada,Speed Skating,SSK,Women's 3000m
+2/7/2026,ME_BRONZE,53480,OLDHAM Megan,F,CAN,Canada,Freestyle Skiing,FRS,Women's Freeski Slopestyle
+2/9/2026,ME_BRONZE,47418,SU Yiming,M,CHN,China,Snowboard,SBD,Men's Snowboard Big Air
+2/7/2026,ME_BRONZE,41415,NAWRATH Philipp,M,GER,Germany,Biathlon,BTH,Mixed Relay 4 x 6km (M+W)
+2/8/2026,ME_BRONZE,41425,PREUSS Franziska,F,GER,Germany,Biathlon,BTH,Mixed Relay 4 x 6km (M+W)
+2/8/2026,ME_BRONZE,41465,STRELOW Justus,M,GER,Germany,Biathlon,BTH,Mixed Relay 4 x 6km (M+W)
+2/8/2026,ME_BRONZE,41490,VOIGT Vanessa,F,GER,Germany,Biathlon,BTH,Mixed Relay 4 x 6km (M+W)
+2/8/2026,ME_BRONZE,40582,CONTI Sara,F,ITA,Italy,Figure Skating,FSK,Team Event
+2/8/2026,ME_BRONZE,22487,DALMASSO Lucia,F,ITA,Italy,Snowboard,SBD,Women's Parallel Giant Slalom
+2/8/2026,ME_BRONZE,40570,FABBRI Marco,M,ITA,Italy,Figure Skating,FSK,Team Event
+2/8/2026,ME_BRONZE,26535,FISCHNALLER Dominik,M,ITA,Italy,Luge,LUG,Men's Singles
+2/8/2026,ME_BRONZE,6472,GOGGIA Sofia,F,ITA,Italy,Alpine Skiing,ALP,Women's Downhill
+2/8/2026,ME_BRONZE,26523,GRASSL Daniel,M,ITA,Italy,Figure Skating,FSK,Team Event
+2/8/2026,ME_BRONZE,40569,GUIGNARD Charlene,F,ITA,Italy,Figure Skating,FSK,Team Event
+2/8/2026,ME_BRONZE,40594,GUTMANN Lara Naki,F,ITA,Italy,Figure Skating,FSK,Team Event
+2/8/2026,ME_BRONZE,22177,LORELLO Riccardo,M,ITA,Italy,Speed Skating,SSK,Men's 5000m
+2/8/2026,ME_BRONZE,40583,MACII Niccolo,M,ITA,Italy,Figure Skating,FSK,Team Event
+2/8/2026,ME_BRONZE,26002,PARIS Dominik,M,ITA,Italy,Alpine Skiing,ALP,Men's Downhill
+2/7/2026,ME_BRONZE,40598,RIZZO Matteo,M,ITA,Italy,Figure Skating,FSK,Team Event
+2/8/2026,ME_BRONZE,42754,MARUYAMA Nozomi,F,JPN,Japan,Ski Jumping,SJP,Women's NH Individual
+2/7/2026,ME_BRONZE,42742,NIKAIDO Ren,M,JPN,Japan,Ski Jumping,SJP,Men's NH Individual
+2/9/2026,ME_BRONZE,36075,TAKAGI Miho,F,JPN,Japan,Speed Skating,SSK,Women's 1000m
+2/9/2026,ME_BRONZE,42181,YU Seungeun,F,KOR,Korea,Snowboard,SBD,Women's Snowboard Big Air
+2/9/2026,ME_BRONZE,42285,NYENGET Martin Loewstroem,M,NOR,Norway,Cross-Country Skiing,CCS,Men's 10km + 10km Skiathlon
+2/8/2026,ME_BRONZE,42290,WENG Heidi,F,NOR,Norway,Cross-Country Skiing,CCS,Women's 10km + 10km Skiathlon
+2/7/2026,ME_BRONZE,48337,DESCHWANDEN Gregor,M,SUI,Switzerland,Ski Jumping,SJP,Men's NH Individual
