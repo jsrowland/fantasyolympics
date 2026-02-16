@@ -1,0 +1,26 @@
+country,country_code,gold,silver,bronze,total,rank,rank_total
+Norway,NOR,12,7,7,26,1,1
+Italy,ITA,8,4,10,22,2,2
+United States,USA,5,8,4,17,3,3
+Netherlands,NED,5,5,1,11,4,8
+Sweden,SWE,5,5,1,11,4,8
+France,FRA,4,7,4,15,6,5
+Germany,GER,4,6,5,15,7,5
+Austria,AUT,4,6,3,13,8,7
+Switzerland,SUI,4,2,3,9,9,10
+Japan,JPN,3,5,9,17,10,3
+Australia,AUS,3,1,1,5,11,12
+Great Britain,GBR,3,0,0,3,12,17
+Czechia,CZE,2,2,0,4,13,14
+Slovenia,SLO,2,1,1,4,14,14
+Canada,CAN,1,3,5,9,15,10
+Korea,KOR,1,2,2,5,16,12
+Brazil,BRA,1,0,0,1,17,23
+Kazakhstan,KAZ,1,0,0,1,17,23
+China,CHN,0,2,2,4,19,14
+Poland,POL,0,2,1,3,20,17
+Latvia,LAT,0,1,1,2,21,20
+New Zealand,NZL,0,1,1,2,21,20
+Finland,FIN,0,0,3,3,23,17
+Bulgaria,BUL,0,0,2,2,24,20
+Belgium,BEL,0,0,1,1,25,23

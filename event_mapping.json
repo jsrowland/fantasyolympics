@@ -107,5 +107,9 @@
   "Bobsleigh|2-woman": "Sliding|Two-woman Bobsleigh",
   "Curling|Women": "Curling|Women's Curling",
   "Bobsleigh|4-man": "Sliding|Four-man Bobsleigh",
-  "Ice Hockey|Men": "Ice Hockey|Men's Ice Hockey"
+  "Ice Hockey|Men": "Ice Hockey|Men's Ice Hockey",
+  "Cross-Country Skiing|Women's Sprint Classic": "Endurance Snow|Women's Sprint Free",
+  "Cross-Country Skiing|Men's Sprint Classic": "Endurance Snow|Men's Sprint Free",
+  "Ski Jumping|Mixed Team": "Ski Jumping|Mixed Team Ski Jumping",
+  "Cross-Country Skiing|Men's 10km Interval Start Free": "Endurance Snow|Men's 10km Free"
 }

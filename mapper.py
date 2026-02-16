@@ -44,7 +44,7 @@ def run_mapper(mode):
     else:
         missing_data = load_json(EXCEPTIONS_FILE)
         if not missing_data: return print("✅ No missing events found.")
-        to_process = [{'discipline': i['discipline_x'], 'event': i['event_name']} for i in missing_data]
+        to_process = [{'discipline': i['discipline'], 'event': i['event_name']} for i in missing_data]
 
     # 4. Pass 1: Auto-Mapping (Exact Matches in pool)
     remaining = []

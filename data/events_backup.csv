@@ -1,0 +1,116 @@
+,idx,event,sport,discipline,is_team,is_prestige,base_score
+0,0,Men's Downhill,Alpine Skiing,Alpine Skiing,False,True,36.0
+1,1,Men's Slalom,Alpine Skiing,Alpine Skiing,False,False,12.0
+2,2,Men's Giant Slalom,Alpine Skiing,Alpine Skiing,False,False,12.0
+3,3,Men's Super-G,Alpine Skiing,Alpine Skiing,False,False,12.0
+4,4,Men's Alpine Combined,Alpine Skiing,Alpine Skiing,False,False,12.0
+5,5,Women's Downhill,Alpine Skiing,Alpine Skiing,False,True,36.0
+6,6,Women's Slalom,Alpine Skiing,Alpine Skiing,False,False,12.0
+7,7,Women's Giant Slalom,Alpine Skiing,Alpine Skiing,False,False,12.0
+8,8,Women's Super-G,Alpine Skiing,Alpine Skiing,False,False,12.0
+9,9,Women's Alpine Combined,Alpine Skiing,Alpine Skiing,False,False,12.0
+10,10,Men's 10km Sprint Biathlon,Biathlon,Biathlon,False,False,10.91
+11,11,Men's 12.5km Pursuit Biathlon,Biathlon,Biathlon,False,False,10.91
+12,12,Men's 20km Individual Biathlon,Biathlon,Biathlon,False,False,10.91
+13,13,Men's 15km Mass Start Biathlon,Biathlon,Biathlon,False,False,10.91
+14,14,Men's 4x7.5km Relay Biathlon,Biathlon,Biathlon,False,False,10.91
+15,15,Women's 7.5km Sprint Biathlon,Biathlon,Biathlon,False,False,10.91
+16,16,Women's 10km Pursuit Biathlon,Biathlon,Biathlon,False,False,10.91
+17,17,Women's 15km Individual Biathlon,Biathlon,Biathlon,False,False,10.91
+18,18,Women's 12.5km Mass Start Biathlon,Biathlon,Biathlon,False,False,10.91
+19,19,Women's 4x6km Relay Biathlon,Biathlon,Biathlon,False,False,10.91
+20,20,Mixed Relay Biathlon,Biathlon,Biathlon,False,False,10.91
+21,21,Men's 15km + 15km Skiathlon,Cross-Country Skiing,Endurance Snow,False,False,8.0
+22,22,Men's 15km Free,Cross-Country Skiing,Endurance Snow,False,False,8.0
+23,23,Men's 50km Mass Start,Cross-Country Skiing,Endurance Snow,False,False,8.0
+24,24,Men's 4x10km Relay,Cross-Country Skiing,Endurance Snow,False,False,8.0
+25,25,Men's Sprint Free,Cross-Country Skiing,Endurance Snow,False,False,8.0
+26,26,Men's Team Sprint,Cross-Country Skiing,Endurance Snow,False,False,8.0
+27,27,Women's 10km + 10km Skiathlon,Cross-Country Skiing,Endurance Snow,False,False,8.0
+28,28,Women's 10km Free,Cross-Country Skiing,Endurance Snow,False,False,8.0
+29,29,Women's 30km Mass Start,Cross-Country Skiing,Endurance Snow,False,False,8.0
+30,30,Women's 4x5km Relay,Cross-Country Skiing,Endurance Snow,False,False,8.0
+31,31,Women's Sprint Free,Cross-Country Skiing,Endurance Snow,False,False,8.0
+32,32,Women's Team Sprint,Cross-Country Skiing,Endurance Snow,False,False,8.0
+33,33,Men's Sprint SkiMo,Ski Mountaineering,Endurance Snow,False,False,8.0
+34,34,Women's Sprint SkiMo,Ski Mountaineering,Endurance Snow,False,False,8.0
+35,35,Mixed Relay SkiMo,Ski Mountaineering,Endurance Snow,False,False,8.0
+36,36,Two-man Bobsleigh,Bobsleigh,Sliding,False,False,10.0
+37,37,Four-man Bobsleigh,Bobsleigh,Sliding,False,True,30.0
+38,38,Women's Monobob,Bobsleigh,Sliding,False,False,10.0
+39,39,Two-woman Bobsleigh,Bobsleigh,Sliding,False,False,10.0
+40,40,Men's Singles Luge,Luge,Sliding,False,False,10.0
+41,41,Men's Doubles Luge,Luge,Sliding,False,False,10.0
+42,42,Women's Singles Luge,Luge,Sliding,False,False,10.0
+43,43,Women's Doubles Luge,Luge,Sliding,False,False,10.0
+44,44,Team Relay Luge,Luge,Sliding,False,False,10.0
+45,45,Men's Skeleton,Skeleton,Sliding,False,False,10.0
+46,46,Women's Skeleton,Skeleton,Sliding,False,False,10.0
+47,47,Mixed Team Skeleton,Skeleton,Sliding,False,False,10.0
+48,48,Men's 500m,Speed Skating,Speed Skating,False,True,25.71
+49,49,Men's 1000m,Speed Skating,Speed Skating,False,False,8.57
+50,50,Men's 1500m,Speed Skating,Speed Skating,False,False,8.57
+51,51,Men's 5000m,Speed Skating,Speed Skating,False,False,8.57
+52,52,"Men's 10,000m",Speed Skating,Speed Skating,False,False,8.57
+53,53,Men's Mass Start,Speed Skating,Speed Skating,False,False,8.57
+54,54,Men's Team Pursuit,Speed Skating,Speed Skating,False,False,8.57
+55,55,Women's 500m,Speed Skating,Speed Skating,False,True,25.71
+56,56,Women's 1000m,Speed Skating,Speed Skating,False,False,8.57
+57,57,Women's 1500m,Speed Skating,Speed Skating,False,False,8.57
+58,58,Women's 3000m,Speed Skating,Speed Skating,False,False,8.57
+59,59,Women's 5000m,Speed Skating,Speed Skating,False,False,8.57
+60,60,Women's Mass Start,Speed Skating,Speed Skating,False,False,8.57
+61,61,Women's Team Pursuit,Speed Skating,Speed Skating,False,False,8.57
+62,62,Men's Singles Figure Skating,Figure Skating,Figure Skating,False,True,45.0
+63,63,Women's Singles Figure Skating,Figure Skating,Figure Skating,False,True,45.0
+64,64,Pairs Figure Skating,Figure Skating,Figure Skating,False,False,15.0
+65,65,Ice Dance,Figure Skating,Figure Skating,False,False,15.0
+66,66,Team Event Figure Skating,Figure Skating,Figure Skating,False,False,15.0
+67,67,Men's 500m Short Track,Short Track Speed Skating,Short Track,False,False,13.33
+68,68,Men's 1000m Short Track,Short Track Speed Skating,Short Track,False,False,13.33
+69,69,Men's 1500m Short Track,Short Track Speed Skating,Short Track,False,False,13.33
+70,70,Men's 5000m Relay,Short Track Speed Skating,Short Track,False,False,13.33
+71,71,Women's 500m Short Track,Short Track Speed Skating,Short Track,False,False,13.33
+72,72,Women's 1000m Short Track,Short Track Speed Skating,Short Track,False,False,13.33
+73,73,Women's 1500m Short Track,Short Track Speed Skating,Short Track,False,False,13.33
+74,74,Women's 3000m Relay,Short Track Speed Skating,Short Track,False,False,13.33
+75,75,Mixed Team Relay Short Track,Short Track Speed Skating,Short Track,False,False,13.33
+76,76,Men's Normal Hill Ski Jumping,Ski Jumping,Ski Jumping,False,False,13.33
+77,77,Men's Large Hill Ski Jumping,Ski Jumping,Ski Jumping,False,False,13.33
+78,78,Mixed Team Ski Jumping,Ski Jumping,Ski Jumping,False,False,13.33
+79,79,Women's NH Individual,Ski Jumping,Ski Jumping,False,False,13.33
+80,80,Women's Large Hill Ski Jumping,Ski Jumping,Ski Jumping,False,False,13.33
+81,82,Men's Individual Normal Hill Nordic Combined,Nordic Combined,Ski Jumping,False,False,13.33
+82,83,Men's Individual Large Hill Nordic Combined,Nordic Combined,Ski Jumping,False,False,13.33
+83,84,Men's Team Sprint Large Hill Nordic Combined,Nordic Combined,Ski Jumping,False,False,13.33
+84,85,Men's Aerials,Freestyle Skiing,Freestyle Skiing,False,False,8.0
+85,86,Men's Moguls,Freestyle Skiing,Freestyle Skiing,False,False,8.0
+86,87,Men's Dual Moguls,Freestyle Skiing,Freestyle Skiing,False,False,8.0
+87,88,Men's Ski Cross,Freestyle Skiing,Freestyle Skiing,False,False,8.0
+88,89,Men's Slopestyle Freestyle,Freestyle Skiing,Freestyle Skiing,False,False,8.0
+89,90,Men's Halfpipe Freestyle,Freestyle Skiing,Freestyle Skiing,False,False,8.0
+90,91,Men's Big Air Freestyle,Freestyle Skiing,Freestyle Skiing,False,False,8.0
+91,92,Women's Aerials,Freestyle Skiing,Freestyle Skiing,False,False,8.0
+92,93,Women's Moguls,Freestyle Skiing,Freestyle Skiing,False,False,8.0
+93,94,Women's Dual Moguls,Freestyle Skiing,Freestyle Skiing,False,False,8.0
+94,95,Women's Ski Cross,Freestyle Skiing,Freestyle Skiing,False,False,8.0
+95,96,Women's Slopestyle Freestyle,Freestyle Skiing,Freestyle Skiing,False,False,8.0
+96,97,Women's Halfpipe Freestyle,Freestyle Skiing,Freestyle Skiing,False,False,8.0
+97,98,Women's Big Air Freestyle,Freestyle Skiing,Freestyle Skiing,False,False,8.0
+98,99,Mixed Team Aerials,Freestyle Skiing,Freestyle Skiing,False,False,8.0
+99,100,Men's Parallel Giant Slalom,Snowboarding,Snowboarding,False,False,10.91
+100,101,Men's Snowboard Cross,Snowboarding,Snowboarding,False,False,10.91
+101,102,Men's Slopestyle Snowboard,Snowboarding,Snowboarding,False,False,10.91
+102,103,Men's Halfpipe Snowboard,Snowboarding,Snowboarding,False,True,32.73
+103,104,Men's Snowboard Big Air,Snowboarding,Snowboarding,False,False,10.91
+104,105,Women's Parallel Giant Slalom,Snowboarding,Snowboarding,False,False,10.91
+105,106,Women's Snowboard Cross,Snowboarding,Snowboarding,False,False,10.91
+106,107,Women's Slopestyle Snowboard,Snowboarding,Snowboarding,False,False,10.91
+107,108,Women's Halfpipe Snowboard,Snowboarding,Snowboarding,False,True,32.73
+108,109,Women's Snowboard Big Air,Snowboarding,Snowboarding,False,False,10.91
+109,110,Mixed Team Snowboard Cross,Snowboarding,Snowboarding,True,False,43.64
+110,111,Men's Ice Hockey,Ice Hockey,Ice Hockey,True,False,60.0
+111,112,Women's Ice Hockey,Ice Hockey,Ice Hockey,True,False,60.0
+112,113,Men's Curling,Curling,Curling,False,True,45.0
+113,114,Women's Curling,Curling,Curling,False,True,45.0
+114,115,Mixed Doubles Curling,Curling,Curling,False,False,15.0

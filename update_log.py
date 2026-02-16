@@ -65,8 +65,7 @@ def update_log(data_dir):
     # 3. Check for missing
     missing_mask = results['event'].isna()
     if missing_mask.any():
-        missing_data = results.loc[missing_mask, ['discipline_x', 'event_name']].drop_duplicates().to_dict(orient='records')
-        missing_data = missing_data.to_dict(orient='records')
+        missing_data = results.loc[missing_mask, ['discipline', 'event_name']].drop_duplicates().to_dict(orient='records')
         with open(EXCEPTIONS_FILE, 'w') as f:
             json.dump(missing_data, f, indent=2)            
         print(f"⚠️  {len(missing_data)} unique events could not be mapped. See {EXCEPTIONS_FILE}")
@@ -78,13 +77,13 @@ def update_log(data_dir):
         if os.path.exists(EXCEPTIONS_FILE):
             os.remove(EXCEPTIONS_FILE)
 
-    results = results.merge(roster_df.drop(columns='country'), left_on='country', right_on='code')
+    results = results.merge(roster_df, left_on='country', right_on='country')
 
     # This is better for the news feed
     results['medal'] = results['medal'].replace({
-        "ME_GOLD": "Gold Medal",
-        "ME_SILVER": "Silver Medal",
-        "ME_BRONZE": "Bronze Medal"
+        "GOLD": "Gold Medal",
+        "SILVER": "Silver Medal",
+        "BRONZE": "Bronze Medal"
     })
  
     # Append calculated medal_points to each row
@@ -185,7 +184,7 @@ def update_log(data_dir):
 
     for _, row in sorted_results.iterrows():
         m_emoji = medal_emojis.get(row['medal'], '🏅')
-        f_emoji = get_flag(row['country']) # Assumes 'country' is 2-letter code like 'US'
+        f_emoji = get_flag(row['code']) # Assumes 'country' is 2-letter code like 'US'
         
         entry_text = (
             f"{m_emoji} {f_emoji} {row['winner_display']} "
@@ -213,8 +212,8 @@ def update_log(data_dir):
     # Merge with roster_df (and handle potential duplicate columns) to capture countries w/o medals
     final_table = roster_df.merge(
         medal_breakdown.reset_index(), 
-        left_on='code',
-        right_on='country', 
+        left_on='country',
+        right_on='country',
         how='left',
         suffixes=('', '_drop') # Use suffixes=(None, '_drop') so original columns stay as-is
     ).fillna(0)
@@ -264,6 +263,6 @@ if __name__ == "__main__":
         try:
             pull_data()
             print("✅ Data download complete.")
-            update_log('./data')
         except Exception as e:
             print(f"❌ Kaggle Pull Failed: {e}")
+        update_log('./data')

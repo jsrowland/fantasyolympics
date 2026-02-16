@@ -21,7 +21,7 @@ idx,event,sport,discipline,is_team,is_prestige,base_score
 19,Women's 4x6km Relay Biathlon,Biathlon,Biathlon,False,False,10.91
 20,Mixed Relay Biathlon,Biathlon,Biathlon,False,False,10.91
 21,Men's 15km + 15km Skiathlon,Cross-Country Skiing,Endurance Snow,False,False,8.0
-22,Men's 15km Free,Cross-Country Skiing,Endurance Snow,False,False,8.0
+22,Men's 10km Free,Cross-Country Skiing,Endurance Snow,False,False,8.0
 23,Men's 50km Mass Start,Cross-Country Skiing,Endurance Snow,False,False,8.0
 24,Men's 4x10km Relay,Cross-Country Skiing,Endurance Snow,False,False,8.0
 25,Men's Sprint Free,Cross-Country Skiing,Endurance Snow,False,False,8.0
@@ -77,10 +77,9 @@ idx,event,sport,discipline,is_team,is_prestige,base_score
 75,Mixed Team Relay Short Track,Short Track Speed Skating,Short Track,False,False,13.33
 76,Men's Normal Hill Ski Jumping,Ski Jumping,Ski Jumping,False,False,13.33
 77,Men's Large Hill Ski Jumping,Ski Jumping,Ski Jumping,False,False,13.33
-78,Men's Super Team Ski Jumping,Ski Jumping,Ski Jumping,False,False,13.33
+78,Mixed Team Ski Jumping,Ski Jumping,Ski Jumping,False,False,13.33
 79,Women's NH Individual,Ski Jumping,Ski Jumping,False,False,13.33
 80,Women's Large Hill Ski Jumping,Ski Jumping,Ski Jumping,False,False,13.33
-81,Women's Super Team Ski Jumping,Ski Jumping,Ski Jumping,False,False,13.33
 82,Men's Individual Normal Hill Nordic Combined,Nordic Combined,Ski Jumping,False,False,13.33
 83,Men's Individual Large Hill Nordic Combined,Nordic Combined,Ski Jumping,False,False,13.33
 84,Men's Team Sprint Large Hill Nordic Combined,Nordic Combined,Ski Jumping,False,False,13.33
