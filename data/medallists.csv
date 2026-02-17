@@ -39,10 +39,10 @@ date,medal_code,medal,code,name,gender,country_code,country,discipline,disciplin
 2026-02-08,1,GOLD,24749,LIU Alysa,F,USA,United States,Figure Skating,FSK,Team Event
 2026-02-08,1,GOLD,24783,MALININ Ilia,M,USA,United States,Figure Skating,FSK,Team Event
 2026-02-08,1,GOLD,24765,O'SHEA Danny,M,USA,United States,Figure Skating,FSK,Team Event
-2026-02-08,2,SILVER,46221,KAGIYAMA Yuma,M,JPN,Japan,Figure Skating,FSK,Team Event
-2026-02-08,2,SILVER,46265,SATO Shun,M,JPN,Japan,Figure Skating,FSK,Team Event
 2026-02-08,2,SILVER,46227,KIHARA Ryuichi,M,JPN,Japan,Figure Skating,FSK,Team Event
 2026-02-08,2,SILVER,46240,MIURA Riku,F,JPN,Japan,Figure Skating,FSK,Team Event
+2026-02-08,2,SILVER,46221,KAGIYAMA Yuma,M,JPN,Japan,Figure Skating,FSK,Team Event
+2026-02-08,2,SILVER,46265,SATO Shun,M,JPN,Japan,Figure Skating,FSK,Team Event
 2026-02-08,2,SILVER,46246,MORITA Masaya,M,JPN,Japan,Figure Skating,FSK,Team Event
 2026-02-08,2,SILVER,46263,SAKAMOTO Kaori,F,JPN,Japan,Figure Skating,FSK,Team Event
 2026-02-08,2,SILVER,46298,YOSHIDA Utana,F,JPN,Japan,Figure Skating,FSK,Team Event
@@ -67,8 +67,8 @@ date,medal_code,medal,code,name,gender,country_code,country,discipline,disciplin
 2026-02-08,3,BRONZE,22177,LORELLO Riccardo,M,ITA,Italy,Speed Skating,SSK,Men's 5000m
 2026-02-09,1,GOLD,48729,von ALLMEN Franjo,M,SUI,Switzerland,Alpine Skiing,ALP,Men's Team Combined
 2026-02-09,1,GOLD,48602,NEF Tanguy,M,SUI,Switzerland,Alpine Skiing,ALP,Men's Team Combined
-2026-02-09,2,SILVER,48607,ODERMATT Marco,M,SUI,Switzerland,Alpine Skiing,ALP,Men's Team Combined
 2026-02-09,2,SILVER,48571,MEILLARD Loic,M,SUI,Switzerland,Alpine Skiing,ALP,Men's Team Combined
+2026-02-09,2,SILVER,48607,ODERMATT Marco,M,SUI,Switzerland,Alpine Skiing,ALP,Men's Team Combined
 2026-02-09,2,SILVER,20284,FELLER Manuel,M,AUT,Austria,Alpine Skiing,ALP,Men's Team Combined
 2026-02-09,2,SILVER,20306,KRIECHMAYR Vincent,M,AUT,Austria,Alpine Skiing,ALP,Men's Team Combined
 2026-02-09,1,GOLD,48388,GREMAUD Mathilde,F,SUI,Switzerland,Freestyle Skiing,FRS,Women's Freeski Slopestyle
@@ -133,8 +133,8 @@ date,medal_code,medal,code,name,gender,country_code,country,discipline,disciplin
 2026-02-10,1,GOLD,35664,VODAN Nika,F,SLO,Slovenia,Ski Jumping,SJP,Mixed Team
 2026-02-10,2,SILVER,42353,STROEM Anna Odine,F,NOR,Norway,Ski Jumping,SJP,Mixed Team
 2026-02-10,2,SILVER,42354,KVANDAL Eirin Maria,F,NOR,Norway,Ski Jumping,SJP,Mixed Team
-2026-02-10,2,SILVER,42348,LINDVIK Marius,M,NOR,Norway,Ski Jumping,SJP,Mixed Team
 2026-02-10,2,SILVER,42347,SUNDAL Kristoffer Eriksen,M,NOR,Norway,Ski Jumping,SJP,Mixed Team
+2026-02-10,2,SILVER,42348,LINDVIK Marius,M,NOR,Norway,Ski Jumping,SJP,Mixed Team
 2026-02-10,3,BRONZE,42742,NIKAIDO Ren,M,JPN,Japan,Ski Jumping,SJP,Mixed Team
 2026-02-10,3,BRONZE,42754,MARUYAMA Nozomi,F,JPN,Japan,Ski Jumping,SJP,Mixed Team
 2026-02-10,3,BRONZE,42747,KOBAYASHI Ryoyu,M,JPN,Japan,Ski Jumping,SJP,Mixed Team
@@ -310,3 +310,27 @@ date,medal_code,medal,code,name,gender,country_code,country,discipline,disciplin
 2026-02-15,1,GOLD,51795,KOK Femke,F,NED,Netherlands,Speed Skating,SSK,Women's 500m
 2026-02-15,2,SILVER,51847,LEERDAM Jutta,F,NED,Netherlands,Speed Skating,SSK,Women's 500m
 2026-02-15,3,BRONZE,36075,TAKAGI Miho,F,JPN,Japan,Speed Skating,SSK,Women's 500m
+2026-02-16,1,GOLD,48571,MEILLARD Loic,M,SUI,Switzerland,Alpine Skiing,ALP,Men's Slalom
+2026-02-16,2,SILVER,20294,GSTREIN Fabio,M,AUT,Austria,Alpine Skiing,ALP,Men's Slalom
+2026-02-16,3,BRONZE,42227,KRISTOFFERSEN Henrik,M,NOR,Norway,Alpine Skiing,ALP,Men's Slalom
+2026-02-16,1,GOLD,23298,MEYERS TAYLOR Elana,F,USA,United States,Bobsleigh,BOB,Women's Monobob
+2026-02-16,2,SILVER,20106,NOLTE Laura,F,GER,Germany,Bobsleigh,BOB,Women's Monobob
+2026-02-16,3,BRONZE,23320,ARMBRUSTER HUMPHRIES Kaillie,F,USA,United States,Bobsleigh,BOB,Women's Monobob
+2026-02-16,1,GOLD,46227,KIHARA Ryuichi,M,JPN,Japan,Figure Skating,FSK,Pair Skating
+2026-02-16,1,GOLD,46240,MIURA Riku,F,JPN,Japan,Figure Skating,FSK,Pair Skating
+2026-02-16,2,SILVER,46702,BERULAVA Luka,M,GEO,Georgia,Figure Skating,FSK,Pair Skating
+2026-02-16,2,SILVER,52299,METELKINA Anastasiia,F,GEO,Georgia,Figure Skating,FSK,Pair Skating
+2026-02-16,3,BRONZE,18385,HASE Minerva Fabienne,F,GER,Germany,Figure Skating,FSK,Pair Skating
+2026-02-16,3,BRONZE,18402,VOLODIN Nikita,M,GER,Germany,Figure Skating,FSK,Pair Skating
+2026-02-16,1,GOLD,53480,OLDHAM Megan,F,CAN,Canada,Freestyle Skiing,FRS,Women's Freeski Big Air
+2026-02-16,2,SILVER,40014,GU Ailing Eileen,F,CHN,China,Freestyle Skiing,FRS,Women's Freeski Big Air
+2026-02-16,3,BRONZE,7871,TABANELLI Flora,F,ITA,Italy,Freestyle Skiing,FRS,Women's Freeski Big Air
+2026-02-16,1,GOLD,51708,VELZEBOER Xandra,F,NED,Netherlands,Short Track Speed Skating,STK,Women's 1000m
+2026-02-16,2,SILVER,48853,SARAULT Courtney,F,CAN,Canada,Short Track Speed Skating,STK,Women's 1000m
+2026-02-16,3,BRONZE,44450,KIM Gilli,F,KOR,Korea,Short Track Speed Skating,STK,Women's 1000m
+2026-02-16,1,GOLD,19956,EMBACHER Stephan,M,AUT,Austria,Ski Jumping,SJP,Men's Super Team
+2026-02-16,1,GOLD,19961,HOERL Jan,M,AUT,Austria,Ski Jumping,SJP,Men's Super Team
+2026-02-16,2,SILVER,18684,TOMASIAK Kacper,M,POL,Poland,Ski Jumping,SJP,Men's Super Team
+2026-02-16,2,SILVER,18677,WASEK Pawel,M,POL,Poland,Ski Jumping,SJP,Men's Super Team
+2026-02-16,3,BRONZE,42347,SUNDAL Kristoffer Eriksen,M,NOR,Norway,Ski Jumping,SJP,Men's Super Team
+2026-02-16,3,BRONZE,42346,FORFANG Johann Andre,M,NOR,Norway,Ski Jumping,SJP,Men's Super Team
