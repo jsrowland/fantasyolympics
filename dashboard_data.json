@@ -4,39 +4,39 @@
       "timestamp": "2026-02-07T00:00:00",
       "players": {
         "Grant": {
-          "medal_score": 0.0,
-          "pa_score": 0.0,
-          "norm_medal": 0.0,
-          "norm_pa": 0.0,
-          "daily_score": 0.0
+          "medal_score": 108.36,
+          "pa_score": 0.2953,
+          "norm_medal": 0.1411,
+          "norm_pa": 0.1924,
+          "daily_score": 18.21
         },
         "John": {
-          "medal_score": 42.85,
-          "pa_score": 0.0862,
-          "norm_medal": 0.0609,
-          "norm_pa": 0.0655,
-          "daily_score": 6.46
+          "medal_score": 17.14,
+          "pa_score": 0.0345,
+          "norm_medal": 0.0223,
+          "norm_pa": 0.0225,
+          "daily_score": 2.25
         },
         "Eric": {
-          "medal_score": 302.64,
-          "pa_score": 0.5027,
-          "norm_medal": 0.4298,
-          "norm_pa": 0.3819,
-          "daily_score": 39.15
+          "medal_score": 201.82,
+          "pa_score": 0.3352,
+          "norm_medal": 0.2628,
+          "norm_pa": 0.2184,
+          "daily_score": 22.73
         },
         "Meredith": {
-          "medal_score": 180.0,
-          "pa_score": 0.3315,
-          "norm_medal": 0.2556,
-          "norm_pa": 0.2518,
-          "daily_score": 25.26
+          "medal_score": 286.85,
+          "pa_score": 0.5283,
+          "norm_medal": 0.3735,
+          "norm_pa": 0.3443,
+          "daily_score": 35.01
         },
         "Kalida": {
-          "medal_score": 178.61,
-          "pa_score": 0.396,
-          "norm_medal": 0.2537,
-          "norm_pa": 0.3008,
-          "daily_score": 29.14
+          "medal_score": 153.93,
+          "pa_score": 0.3413,
+          "norm_medal": 0.2004,
+          "norm_pa": 0.2224,
+          "daily_score": 21.8
         }
       }
     },
@@ -44,39 +44,39 @@
       "timestamp": "2026-02-08T00:00:00",
       "players": {
         "Grant": {
-          "medal_score": 203.85,
-          "pa_score": 0.5554,
-          "norm_medal": 0.1125,
-          "norm_pa": 0.1512,
-          "daily_score": 14.35
+          "medal_score": 324.49,
+          "pa_score": 0.8842,
+          "norm_medal": 0.2035,
+          "norm_pa": 0.2639,
+          "daily_score": 25.18
         },
         "John": {
-          "medal_score": 244.48,
-          "pa_score": 0.4919,
-          "norm_medal": 0.135,
-          "norm_pa": 0.1339,
-          "daily_score": 13.41
+          "medal_score": 128.42,
+          "pa_score": 0.2584,
+          "norm_medal": 0.0806,
+          "norm_pa": 0.0771,
+          "daily_score": 7.78
         },
         "Eric": {
-          "medal_score": 335.37,
-          "pa_score": 0.5571,
-          "norm_medal": 0.1852,
-          "norm_pa": 0.1517,
-          "daily_score": 15.84
+          "medal_score": 201.82,
+          "pa_score": 0.3352,
+          "norm_medal": 0.1266,
+          "norm_pa": 0.1,
+          "daily_score": 10.53
         },
         "Meredith": {
-          "medal_score": 558.06,
-          "pa_score": 1.0277,
-          "norm_medal": 0.3081,
-          "norm_pa": 0.2798,
-          "daily_score": 28.55
+          "medal_score": 560.8,
+          "pa_score": 1.0328,
+          "norm_medal": 0.3518,
+          "norm_pa": 0.3083,
+          "daily_score": 31.7
         },
         "Kalida": {
-          "medal_score": 469.44,
-          "pa_score": 1.0409,
-          "norm_medal": 0.2592,
-          "norm_pa": 0.2834,
-          "daily_score": 27.86
+          "medal_score": 378.75,
+          "pa_score": 0.8398,
+          "norm_medal": 0.2376,
+          "norm_pa": 0.2507,
+          "daily_score": 24.81
         }
       }
     },
@@ -84,39 +84,439 @@
       "timestamp": "2026-02-09T00:00:00",
       "players": {
         "Grant": {
-          "medal_score": 390.23,
-          "pa_score": 1.0633,
-          "norm_medal": 0.1595,
-          "norm_pa": 0.2112,
-          "daily_score": 20.09
+          "medal_score": 360.49,
+          "pa_score": 0.9823,
+          "norm_medal": 0.1668,
+          "norm_pa": 0.219,
+          "daily_score": 20.86
         },
         "John": {
-          "medal_score": 261.62,
-          "pa_score": 0.5264,
-          "norm_medal": 0.1069,
-          "norm_pa": 0.1045,
-          "daily_score": 10.5
+          "medal_score": 198.97,
+          "pa_score": 0.4003,
+          "norm_medal": 0.0921,
+          "norm_pa": 0.0893,
+          "daily_score": 8.99
         },
         "Eric": {
-          "medal_score": 460.1,
-          "pa_score": 0.7643,
-          "norm_medal": 0.188,
-          "norm_pa": 0.1518,
-          "daily_score": 15.9
+          "medal_score": 428.47,
+          "pa_score": 0.7117,
+          "norm_medal": 0.1983,
+          "norm_pa": 0.1587,
+          "daily_score": 16.66
         },
         "Meredith": {
-          "medal_score": 744.71,
-          "pa_score": 1.3715,
-          "norm_medal": 0.3043,
-          "norm_pa": 0.2724,
-          "daily_score": 27.88
+          "medal_score": 560.8,
+          "pa_score": 1.0328,
+          "norm_medal": 0.2595,
+          "norm_pa": 0.2303,
+          "daily_score": 23.61
         },
         "Kalida": {
-          "medal_score": 590.64,
-          "pa_score": 1.3096,
-          "norm_medal": 0.2413,
-          "norm_pa": 0.2601,
-          "daily_score": 25.63
+          "medal_score": 612.31,
+          "pa_score": 1.3577,
+          "norm_medal": 0.2833,
+          "norm_pa": 0.3027,
+          "daily_score": 29.88
+        }
+      }
+    },
+    {
+      "timestamp": "2026-02-10T00:00:00",
+      "players": {
+        "Grant": {
+          "medal_score": 662.85,
+          "pa_score": 1.8061,
+          "norm_medal": 0.2202,
+          "norm_pa": 0.2819,
+          "daily_score": 26.96
+        },
+        "John": {
+          "medal_score": 287.69,
+          "pa_score": 0.5789,
+          "norm_medal": 0.0956,
+          "norm_pa": 0.0904,
+          "daily_score": 9.14
+        },
+        "Eric": {
+          "medal_score": 428.47,
+          "pa_score": 0.7117,
+          "norm_medal": 0.1424,
+          "norm_pa": 0.1111,
+          "daily_score": 11.74
+        },
+        "Meredith": {
+          "medal_score": 812.45,
+          "pa_score": 1.4962,
+          "norm_medal": 0.2699,
+          "norm_pa": 0.2335,
+          "daily_score": 24.08
+        },
+        "Kalida": {
+          "medal_score": 818.28,
+          "pa_score": 1.8144,
+          "norm_medal": 0.2719,
+          "norm_pa": 0.2832,
+          "daily_score": 28.09
+        }
+      }
+    },
+    {
+      "timestamp": "2026-02-11T00:00:00",
+      "players": {
+        "Grant": {
+          "medal_score": 819.49,
+          "pa_score": 2.2329,
+          "norm_medal": 0.2228,
+          "norm_pa": 0.2856,
+          "daily_score": 27.3
+        },
+        "John": {
+          "medal_score": 495.97,
+          "pa_score": 0.9979,
+          "norm_medal": 0.1348,
+          "norm_pa": 0.1277,
+          "daily_score": 12.91
+        },
+        "Eric": {
+          "medal_score": 556.27,
+          "pa_score": 0.924,
+          "norm_medal": 0.1512,
+          "norm_pa": 0.1182,
+          "daily_score": 12.48
+        },
+        "Meredith": {
+          "medal_score": 912.45,
+          "pa_score": 1.6804,
+          "norm_medal": 0.2481,
+          "norm_pa": 0.215,
+          "daily_score": 22.16
+        },
+        "Kalida": {
+          "medal_score": 893.99,
+          "pa_score": 1.9822,
+          "norm_medal": 0.2431,
+          "norm_pa": 0.2536,
+          "daily_score": 25.15
+        }
+      }
+    },
+    {
+      "timestamp": "2026-02-12T00:00:00",
+      "players": {
+        "Grant": {
+          "medal_score": 967.0,
+          "pa_score": 2.6349,
+          "norm_medal": 0.2043,
+          "norm_pa": 0.2623,
+          "daily_score": 25.07
+        },
+        "John": {
+          "medal_score": 805.67,
+          "pa_score": 1.6211,
+          "norm_medal": 0.1702,
+          "norm_pa": 0.1614,
+          "daily_score": 16.32
+        },
+        "Eric": {
+          "medal_score": 596.26,
+          "pa_score": 0.9905,
+          "norm_medal": 0.126,
+          "norm_pa": 0.0986,
+          "daily_score": 10.41
+        },
+        "Meredith": {
+          "medal_score": 1179.29,
+          "pa_score": 2.1718,
+          "norm_medal": 0.2492,
+          "norm_pa": 0.2162,
+          "daily_score": 22.28
+        },
+        "Kalida": {
+          "medal_score": 1184.46,
+          "pa_score": 2.6263,
+          "norm_medal": 0.2503,
+          "norm_pa": 0.2615,
+          "daily_score": 25.93
+        }
+      }
+    },
+    {
+      "timestamp": "2026-02-13T00:00:00",
+      "players": {
+        "Grant": {
+          "medal_score": 1302.55,
+          "pa_score": 3.5492,
+          "norm_medal": 0.2173,
+          "norm_pa": 0.2758,
+          "daily_score": 26.41
+        },
+        "John": {
+          "medal_score": 884.22,
+          "pa_score": 1.7791,
+          "norm_medal": 0.1475,
+          "norm_pa": 0.1383,
+          "daily_score": 14.01
+        },
+        "Eric": {
+          "medal_score": 621.97,
+          "pa_score": 1.0332,
+          "norm_medal": 0.1038,
+          "norm_pa": 0.0803,
+          "daily_score": 8.5
+        },
+        "Meredith": {
+          "medal_score": 1479.43,
+          "pa_score": 2.7245,
+          "norm_medal": 0.2468,
+          "norm_pa": 0.2117,
+          "daily_score": 21.87
+        },
+        "Kalida": {
+          "medal_score": 1705.71,
+          "pa_score": 3.7821,
+          "norm_medal": 0.2846,
+          "norm_pa": 0.2939,
+          "daily_score": 29.2
+        }
+      }
+    },
+    {
+      "timestamp": "2026-02-14T00:00:00",
+      "players": {
+        "Grant": {
+          "medal_score": 1473.76,
+          "pa_score": 4.0157,
+          "norm_medal": 0.2198,
+          "norm_pa": 0.2784,
+          "daily_score": 26.67
+        },
+        "John": {
+          "medal_score": 1090.18,
+          "pa_score": 2.1935,
+          "norm_medal": 0.1626,
+          "norm_pa": 0.1521,
+          "daily_score": 15.42
+        },
+        "Eric": {
+          "medal_score": 697.97,
+          "pa_score": 1.1594,
+          "norm_medal": 0.1041,
+          "norm_pa": 0.0804,
+          "daily_score": 8.51
+        },
+        "Meredith": {
+          "medal_score": 1543.43,
+          "pa_score": 2.8424,
+          "norm_medal": 0.2302,
+          "norm_pa": 0.1971,
+          "daily_score": 20.37
+        },
+        "Kalida": {
+          "medal_score": 1899.49,
+          "pa_score": 4.2117,
+          "norm_medal": 0.2833,
+          "norm_pa": 0.292,
+          "daily_score": 29.03
+        }
+      }
+    },
+    {
+      "timestamp": "2026-02-15T00:00:00",
+      "players": {
+        "Grant": {
+          "medal_score": 1736.41,
+          "pa_score": 4.7314,
+          "norm_medal": 0.2125,
+          "norm_pa": 0.2701,
+          "daily_score": 25.86
+        },
+        "John": {
+          "medal_score": 1272.01,
+          "pa_score": 2.5594,
+          "norm_medal": 0.1557,
+          "norm_pa": 0.1461,
+          "daily_score": 14.8
+        },
+        "Eric": {
+          "medal_score": 719.79,
+          "pa_score": 1.1957,
+          "norm_medal": 0.0881,
+          "norm_pa": 0.0683,
+          "daily_score": 7.23
+        },
+        "Meredith": {
+          "medal_score": 2185.47,
+          "pa_score": 4.0248,
+          "norm_medal": 0.2675,
+          "norm_pa": 0.2298,
+          "daily_score": 23.73
+        },
+        "Kalida": {
+          "medal_score": 2257.25,
+          "pa_score": 5.005,
+          "norm_medal": 0.2763,
+          "norm_pa": 0.2857,
+          "daily_score": 28.38
+        }
+      }
+    },
+    {
+      "timestamp": "2026-02-16T00:00:00",
+      "players": {
+        "Grant": {
+          "medal_score": 1889.72,
+          "pa_score": 5.1491,
+          "norm_medal": 0.2154,
+          "norm_pa": 0.2734,
+          "daily_score": 26.18
+        },
+        "John": {
+          "medal_score": 1378.66,
+          "pa_score": 2.774,
+          "norm_medal": 0.1572,
+          "norm_pa": 0.1473,
+          "daily_score": 14.93
+        },
+        "Eric": {
+          "medal_score": 843.78,
+          "pa_score": 1.4016,
+          "norm_medal": 0.0962,
+          "norm_pa": 0.0744,
+          "daily_score": 7.88
+        },
+        "Meredith": {
+          "medal_score": 2201.47,
+          "pa_score": 4.0543,
+          "norm_medal": 0.251,
+          "norm_pa": 0.2153,
+          "daily_score": 22.24
+        },
+        "Kalida": {
+          "medal_score": 2458.9,
+          "pa_score": 5.4521,
+          "norm_medal": 0.2803,
+          "norm_pa": 0.2895,
+          "daily_score": 28.77
+        }
+      }
+    },
+    {
+      "timestamp": "2026-02-17T00:00:00",
+      "players": {
+        "Grant": {
+          "medal_score": 1969.72,
+          "pa_score": 5.3671,
+          "norm_medal": 0.2152,
+          "norm_pa": 0.2729,
+          "daily_score": 26.14
+        },
+        "John": {
+          "medal_score": 1461.51,
+          "pa_score": 2.9407,
+          "norm_medal": 0.1597,
+          "norm_pa": 0.1495,
+          "daily_score": 15.15
+        },
+        "Eric": {
+          "medal_score": 860.92,
+          "pa_score": 1.4301,
+          "norm_medal": 0.094,
+          "norm_pa": 0.0727,
+          "daily_score": 7.7
+        },
+        "Meredith": {
+          "medal_score": 2260.32,
+          "pa_score": 4.1627,
+          "norm_medal": 0.2469,
+          "norm_pa": 0.2116,
+          "daily_score": 21.87
+        },
+        "Kalida": {
+          "medal_score": 2601.75,
+          "pa_score": 5.7688,
+          "norm_medal": 0.2842,
+          "norm_pa": 0.2933,
+          "daily_score": 29.15
+        }
+      }
+    },
+    {
+      "timestamp": "2026-02-18T00:00:00",
+      "players": {
+        "Grant": {
+          "medal_score": 2031.54,
+          "pa_score": 5.5355,
+          "norm_medal": 0.2031,
+          "norm_pa": 0.259,
+          "daily_score": 24.78
+        },
+        "John": {
+          "medal_score": 1708.75,
+          "pa_score": 3.4381,
+          "norm_medal": 0.1708,
+          "norm_pa": 0.1609,
+          "daily_score": 16.29
+        },
+        "Eric": {
+          "medal_score": 1031.47,
+          "pa_score": 1.7134,
+          "norm_medal": 0.1031,
+          "norm_pa": 0.0802,
+          "daily_score": 8.48
+        },
+        "Meredith": {
+          "medal_score": 2437.04,
+          "pa_score": 4.4881,
+          "norm_medal": 0.2436,
+          "norm_pa": 0.21,
+          "daily_score": 21.67
+        },
+        "Kalida": {
+          "medal_score": 2793.5,
+          "pa_score": 6.194,
+          "norm_medal": 0.2793,
+          "norm_pa": 0.2899,
+          "daily_score": 28.78
+        }
+      }
+    },
+    {
+      "timestamp": "2026-02-19T00:00:00",
+      "players": {
+        "Grant": {
+          "medal_score": 2124.85,
+          "pa_score": 5.7898,
+          "norm_medal": 0.1957,
+          "norm_pa": 0.2503,
+          "daily_score": 23.94
+        },
+        "John": {
+          "medal_score": 1928.75,
+          "pa_score": 3.8808,
+          "norm_medal": 0.1777,
+          "norm_pa": 0.1678,
+          "daily_score": 16.98
+        },
+        "Eric": {
+          "medal_score": 1274.31,
+          "pa_score": 2.1168,
+          "norm_medal": 0.1174,
+          "norm_pa": 0.0915,
+          "daily_score": 9.67
+        },
+        "Meredith": {
+          "medal_score": 2437.04,
+          "pa_score": 4.4881,
+          "norm_medal": 0.2245,
+          "norm_pa": 0.194,
+          "daily_score": 20.01
+        },
+        "Kalida": {
+          "medal_score": 3091.64,
+          "pa_score": 6.8551,
+          "norm_medal": 0.2848,
+          "norm_pa": 0.2964,
+          "daily_score": 29.41
         }
       }
     }
@@ -129,11 +529,11 @@
       "draft_pick": 1,
       "draft_round": 1,
       "athletes": 80,
-      "golds": 3.0,
-      "silvers": 1.0,
-      "bronzes": 2.0,
-      "medal_points": 189.23000000000002,
-      "pa_score": 2.37
+      "golds": 15.0,
+      "silvers": 8.0,
+      "bronzes": 10.0,
+      "medal_points": 1214.24,
+      "pa_score": 15.18
     },
     {
       "country": "Canada",
@@ -142,11 +542,11 @@
       "draft_pick": 2,
       "draft_round": 1,
       "athletes": 211,
-      "golds": 0.0,
-      "silvers": 0.0,
-      "bronzes": 2.0,
-      "medal_points": 38.96,
-      "pa_score": 0.18
+      "golds": 4.0,
+      "silvers": 5.0,
+      "bronzes": 6.0,
+      "medal_points": 674.09,
+      "pa_score": 3.19
     },
     {
       "country": "Finland",
@@ -156,10 +556,10 @@
       "draft_round": 1,
       "athletes": 103,
       "golds": 0.0,
-      "silvers": 0.0,
-      "bronzes": 0.0,
-      "medal_points": 0.0,
-      "pa_score": 0.0
+      "silvers": 1.0,
+      "bronzes": 3.0,
+      "medal_points": 104.47,
+      "pa_score": 1.01
     },
     {
       "country": "Sweden",
@@ -168,11 +568,11 @@
       "draft_pick": 4,
       "draft_round": 1,
       "athletes": 110,
-      "golds": 1.0,
-      "silvers": 1.0,
-      "bronzes": 0.0,
-      "medal_points": 96.0,
-      "pa_score": 0.87
+      "golds": 6.0,
+      "silvers": 6.0,
+      "bronzes": 3.0,
+      "medal_points": 510.28,
+      "pa_score": 4.64
     },
     {
       "country": "Germany",
@@ -181,11 +581,11 @@
       "draft_pick": 5,
       "draft_round": 1,
       "athletes": 189,
-      "golds": 2.0,
-      "silvers": 1.0,
-      "bronzes": 2.0,
-      "medal_points": 172.19,
-      "pa_score": 0.91
+      "golds": 5.0,
+      "silvers": 8.0,
+      "bronzes": 8.0,
+      "medal_points": 758.47,
+      "pa_score": 4.01
     },
     {
       "country": "Netherlands",
@@ -194,11 +594,11 @@
       "draft_pick": 6,
       "draft_round": 2,
       "athletes": 39,
-      "golds": 1.0,
-      "silvers": 1.0,
-      "bronzes": 0.0,
-      "medal_points": 87.28,
-      "pa_score": 2.24
+      "golds": 6.0,
+      "silvers": 7.0,
+      "bronzes": 3.0,
+      "medal_points": 796.03,
+      "pa_score": 20.41
     },
     {
       "country": "Italy",
@@ -207,11 +607,11 @@
       "draft_pick": 7,
       "draft_round": 2,
       "athletes": 195,
-      "golds": 1.0,
-      "silvers": 3.0,
-      "bronzes": 7.0,
-      "medal_points": 570.16,
-      "pa_score": 2.92
+      "golds": 9.0,
+      "silvers": 5.0,
+      "bronzes": 12.0,
+      "medal_points": 1179.98,
+      "pa_score": 6.05
     },
     {
       "country": "Switzerland",
@@ -220,24 +620,24 @@
       "draft_pick": 8,
       "draft_round": 2,
       "athletes": 175,
-      "golds": 3.0,
-      "silvers": 2.0,
-      "bronzes": 1.0,
-      "medal_points": 378.64,
-      "pa_score": 2.16
+      "golds": 6.0,
+      "silvers": 4.0,
+      "bronzes": 4.0,
+      "medal_points": 766.66,
+      "pa_score": 4.38
     },
     {
-      "country": "South Korea",
+      "country": "Korea",
       "code": "KOR",
       "owner": "John",
       "draft_pick": 9,
       "draft_round": 2,
       "athletes": 73,
-      "golds": 0.0,
-      "silvers": 1.0,
-      "bronzes": 1.0,
-      "medal_points": 62.14,
-      "pa_score": 0.85
+      "golds": 2.0,
+      "silvers": 2.0,
+      "bronzes": 3.0,
+      "medal_points": 378.15999999999997,
+      "pa_score": 5.18
     },
     {
       "country": "Latvia",
@@ -247,10 +647,10 @@
       "draft_round": 2,
       "athletes": 68,
       "golds": 0.0,
-      "silvers": 0.0,
-      "bronzes": 0.0,
-      "medal_points": 0.0,
-      "pa_score": 0.0
+      "silvers": 1.0,
+      "bronzes": 1.0,
+      "medal_points": 56.66,
+      "pa_score": 0.83
     },
     {
       "country": "Austria",
@@ -259,11 +659,11 @@
       "draft_pick": 11,
       "draft_round": 3,
       "athletes": 117,
-      "golds": 2.0,
-      "silvers": 2.0,
-      "bronzes": 0.0,
-      "medal_points": 201.0,
-      "pa_score": 1.72
+      "golds": 5.0,
+      "silvers": 7.0,
+      "bronzes": 5.0,
+      "medal_points": 628.95,
+      "pa_score": 5.38
     },
     {
       "country": "France",
@@ -272,11 +672,11 @@
       "draft_pick": 12,
       "draft_round": 3,
       "athletes": 162,
-      "golds": 2.0,
-      "silvers": 1.0,
-      "bronzes": 0.0,
-      "medal_points": 134.81,
-      "pa_score": 0.83
+      "golds": 6.0,
+      "silvers": 8.0,
+      "bronzes": 5.0,
+      "medal_points": 735.04,
+      "pa_score": 4.54
     },
     {
       "country": "China",
@@ -285,24 +685,24 @@
       "draft_pick": 13,
       "draft_round": 3,
       "athletes": 126,
-      "golds": 0.0,
-      "silvers": 1.0,
-      "bronzes": 1.0,
-      "medal_points": 48.73,
-      "pa_score": 0.39
+      "golds": 3.0,
+      "silvers": 3.0,
+      "bronzes": 4.0,
+      "medal_points": 297.49,
+      "pa_score": 2.36
     },
     {
-      "country": "Czech Republic",
+      "country": "Czechia",
       "code": "CZE",
       "owner": "Meredith",
       "draft_pick": 14,
       "draft_round": 3,
       "athletes": 114,
-      "golds": 1.0,
-      "silvers": 1.0,
+      "golds": 2.0,
+      "silvers": 2.0,
       "bronzes": 0.0,
-      "medal_points": 78.55,
-      "pa_score": 0.69
+      "medal_points": 155.84,
+      "pa_score": 1.37
     },
     {
       "country": "Japan",
@@ -311,11 +711,11 @@
       "draft_pick": 15,
       "draft_round": 3,
       "athletes": 121,
-      "golds": 2.0,
-      "silvers": 3.0,
-      "bronzes": 3.0,
-      "medal_points": 291.18,
-      "pa_score": 2.41
+      "golds": 5.0,
+      "silvers": 6.0,
+      "bronzes": 12.0,
+      "medal_points": 1321.18,
+      "pa_score": 10.92
     },
     {
       "country": "Slovenia",
@@ -324,11 +724,11 @@
       "draft_pick": 16,
       "draft_round": 4,
       "athletes": 37,
-      "golds": 0.0,
+      "golds": 1.0,
       "silvers": 1.0,
-      "bronzes": 0.0,
-      "medal_points": 39.99,
-      "pa_score": 1.08
+      "bronzes": 1.0,
+      "medal_points": 133.3,
+      "pa_score": 3.6
     },
     {
       "country": "Great Britain",
@@ -337,11 +737,11 @@
       "draft_pick": 17,
       "draft_round": 4,
       "athletes": 55,
-      "golds": 0.0,
+      "golds": 3.0,
       "silvers": 0.0,
       "bronzes": 0.0,
-      "medal_points": 0.0,
-      "pa_score": 0.0
+      "medal_points": 318.2,
+      "pa_score": 5.79
     },
     {
       "country": "Poland",
@@ -351,10 +751,10 @@
       "draft_round": 4,
       "athletes": 60,
       "golds": 0.0,
-      "silvers": 1.0,
+      "silvers": 3.0,
       "bronzes": 0.0,
-      "medal_points": 32.73,
-      "pa_score": 0.55
+      "medal_points": 105.69,
+      "pa_score": 1.76
     },
     {
       "country": "New Zealand",
@@ -364,10 +764,10 @@
       "draft_round": 4,
       "athletes": 17,
       "golds": 0.0,
-      "silvers": 1.0,
-      "bronzes": 0.0,
-      "medal_points": 25.71,
-      "pa_score": 1.51
+      "silvers": 2.0,
+      "bronzes": 1.0,
+      "medal_points": 81.46,
+      "pa_score": 4.79
     },
     {
       "country": "Individual Neutral Athletes",
@@ -428,11 +828,11 @@
       "draft_pick": 24,
       "draft_round": 5,
       "athletes": 54,
-      "golds": 0.0,
-      "silvers": 0.0,
-      "bronzes": 0.0,
-      "medal_points": 0.0,
-      "pa_score": 0.0
+      "golds": 3.0,
+      "silvers": 2.0,
+      "bronzes": 1.0,
+      "medal_points": 272.74,
+      "pa_score": 5.05
     },
     {
       "country": "Hungary",
@@ -456,9 +856,9 @@
       "athletes": 30,
       "golds": 0.0,
       "silvers": 0.0,
-      "bronzes": 0.0,
-      "medal_points": 0.0,
-      "pa_score": 0.0
+      "bronzes": 1.0,
+      "medal_points": 26.66,
+      "pa_score": 0.89
     },
     {
       "country": "Liechtenstein",
@@ -493,11 +893,11 @@
       "draft_pick": 29,
       "draft_round": 6,
       "athletes": 15,
-      "golds": 0.0,
+      "golds": 1.0,
       "silvers": 0.0,
       "bronzes": 0.0,
-      "medal_points": 0.0,
-      "pa_score": 0.0
+      "medal_points": 60.0,
+      "pa_score": 4.0
     },
     {
       "country": "Kazakhstan",
@@ -506,11 +906,11 @@
       "draft_pick": 30,
       "draft_round": 6,
       "athletes": 36,
-      "golds": 0.0,
+      "golds": 1.0,
       "silvers": 0.0,
       "bronzes": 0.0,
-      "medal_points": 0.0,
-      "pa_score": 0.0
+      "medal_points": 225.0,
+      "pa_score": 6.25
     },
     {
       "country": "Croatia",
@@ -571,245 +971,1258 @@
       "draft_pick": 35,
       "draft_round": 7,
       "athletes": 20,
-      "golds": 0.0,
+      "golds": 1.0,
       "silvers": 0.0,
-      "bronzes": 0.0,
-      "medal_points": 0.0,
-      "pa_score": 0.0
+      "bronzes": 1.0,
+      "medal_points": 56.0,
+      "pa_score": 2.8
     }
   ],
   "news": [
     {
-      "date": "Feb 09, 2026",
-      "entry": "**['ANDERSSON Ebba']** (SWE, 110 athletes) takes Silver Medal in Men's Alpine Combined, winning **Meredith** 36.00 points!"
+      "date": "Feb 19, 2026",
+      "entry": "\ud83e\udd47 \ud83c\udde8\ud83c\uddf3 **NING Zhongyan** (**China,** 126 athletes) takes **Gold Medal** in Men's 1500m, winning **Eric** 42.85 points!",
+      "owner": "Eric"
+    },
+    {
+      "date": "Feb 19, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddf3\ud83c\uddf1 **NUIS Kjeld** (**Netherlands,** 39 athletes) takes **Bronze Medal** in Men's 1500m, winning **Kalida** 17.14 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 19, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddea\ud83c\uddf8 **CARDONA COLL Oriol** (**Spain,** 20 athletes) takes **Gold Medal** in Men's Sprint SkiMo, winning **Kalida** 40.00 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 19, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddeb\ud83c\uddf7 **ANSELMET Thibault** (**France,** 162 athletes) takes **Bronze Medal** in Men's Sprint SkiMo, winning **John** 16.00 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 19, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddf3\ud83c\uddf4 **OFTEBRO Jens Luraas and SKOGLUND Andreas** (**Norway,** 80 athletes) takes **Gold Medal** in Team Sprint, winning **Grant** 66.65 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 19, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddeb\ud83c\uddee **HEROLA Ilkka and HIRVONEN Eero** (**Finland,** 103 athletes) takes **Silver Medal** in Team Sprint, winning **Eric** 39.99 points!",
+      "owner": "Eric"
+    },
+    {
+      "date": "Feb 19, 2026",
+      "entry": "\ud83e\udd49 \ud83c\udde6\ud83c\uddf9 **LAMPARTER Johannes and RETTENEGGER Stefan** (**Austria,** 117 athletes) takes **Bronze Medal** in Team Sprint, winning **Grant** 26.66 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 19, 2026",
+      "entry": "\ud83e\udd48 \ud83c\udde8\ud83c\udde6 **AMBROSE Erin, CLARK Emily, DESBIENS Ann-Renee, FAST Renata, FILLIER Sarah, GARDINER Jennifer, GOSLING Julia, JAQUES Sophie, JENNER Brianne, LAROCQUE Jocelyne, MALTAIS Emma, MASCHMEYER Emerance, NURSE Sarah, O'NEILL Kristin, OSBORNE Kayle, POULIN Marie-Philip, SHELTON Ella, SPOONER Natalie, STACEY Laura, TABIN Kati, THOMPSON Claire, TURNBULL Blayre, and WATTS Daryl** (**Canada,** 211 athletes) takes **Silver Medal** in Women's Ice Hockey, winning **John** 180.00 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 19, 2026",
+      "entry": "\ud83e\udd49 \ud83c\udde8\ud83c\udded **BAECHLER Alessia, BALZER Leoni, BRAENDLI Andrea, BUCHI Annic, CHRISTEN Lara, ENZLER Rahel, HERZIG Naemi, LEEMANN Sinja, LUTZ Lena Marie, MARTI Alina, MAURER Saskia, MERIGUET Laure, MULLER Alina, QUENNEC Kaleigh, RUEDI Lisa, SCHAEFER Vanessa, SIGRIST Shannon, STALDER Lara, VALLARIO Nicole, WAGNER Monja, WETLI Stefanie, WEY Ivana, and ZIMMERMANN Laura** (**Switzerland,** 175 athletes) takes **Bronze Medal** in Women's Ice Hockey, winning **Eric** 120.00 points!",
+      "owner": "Eric"
+    },
+    {
+      "date": "Feb 19, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddef\ud83c\uddf5 **SAKAMOTO Kaori** (**Japan,** 121 athletes) takes **Silver Medal** in Women's Singles Figure Skating, winning **Kalida** 135.00 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 19, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddef\ud83c\uddf5 **NAKAI Ami** (**Japan,** 121 athletes) takes **Bronze Medal** in Women's Singles Figure Skating, winning **Kalida** 90.00 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 19, 2026",
+      "entry": "\ud83e\udd47 \ud83c\udde8\ud83c\udded **FATTON Marianne** (**Switzerland,** 175 athletes) takes **Gold Medal** in Women's Sprint SkiMo, winning **Eric** 40.00 points!",
+      "owner": "Eric"
+    },
+    {
+      "date": "Feb 19, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddeb\ud83c\uddf7 **HARROP Emily** (**France,** 162 athletes) takes **Silver Medal** in Women's Sprint SkiMo, winning **John** 24.00 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 19, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddea\ud83c\uddf8 **ALONSO RODRIGUEZ Ana** (**Spain,** 20 athletes) takes **Bronze Medal** in Women's Sprint SkiMo, winning **Kalida** 16.00 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 18, 2026",
+      "entry": "\ud83e\udd47 \ud83c\udde8\ud83c\udde6 **DUBOIS Steven** (**Canada,** 211 athletes) takes **Gold Medal** in Men's 500m Short Track, winning **John** 66.65 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 18, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddf3\ud83c\uddf1 **van 'T WOUT Melle** (**Netherlands,** 39 athletes) takes **Silver Medal** in Men's 500m Short Track, winning **Kalida** 39.99 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 18, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddf3\ud83c\uddf1 **van 'T WOUT Jens** (**Netherlands,** 39 athletes) takes **Bronze Medal** in Men's 500m Short Track, winning **Kalida** 26.66 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 18, 2026",
+      "entry": "\ud83e\udd47 \ud83c\udde8\ud83c\uddf3 **SU Yiming** (**China,** 126 athletes) takes **Gold Medal** in Men's Slopestyle Snowboard, winning **Eric** 54.55 points!",
+      "owner": "Eric"
+    },
+    {
+      "date": "Feb 18, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddef\ud83c\uddf5 **HASEGAWA Taiga** (**Japan,** 121 athletes) takes **Silver Medal** in Men's Slopestyle Snowboard, winning **Kalida** 32.73 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 18, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddf3\ud83c\uddf4 **KLAEBO Johannes Hoesflot and HEDEGART Einar** (**Norway,** 80 athletes) takes **Gold Medal** in Men's Team Sprint, winning **Grant** 40.00 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 18, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddee\ud83c\uddf9 **BARP Elia and PELLEGRINO Federico** (**Italy,** 195 athletes) takes **Bronze Medal** in Men's Team Sprint, winning **Meredith** 16.00 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 18, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddf0\ud83c\uddf7 **KIM Gilli, CHOI Minjeong, LEE Soyeon, NOH Dohee, and SHIM Sukhee** (**Korea,** 73 athletes) takes **Gold Medal** in Women's 3000m Relay, winning **John** 66.65 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 18, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddee\ud83c\uddf9 **FONTANA Arianna, BETTI Chiara, CONFORTOLA Elisa, and SIGHEL Arianna** (**Italy,** 195 athletes) takes **Silver Medal** in Women's 3000m Relay, winning **Meredith** 39.99 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 18, 2026",
+      "entry": "\ud83e\udd49 \ud83c\udde8\ud83c\udde6 **SARAULT Courtney, BOUTIN Kim, BRUNELLE Florence, and BLAIS Danae** (**Canada,** 211 athletes) takes **Bronze Medal** in Women's 3000m Relay, winning **John** 26.66 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 18, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddeb\ud83c\uddf7 **JEANMONNOT Lou, SIMON Julia, MICHELON Oceane, and BENED Camille** (**France,** 162 athletes) takes **Gold Medal** in Women's 4x6km Relay Biathlon, winning **John** 54.55 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 18, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddf8\ud83c\uddea **GESTBLOM Linn, MAGNUSSON Anna, OEBERG Elvira, and OEBERG Hanna** (**Sweden,** 110 athletes) takes **Silver Medal** in Women's 4x6km Relay Biathlon, winning **Meredith** 32.73 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 18, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddf3\ud83c\uddf4 **KIRKEEIDE Maren, ARNEKLEIV Juni, JOHANSEN Marthe Krakstad, and KNOTTEN Karoline Offigstad** (**Norway,** 80 athletes) takes **Bronze Medal** in Women's 4x6km Relay Biathlon, winning **Grant** 21.82 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 18, 2026",
+      "entry": "\ud83e\udd47 \ud83c\udde8\ud83c\uddf3 **XU Mengtao** (**China,** 126 athletes) takes **Gold Medal** in Women's Aerials, winning **Eric** 40.00 points!",
+      "owner": "Eric"
+    },
+    {
+      "date": "Feb 18, 2026",
+      "entry": "\ud83e\udd48 \ud83c\udde6\ud83c\uddfa **SCOTT Danielle** (**Australia,** 54 athletes) takes **Silver Medal** in Women's Aerials, winning **Meredith** 24.00 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 18, 2026",
+      "entry": "\ud83e\udd49 \ud83c\udde8\ud83c\uddf3 **SHAO Qi** (**China,** 126 athletes) takes **Bronze Medal** in Women's Aerials, winning **Eric** 16.00 points!",
+      "owner": "Eric"
+    },
+    {
+      "date": "Feb 18, 2026",
+      "entry": "\ud83e\udd48 \ud83c\udde8\ud83c\udded **RAST Camille** (**Switzerland,** 175 athletes) takes **Silver Medal** in Women's Slalom, winning **Eric** 36.00 points!",
+      "owner": "Eric"
+    },
+    {
+      "date": "Feb 18, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddf8\ud83c\uddea **SWENN LARSSON Anna** (**Sweden,** 110 athletes) takes **Bronze Medal** in Women's Slalom, winning **Meredith** 24.00 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 18, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddef\ud83c\uddf5 **FUKADA Mari** (**Japan,** 121 athletes) takes **Gold Medal** in Women's Slopestyle Snowboard, winning **Kalida** 54.55 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 18, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddf3\ud83c\uddff **SADOWSKI SYNNOTT Zoi** (**New Zealand,** 17 athletes) takes **Silver Medal** in Women's Slopestyle Snowboard, winning **John** 32.73 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 18, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddef\ud83c\uddf5 **MURASE Kokomo** (**Japan,** 121 athletes) takes **Bronze Medal** in Women's Slopestyle Snowboard, winning **Kalida** 21.82 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 18, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddf8\ud83c\uddea **SUNDLING Jonna and DAHLQVIST Maja** (**Sweden,** 110 athletes) takes **Gold Medal** in Women's Team Sprint, winning **Meredith** 40.00 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 18, 2026",
+      "entry": "\ud83e\udd48 \ud83c\udde8\ud83c\udded **FAEHNDRICH Nadine and KAELIN Nadja** (**Switzerland,** 175 athletes) takes **Silver Medal** in Women's Team Sprint, winning **Eric** 24.00 points!",
+      "owner": "Eric"
+    },
+    {
+      "date": "Feb 18, 2026",
+      "entry": "\ud83e\udd49 \ud83c\udde9\ud83c\uddea **GIMMLER Laura and RYDZEK Coletta** (**Germany,** 189 athletes) takes **Bronze Medal** in Women's Team Sprint, winning **Kalida** 16.00 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 17, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddeb\ud83c\uddf7 **FILLON MAILLET Quentin, PERROT Eric, JACQUELIN Emilien, and CLAUDE Fabien** (**France,** 162 athletes) takes **Gold Medal** in Men's 4x10km Relay, winning **John** 40.00 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 17, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddf3\ud83c\uddf4 **LAEGREID Sturla Holm, BOTN Johan-Olav, CHRISTIANSEN Vetle Sjaastad, and ULDAL Martin** (**Norway,** 80 athletes) takes **Silver Medal** in Men's 4x10km Relay, winning **Grant** 24.00 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 17, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddf8\ud83c\uddea **PONSILUOMA Martin, BRANDT Viktor, NELIN Jesper, and SAMUELSSON Sebastian** (**Sweden,** 110 athletes) takes **Bronze Medal** in Men's 4x10km Relay, winning **Meredith** 16.00 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 17, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddf3\ud83c\uddf4 **FROSTAD Tormod** (**Norway,** 80 athletes) takes **Gold Medal** in Men's Big Air Freestyle, winning **Grant** 40.00 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 17, 2026",
+      "entry": "\ud83e\udd49 \ud83c\udde6\ud83c\uddf9 **SVANCER Matej** (**Austria,** 117 athletes) takes **Bronze Medal** in Men's Big Air Freestyle, winning **Grant** 16.00 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 17, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddee\ud83c\uddf9 **GHIOTTO Davide, GIOVANNINI Andrea, and MALFATTI Michele** (**Italy,** 195 athletes) takes **Gold Medal** in Men's Team Pursuit, winning **Meredith** 42.85 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 17, 2026",
+      "entry": "\ud83e\udd49 \ud83c\udde8\ud83c\uddf3 **NING Zhongyan, LI Wenhao, LIU Hanbin, and WU Yu** (**China,** 126 athletes) takes **Bronze Medal** in Men's Team Pursuit, winning **Eric** 17.14 points!",
+      "owner": "Eric"
+    },
+    {
+      "date": "Feb 17, 2026",
+      "entry": "\ud83e\udd47 \ud83c\udde9\ud83c\uddea **FLEISCHHAUER Georg and LOCHNER Johannes** (**Germany,** 189 athletes) takes **Gold Medal** in Two-man Bobsleigh, winning **Kalida** 50.00 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 17, 2026",
+      "entry": "\ud83e\udd48 \ud83c\udde9\ud83c\uddea **FRIEDRICH Francesco and SCHULLER Alexander** (**Germany,** 189 athletes) takes **Silver Medal** in Two-man Bobsleigh, winning **Kalida** 30.00 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 17, 2026",
+      "entry": "\ud83e\udd49 \ud83c\udde9\ud83c\uddea **AMMOUR Adam and SCHALLER Alexander** (**Germany,** 189 athletes) takes **Bronze Medal** in Two-man Bobsleigh, winning **Kalida** 20.00 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 17, 2026",
+      "entry": "\ud83e\udd47 \ud83c\udde8\ud83c\udde6 **MALTAIS Valerie, BLONDIN Ivanie, and WEIDEMANN Isabelle** (**Canada,** 211 athletes) takes **Gold Medal** in Women's Team Pursuit, winning **John** 42.85 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 17, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddf3\ud83c\uddf1 **BEUNE Joy, GROENEWOUD Marijke, and RIJPMA-de JONG Antoinette** (**Netherlands,** 39 athletes) takes **Silver Medal** in Women's Team Pursuit, winning **Kalida** 25.71 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 17, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddef\ud83c\uddf5 **TAKAGI Miho, HORIKAWA Momoka, NOAKE Hana, and SATO Ayano** (**Japan,** 121 athletes) takes **Bronze Medal** in Women's Team Pursuit, winning **Kalida** 17.14 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 16, 2026",
+      "entry": "\ud83e\udd47 \ud83c\udde8\ud83c\udded **MEILLARD Loic** (**Switzerland,** 175 athletes) takes **Gold Medal** in Men's Slalom, winning **Eric** 60.00 points!",
+      "owner": "Eric"
+    },
+    {
+      "date": "Feb 16, 2026",
+      "entry": "\ud83e\udd48 \ud83c\udde6\ud83c\uddf9 **GSTREIN Fabio** (**Austria,** 117 athletes) takes **Silver Medal** in Men's Slalom, winning **Grant** 36.00 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 16, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddf3\ud83c\uddf4 **KRISTOFFERSEN Henrik** (**Norway,** 80 athletes) takes **Bronze Medal** in Men's Slalom, winning **Grant** 24.00 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 16, 2026",
+      "entry": "\ud83e\udd47 \ud83c\udde6\ud83c\uddf9 **EMBACHER Stephan and HOERL Jan** (**Austria,** 117 athletes) takes **Gold Medal** in Men's Super Team, winning **Grant** 66.65 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 16, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddf5\ud83c\uddf1 **TOMASIAK Kacper and WASEK Pawel** (**Poland,** 60 athletes) takes **Silver Medal** in Men's Super Team, winning **Eric** 39.99 points!",
+      "owner": "Eric"
+    },
+    {
+      "date": "Feb 16, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddf3\ud83c\uddf4 **SUNDAL Kristoffer Eriksen and FORFANG Johann Andre** (**Norway,** 80 athletes) takes **Bronze Medal** in Men's Super Team, winning **Grant** 26.66 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 16, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddef\ud83c\uddf5 **KIHARA Ryuichi and MIURA Riku** (**Japan,** 121 athletes) takes **Gold Medal** in Pairs Figure Skating, winning **Kalida** 75.00 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 16, 2026",
+      "entry": "\ud83e\udd49 \ud83c\udde9\ud83c\uddea **HASE Minerva Fabienne and VOLODIN Nikita** (**Germany,** 189 athletes) takes **Bronze Medal** in Pairs Figure Skating, winning **Kalida** 30.00 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 16, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddf3\ud83c\uddf1 **VELZEBOER Xandra** (**Netherlands,** 39 athletes) takes **Gold Medal** in Women's 1000m Short Track, winning **Kalida** 66.65 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 16, 2026",
+      "entry": "\ud83e\udd48 \ud83c\udde8\ud83c\udde6 **SARAULT Courtney** (**Canada,** 211 athletes) takes **Silver Medal** in Women's 1000m Short Track, winning **John** 39.99 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 16, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddf0\ud83c\uddf7 **KIM Gilli** (**Korea,** 73 athletes) takes **Bronze Medal** in Women's 1000m Short Track, winning **John** 26.66 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 16, 2026",
+      "entry": "\ud83e\udd47 \ud83c\udde8\ud83c\udde6 **OLDHAM Megan** (**Canada,** 211 athletes) takes **Gold Medal** in Women's Big Air Freestyle, winning **John** 40.00 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 16, 2026",
+      "entry": "\ud83e\udd48 \ud83c\udde8\ud83c\uddf3 **GU Ailing Eileen** (**China,** 126 athletes) takes **Silver Medal** in Women's Big Air Freestyle, winning **Eric** 24.00 points!",
+      "owner": "Eric"
+    },
+    {
+      "date": "Feb 16, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddee\ud83c\uddf9 **TABANELLI Flora** (**Italy,** 195 athletes) takes **Bronze Medal** in Women's Big Air Freestyle, winning **Meredith** 16.00 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 16, 2026",
+      "entry": "\ud83e\udd48 \ud83c\udde9\ud83c\uddea **NOLTE Laura** (**Germany,** 189 athletes) takes **Silver Medal** in Women's Monobob, winning **Kalida** 30.00 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 15, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddf8\ud83c\uddea **PONSILUOMA Martin** (**Sweden,** 110 athletes) takes **Gold Medal** in Men's 12.5km Pursuit Biathlon, winning **Meredith** 54.55 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 15, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddf3\ud83c\uddf4 **LAEGREID Sturla Holm** (**Norway,** 80 athletes) takes **Silver Medal** in Men's 12.5km Pursuit Biathlon, winning **Grant** 32.73 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 15, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddeb\ud83c\uddf7 **JACQUELIN Emilien** (**France,** 162 athletes) takes **Bronze Medal** in Men's 12.5km Pursuit Biathlon, winning **John** 21.82 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 15, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddf3\ud83c\uddf4 **KLAEBO Johannes Hoesflot, HEDEGART Einar, NYENGET Martin Loewstroem, and IVERSEN Emil** (**Norway,** 80 athletes) takes **Gold Medal** in Men's 4x7.5km Relay Biathlon, winning **Grant** 54.55 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 15, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddeb\ud83c\uddf7 **DESLOGES Mathis, LAPALUS Hugo, LOVERA Victor, and SCHELY Theo** (**France,** 162 athletes) takes **Silver Medal** in Men's 4x7.5km Relay Biathlon, winning **John** 32.73 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 15, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddee\ud83c\uddf9 **BARP Elia, PELLEGRINO Federico, CAROLLO Martino, and GRAZ Davide** (**Italy,** 195 athletes) takes **Bronze Medal** in Men's 4x7.5km Relay Biathlon, winning **Meredith** 21.82 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 15, 2026",
+      "entry": "\ud83e\udd47 \ud83c\udde8\ud83c\udde6 **KINGSBURY Mikael** (**Canada,** 211 athletes) takes **Gold Medal** in Men's Dual Moguls, winning **John** 40.00 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 15, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddef\ud83c\uddf5 **HORISHIMA Ikuma** (**Japan,** 121 athletes) takes **Silver Medal** in Men's Dual Moguls, winning **Kalida** 24.00 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 15, 2026",
+      "entry": "\ud83e\udd49 \ud83c\udde6\ud83c\uddfa **GRAHAM Matt** (**Australia,** 54 athletes) takes **Bronze Medal** in Men's Dual Moguls, winning **Meredith** 16.00 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 15, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddec\ud83c\udde7 **WESTON Matt and STOECKER Tabitha** (**Great Britain,** 55 athletes) takes **Gold Medal** in Mixed Team Skeleton, winning **Meredith** 50.00 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 15, 2026",
+      "entry": "\ud83e\udd48 \ud83c\udde9\ud83c\uddea **JUNGK Axel and KREHER Susanne** (**Germany,** 189 athletes) takes **Silver Medal** in Mixed Team Skeleton, winning **Kalida** 30.00 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 15, 2026",
+      "entry": "\ud83e\udd49 \ud83c\udde9\ud83c\uddea **GROTHEER Christopher and PFEIFER Jacqueline** (**Germany,** 189 athletes) takes **Bronze Medal** in Mixed Team Skeleton, winning **Kalida** 20.00 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 15, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddec\ud83c\udde7 **BANKES Charlotte and NIGHTINGALE Huw** (**Great Britain,** 55 athletes) takes **Gold Medal** in Mixed Team Snowboard Cross, winning **Meredith** 218.20 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 15, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddee\ud83c\uddf9 **MOIOLI Michela and SOMMARIVA Lorenzo** (**Italy,** 195 athletes) takes **Silver Medal** in Mixed Team Snowboard Cross, winning **Meredith** 130.92 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 15, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddeb\ud83c\uddf7 **BOZZOLO Loan and CASTA Lea** (**France,** 162 athletes) takes **Bronze Medal** in Mixed Team Snowboard Cross, winning **John** 87.28 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 15, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddee\ud83c\uddf9 **VITTOZZI Lisa** (**Italy,** 195 athletes) takes **Gold Medal** in Women's 10km Pursuit Biathlon, winning **Meredith** 54.55 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 15, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddf3\ud83c\uddf4 **KIRKEEIDE Maren** (**Norway,** 80 athletes) takes **Silver Medal** in Women's 10km Pursuit Biathlon, winning **Grant** 32.73 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 15, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddeb\ud83c\uddee **MINKKINEN Suvi** (**Finland,** 103 athletes) takes **Bronze Medal** in Women's 10km Pursuit Biathlon, winning **Eric** 21.82 points!",
+      "owner": "Eric"
+    },
+    {
+      "date": "Feb 15, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddf3\ud83c\uddf1 **KOK Femke** (**Netherlands,** 39 athletes) takes **Gold Medal** in Women's 500m, winning **Kalida** 128.55 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 15, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddf3\ud83c\uddf1 **LEERDAM Jutta** (**Netherlands,** 39 athletes) takes **Silver Medal** in Women's 500m, winning **Kalida** 77.13 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 15, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddef\ud83c\uddf5 **TAKAGI Miho** (**Japan,** 121 athletes) takes **Bronze Medal** in Women's 500m, winning **Kalida** 51.42 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 15, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddee\ud83c\uddf9 **BRIGNONE Federica** (**Italy,** 195 athletes) takes **Gold Medal** in Women's Giant Slalom, winning **Meredith** 60.00 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 15, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddf3\ud83c\uddf4 **STJERNESUND Thea Louise** (**Norway,** 80 athletes) takes **Silver Medal** in Women's Giant Slalom, winning **Grant** 36.00 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 15, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddf8\ud83c\uddea **HECTOR Sara** (**Sweden,** 110 athletes) takes **Silver Medal** in Women's Giant Slalom, winning **Meredith** 36.00 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 15, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddf3\ud83c\uddf4 **STROEM Anna Odine** (**Norway,** 80 athletes) takes **Gold Medal** in Women's Large Hill Ski Jumping, winning **Grant** 66.65 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 15, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddf3\ud83c\uddf4 **KVANDAL Eirin Maria** (**Norway,** 80 athletes) takes **Silver Medal** in Women's Large Hill Ski Jumping, winning **Grant** 39.99 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 15, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddf8\ud83c\uddee **PREVC Nika** (**Slovenia,** 37 athletes) takes **Bronze Medal** in Women's Large Hill Ski Jumping, winning **Kalida** 26.66 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 14, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddf3\ud83c\uddf1 **van 'T WOUT Jens** (**Netherlands,** 39 athletes) takes **Gold Medal** in Men's 1500m Short Track, winning **Kalida** 66.65 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 14, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddf0\ud83c\uddf7 **HWANG Daeheon** (**Korea,** 73 athletes) takes **Silver Medal** in Men's 1500m Short Track, winning **John** 39.99 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 14, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddf1\ud83c\uddfb **KRUZBERGS Roberts** (**Latvia,** 68 athletes) takes **Bronze Medal** in Men's 1500m Short Track, winning **Grant** 26.66 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 14, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddf3\ud83c\uddf1 **de BOO Jenning** (**Netherlands,** 39 athletes) takes **Silver Medal** in Men's 500m, winning **Kalida** 77.13 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 14, 2026",
+      "entry": "\ud83e\udd49 \ud83c\udde8\ud83c\udde6 **DUBREUIL Laurent** (**Canada,** 211 athletes) takes **Bronze Medal** in Men's 500m, winning **John** 51.42 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 14, 2026",
+      "entry": "\ud83e\udd47 \ud83c\udde7\ud83c\uddf7 **PINHEIRO BRAATHEN Lucas** (**Brazil,** 15 athletes) takes **Gold Medal** in Men's Giant Slalom, winning **John** 60.00 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 14, 2026",
+      "entry": "\ud83e\udd48 \ud83c\udde8\ud83c\udded **ODERMATT Marco** (**Switzerland,** 175 athletes) takes **Silver Medal** in Men's Giant Slalom, winning **Eric** 36.00 points!",
+      "owner": "Eric"
+    },
+    {
+      "date": "Feb 14, 2026",
+      "entry": "\ud83e\udd49 \ud83c\udde8\ud83c\udded **MEILLARD Loic** (**Switzerland,** 175 athletes) takes **Bronze Medal** in Men's Giant Slalom, winning **Eric** 24.00 points!",
+      "owner": "Eric"
+    },
+    {
+      "date": "Feb 14, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddf3\ud83c\uddf4 **WENG Heidi, FOSNAES Kristin Austgulen, SIMPSON-LARSEN Karoline, and SLIND Astrid Oeyre** (**Norway,** 80 athletes) takes **Gold Medal** in Women's 4x5km Relay, winning **Grant** 40.00 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 14, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddf8\ud83c\uddea **KARLSSON Frida, SUNDLING Jonna, ANDERSSON Ebba, and SVAHN Linn** (**Sweden,** 110 athletes) takes **Silver Medal** in Women's 4x5km Relay, winning **Meredith** 24.00 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 14, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddeb\ud83c\uddee **JOENSUU Jasmi, MATINTALO Johanna, NISKANEN Kerttu, and RYYTTY Vilma** (**Finland,** 103 athletes) takes **Bronze Medal** in Women's 4x5km Relay, winning **Eric** 16.00 points!",
+      "owner": "Eric"
+    },
+    {
+      "date": "Feb 14, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddf3\ud83c\uddf4 **KIRKEEIDE Maren** (**Norway,** 80 athletes) takes **Gold Medal** in Women's 7.5km Sprint Biathlon, winning **Grant** 54.55 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 14, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddeb\ud83c\uddf7 **MICHELON Oceane** (**France,** 162 athletes) takes **Silver Medal** in Women's 7.5km Sprint Biathlon, winning **John** 32.73 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 14, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddeb\ud83c\uddf7 **JEANMONNOT Lou** (**France,** 162 athletes) takes **Bronze Medal** in Women's 7.5km Sprint Biathlon, winning **John** 21.82 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 14, 2026",
+      "entry": "\ud83e\udd47 \ud83c\udde6\ud83c\uddfa **ANTHONY Jakara** (**Australia,** 54 athletes) takes **Gold Medal** in Women's Dual Moguls, winning **Meredith** 40.00 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 14, 2026",
+      "entry": "\ud83e\udd47 \ud83c\udde6\ud83c\uddf9 **FLOCK Janine** (**Austria,** 117 athletes) takes **Gold Medal** in Women's Skeleton, winning **Grant** 50.00 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 14, 2026",
+      "entry": "\ud83e\udd48 \ud83c\udde9\ud83c\uddea **KREHER Susanne** (**Germany,** 189 athletes) takes **Silver Medal** in Women's Skeleton, winning **Kalida** 30.00 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 14, 2026",
+      "entry": "\ud83e\udd49 \ud83c\udde9\ud83c\uddea **PFEIFER Jacqueline** (**Germany,** 189 athletes) takes **Bronze Medal** in Women's Skeleton, winning **Kalida** 20.00 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 13, 2026",
+      "entry": "\ud83e\udd47 \ud83c\udde8\ud83c\uddff **JILEK Metodej** (**Czechia,** 114 athletes) takes **Gold Medal** in Men's 10,000m, winning **Meredith** 42.85 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 13, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddf5\ud83c\uddf1 **SEMIRUNNIY Vladimir** (**Poland,** 60 athletes) takes **Silver Medal** in Men's 10,000m, winning **Eric** 25.71 points!",
+      "owner": "Eric"
+    },
+    {
+      "date": "Feb 13, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddf3\ud83c\uddf1 **BERGSMA Jorrit** (**Netherlands,** 39 athletes) takes **Bronze Medal** in Men's 10,000m, winning **Kalida** 17.14 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 13, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddf3\ud83c\uddf4 **KLAEBO Johannes Hoesflot** (**Norway,** 80 athletes) takes **Gold Medal** in Men's 10km Free, winning **Grant** 40.00 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 13, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddeb\ud83c\uddf7 **DESLOGES Mathis** (**France,** 162 athletes) takes **Silver Medal** in Men's 10km Free, winning **John** 24.00 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 13, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddf3\ud83c\uddf4 **HEDEGART Einar** (**Norway,** 80 athletes) takes **Bronze Medal** in Men's 10km Free, winning **Grant** 16.00 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 13, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddeb\ud83c\uddf7 **FILLON MAILLET Quentin** (**France,** 162 athletes) takes **Gold Medal** in Men's 10km Sprint Biathlon, winning **John** 54.55 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 13, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddf3\ud83c\uddf4 **CHRISTIANSEN Vetle Sjaastad** (**Norway,** 80 athletes) takes **Silver Medal** in Men's 10km Sprint Biathlon, winning **Grant** 32.73 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 13, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddf3\ud83c\uddf4 **LAEGREID Sturla Holm** (**Norway,** 80 athletes) takes **Bronze Medal** in Men's 10km Sprint Biathlon, winning **Grant** 21.82 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 13, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddef\ud83c\uddf5 **TOTSUKA Yuto** (**Japan,** 121 athletes) takes **Gold Medal** in Men's Halfpipe Snowboard, winning **Kalida** 163.65 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 13, 2026",
+      "entry": "\ud83e\udd48 \ud83c\udde6\ud83c\uddfa **JAMES Scotty** (**Australia,** 54 athletes) takes **Silver Medal** in Men's Halfpipe Snowboard, winning **Meredith** 98.19 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 13, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddef\ud83c\uddf5 **YAMADA Ryusei** (**Japan,** 121 athletes) takes **Bronze Medal** in Men's Halfpipe Snowboard, winning **Kalida** 65.46 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 13, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddf0\ud83c\uddff **SHAIDOROV Mikhail** (**Kazakhstan,** 36 athletes) takes **Gold Medal** in Men's Singles Figure Skating, winning **Grant** 225.00 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 13, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddef\ud83c\uddf5 **KAGIYAMA Yuma** (**Japan,** 121 athletes) takes **Silver Medal** in Men's Singles Figure Skating, winning **Kalida** 135.00 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 13, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddef\ud83c\uddf5 **SATO Shun** (**Japan,** 121 athletes) takes **Bronze Medal** in Men's Singles Figure Skating, winning **Kalida** 90.00 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 13, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddec\ud83c\udde7 **WESTON Matt** (**Great Britain,** 55 athletes) takes **Gold Medal** in Men's Skeleton, winning **Meredith** 50.00 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 13, 2026",
+      "entry": "\ud83e\udd48 \ud83c\udde9\ud83c\uddea **JUNGK Axel** (**Germany,** 189 athletes) takes **Silver Medal** in Men's Skeleton, winning **Kalida** 30.00 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 13, 2026",
+      "entry": "\ud83e\udd49 \ud83c\udde9\ud83c\uddea **GROTHEER Christopher** (**Germany,** 189 athletes) takes **Bronze Medal** in Men's Skeleton, winning **Kalida** 20.00 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 13, 2026",
+      "entry": "\ud83e\udd47 \ud83c\udde6\ud83c\uddfa **BAFF Josie** (**Australia,** 54 athletes) takes **Gold Medal** in Women's Snowboard Cross, winning **Meredith** 54.55 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 13, 2026",
+      "entry": "\ud83e\udd48 \ud83c\udde8\ud83c\uddff **ADAMCZYKOVA Eva** (**Czechia,** 114 athletes) takes **Silver Medal** in Women's Snowboard Cross, winning **Meredith** 32.73 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 13, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddee\ud83c\uddf9 **MOIOLI Michela** (**Italy,** 195 athletes) takes **Bronze Medal** in Women's Snowboard Cross, winning **Meredith** 21.82 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 12, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddf3\ud83c\uddf1 **van 'T WOUT Jens** (**Netherlands,** 39 athletes) takes **Gold Medal** in Men's 1000m Short Track, winning **Kalida** 66.65 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 12, 2026",
+      "entry": "\ud83e\udd48 \ud83c\udde8\ud83c\uddf3 **SUN Long** (**China,** 126 athletes) takes **Silver Medal** in Men's 1000m Short Track, winning **Eric** 39.99 points!",
+      "owner": "Eric"
+    },
+    {
+      "date": "Feb 12, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddf0\ud83c\uddf7 **RIM Jongun** (**Korea,** 73 athletes) takes **Bronze Medal** in Men's 1000m Short Track, winning **John** 26.66 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 12, 2026",
+      "entry": "\ud83e\udd47 \ud83c\udde6\ud83c\uddfa **WOODS Cooper** (**Australia,** 54 athletes) takes **Gold Medal** in Men's Moguls, winning **Meredith** 40.00 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 12, 2026",
+      "entry": "\ud83e\udd48 \ud83c\udde8\ud83c\udde6 **KINGSBURY Mikael** (**Canada,** 211 athletes) takes **Silver Medal** in Men's Moguls, winning **John** 24.00 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 12, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddef\ud83c\uddf5 **HORISHIMA Ikuma** (**Japan,** 121 athletes) takes **Bronze Medal** in Men's Moguls, winning **Kalida** 16.00 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 12, 2026",
+      "entry": "\ud83e\udd47 \ud83c\udde6\ud83c\uddf9 **HAEMMERLE Alessandro** (**Austria,** 117 athletes) takes **Gold Medal** in Men's Snowboard Cross, winning **Grant** 54.55 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 12, 2026",
+      "entry": "\ud83e\udd48 \ud83c\udde8\ud83c\udde6 **GRONDIN Eliot** (**Canada,** 211 athletes) takes **Silver Medal** in Men's Snowboard Cross, winning **John** 32.73 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 12, 2026",
+      "entry": "\ud83e\udd49 \ud83c\udde6\ud83c\uddf9 **DUSEK Jakob** (**Austria,** 117 athletes) takes **Bronze Medal** in Men's Snowboard Cross, winning **Grant** 21.82 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 12, 2026",
+      "entry": "\ud83e\udd47 \ud83c\udde9\ud83c\uddea **LANGENHAN Max, TAUBITZ Julia, EITBERGER Dajana, MATSCHINA Magdalena, ARLT Tobias, and WENDL Tobias** (**Germany,** 189 athletes) takes **Gold Medal** in Team Relay Luge, winning **Kalida** 50.00 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 12, 2026",
+      "entry": "\ud83e\udd48 \ud83c\udde6\ud83c\uddf9 **KINDL Wolfgang, MUELLER Jonas, STEU Thomas, EGLE Selina, KIPP Lara Michaela, and SCHULTE Lisa** (**Austria,** 117 athletes) takes **Silver Medal** in Team Relay Luge, winning **Grant** 30.00 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 12, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddee\ud83c\uddf9 **KAINZWALDNER Simon, OBERHOFER Marion, RIEDER Emanuel, VOETTER Andrea, FISCHNALLER Dominik, and HOFER Verena** (**Italy,** 195 athletes) takes **Bronze Medal** in Team Relay Luge, winning **Meredith** 20.00 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 12, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddf8\ud83c\uddea **KARLSSON Frida** (**Sweden,** 110 athletes) takes **Gold Medal** in Women's 10km Free, winning **Meredith** 40.00 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 12, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddf8\ud83c\uddea **ANDERSSON Ebba** (**Sweden,** 110 athletes) takes **Silver Medal** in Women's 10km Free, winning **Meredith** 24.00 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 12, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddee\ud83c\uddf9 **LOLLOBRIGIDA Francesca** (**Italy,** 195 athletes) takes **Gold Medal** in Women's 5000m, winning **Meredith** 42.85 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 12, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddf3\ud83c\uddf1 **CONIJN Merel** (**Netherlands,** 39 athletes) takes **Silver Medal** in Women's 5000m, winning **Kalida** 25.71 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 12, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddf3\ud83c\uddf4 **WIKLUND Ragne** (**Norway,** 80 athletes) takes **Bronze Medal** in Women's 5000m, winning **Grant** 17.14 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 12, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddf3\ud83c\uddf1 **VELZEBOER Xandra** (**Netherlands,** 39 athletes) takes **Gold Medal** in Women's 500m Short Track, winning **Kalida** 66.65 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 12, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddee\ud83c\uddf9 **FONTANA Arianna** (**Italy,** 195 athletes) takes **Silver Medal** in Women's 500m Short Track, winning **Meredith** 39.99 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 12, 2026",
+      "entry": "\ud83e\udd49 \ud83c\udde8\ud83c\udde6 **SARAULT Courtney** (**Canada,** 211 athletes) takes **Bronze Medal** in Women's 500m Short Track, winning **John** 26.66 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 12, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddf0\ud83c\uddf7 **CHOI Gaon** (**Korea,** 73 athletes) takes **Gold Medal** in Women's Halfpipe Snowboard, winning **John** 163.65 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 12, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddef\ud83c\uddf5 **ONO Mitsuki** (**Japan,** 121 athletes) takes **Bronze Medal** in Women's Halfpipe Snowboard, winning **Kalida** 65.46 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 12, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddee\ud83c\uddf9 **BRIGNONE Federica** (**Italy,** 195 athletes) takes **Gold Medal** in Women's Super-G, winning **Meredith** 60.00 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 12, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddeb\ud83c\uddf7 **MIRADOLI Romane** (**France,** 162 athletes) takes **Silver Medal** in Women's Super-G, winning **John** 36.00 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 12, 2026",
+      "entry": "\ud83e\udd49 \ud83c\udde6\ud83c\uddf9 **HUETTER Cornelia** (**Austria,** 117 athletes) takes **Bronze Medal** in Women's Super-G, winning **Grant** 24.00 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 11, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddeb\ud83c\uddf7 **CIZERON Guillaume and FOURNIER BEAUDRY Laurence** (**France,** 162 athletes) takes **Gold Medal** in Ice Dance, winning **John** 75.00 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 11, 2026",
+      "entry": "\ud83e\udd49 \ud83c\udde8\ud83c\udde6 **GILLES Piper and POIRIER Paul** (**Canada,** 211 athletes) takes **Bronze Medal** in Ice Dance, winning **John** 30.00 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 11, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddf3\ud83c\uddf1 **de BOO Jenning** (**Netherlands,** 39 athletes) takes **Silver Medal** in Men's 1000m, winning **Kalida** 25.71 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 11, 2026",
+      "entry": "\ud83e\udd49 \ud83c\udde8\ud83c\uddf3 **NING Zhongyan** (**China,** 126 athletes) takes **Bronze Medal** in Men's 1000m, winning **Eric** 17.14 points!",
+      "owner": "Eric"
+    },
+    {
+      "date": "Feb 11, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddee\ud83c\uddf9 **KAINZWALDNER Simon and RIEDER Emanuel** (**Italy,** 195 athletes) takes **Gold Medal** in Men's Doubles Luge, winning **Meredith** 50.00 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 11, 2026",
+      "entry": "\ud83e\udd48 \ud83c\udde6\ud83c\uddf9 **KINDL Wolfgang and STEU Thomas** (**Austria,** 117 athletes) takes **Silver Medal** in Men's Doubles Luge, winning **Grant** 30.00 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 11, 2026",
+      "entry": "\ud83e\udd49 \ud83c\udde9\ud83c\uddea **ARLT Tobias and WENDL Tobias** (**Germany,** 189 athletes) takes **Bronze Medal** in Men's Doubles Luge, winning **Kalida** 20.00 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 11, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddf3\ud83c\uddf4 **OFTEBRO Jens Luraas** (**Norway,** 80 athletes) takes **Gold Medal** in Men's Individual Normal Hill Nordic Combined, winning **Grant** 66.65 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 11, 2026",
+      "entry": "\ud83e\udd48 \ud83c\udde6\ud83c\uddf9 **LAMPARTER Johannes** (**Austria,** 117 athletes) takes **Silver Medal** in Men's Individual Normal Hill Nordic Combined, winning **Grant** 39.99 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 11, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddeb\ud83c\uddee **HIRVONEN Eero** (**Finland,** 103 athletes) takes **Bronze Medal** in Men's Individual Normal Hill Nordic Combined, winning **Eric** 26.66 points!",
+      "owner": "Eric"
+    },
+    {
+      "date": "Feb 11, 2026",
+      "entry": "\ud83e\udd47 \ud83c\udde8\ud83c\udded **von ALLMEN Franjo** (**Switzerland,** 175 athletes) takes **Gold Medal** in Men's Super-G, winning **Eric** 60.00 points!",
+      "owner": "Eric"
+    },
+    {
+      "date": "Feb 11, 2026",
+      "entry": "\ud83e\udd49 \ud83c\udde8\ud83c\udded **ODERMATT Marco** (**Switzerland,** 175 athletes) takes **Bronze Medal** in Men's Super-G, winning **Eric** 24.00 points!",
+      "owner": "Eric"
+    },
+    {
+      "date": "Feb 11, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddeb\ud83c\uddf7 **SIMON Julia** (**France,** 162 athletes) takes **Gold Medal** in Women's 15km Individual Biathlon, winning **John** 54.55 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 11, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddeb\ud83c\uddf7 **JEANMONNOT Lou** (**France,** 162 athletes) takes **Silver Medal** in Women's 15km Individual Biathlon, winning **John** 32.73 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 11, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddee\ud83c\uddf9 **OBERHOFER Marion and VOETTER Andrea** (**Italy,** 195 athletes) takes **Gold Medal** in Women's Doubles Luge, winning **Meredith** 50.00 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 11, 2026",
+      "entry": "\ud83e\udd48 \ud83c\udde9\ud83c\uddea **EITBERGER Dajana and MATSCHINA Magdalena** (**Germany,** 189 athletes) takes **Silver Medal** in Women's Doubles Luge, winning **Kalida** 30.00 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 11, 2026",
+      "entry": "\ud83e\udd49 \ud83c\udde6\ud83c\uddf9 **EGLE Selina and KIPP Lara Michaela** (**Austria,** 117 athletes) takes **Bronze Medal** in Women's Doubles Luge, winning **Grant** 20.00 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 11, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddeb\ud83c\uddf7 **LAFFONT Perrine** (**France,** 162 athletes) takes **Bronze Medal** in Women's Moguls, winning **John** 16.00 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 10, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddf3\ud83c\uddf4 **BOTN Johan-Olav** (**Norway,** 80 athletes) takes **Gold Medal** in Men's 20km Individual Biathlon, winning **Grant** 54.55 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 10, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddeb\ud83c\uddf7 **PERROT Eric** (**France,** 162 athletes) takes **Silver Medal** in Men's 20km Individual Biathlon, winning **John** 32.73 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 10, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddf3\ud83c\uddf4 **LAEGREID Sturla Holm** (**Norway,** 80 athletes) takes **Bronze Medal** in Men's 20km Individual Biathlon, winning **Grant** 21.82 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 10, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddf3\ud83c\uddf4 **RUUD Birk** (**Norway,** 80 athletes) takes **Gold Medal** in Men's Slopestyle Freestyle, winning **Grant** 40.00 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 10, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddf3\ud83c\uddff **HARRINGTON Luca** (**New Zealand,** 17 athletes) takes **Bronze Medal** in Men's Slopestyle Freestyle, winning **John** 16.00 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 10, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddf3\ud83c\uddf4 **KLAEBO Johannes Hoesflot** (**Norway,** 80 athletes) takes **Gold Medal** in Men's Sprint Free, winning **Grant** 40.00 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 10, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddf3\ud83c\uddf4 **VIKE Oskar Opstad** (**Norway,** 80 athletes) takes **Bronze Medal** in Men's Sprint Free, winning **Grant** 16.00 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 10, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddf8\ud83c\uddea **WRANAA Isabella and WRANAA Rasmus** (**Sweden,** 110 athletes) takes **Gold Medal** in Mixed Doubles Curling, winning **Meredith** 75.00 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 10, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddee\ud83c\uddf9 **CONSTANTINI Stefania and MOSANER Amos** (**Italy,** 195 athletes) takes **Bronze Medal** in Mixed Doubles Curling, winning **Meredith** 30.00 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 10, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddee\ud83c\uddf9 **FONTANA Arianna, BETTI Chiara, CONFORTOLA Elisa, NADALINI Thomas, SIGHEL Pietro, and SPECHENHAUSER Luca** (**Italy,** 195 athletes) takes **Gold Medal** in Mixed Team Relay Short Track, winning **Meredith** 66.65 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 10, 2026",
+      "entry": "\ud83e\udd48 \ud83c\udde8\ud83c\udde6 **SARAULT Courtney, DUBOIS Steven, BOUTIN Kim, BRUNELLE Florence, DANDJINOU William, and ROUSSEL Felix** (**Canada,** 211 athletes) takes **Silver Medal** in Mixed Team Relay Short Track, winning **John** 39.99 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 10, 2026",
+      "entry": "\ud83e\udd49 \ud83c\udde7\ud83c\uddea **DESMET Hanne, DESMET Stijn, PETRE Ward, and den DULK Tineke** (**Belgium,** 30 athletes) takes **Bronze Medal** in Mixed Team Relay Short Track, winning **Kalida** 26.66 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 10, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddf8\ud83c\uddee **PREVC Nika, PREVC Domen, LANISEK Anze, and VODAN Nika** (**Slovenia,** 37 athletes) takes **Gold Medal** in Mixed Team Ski Jumping, winning **Kalida** 66.65 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 10, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddf3\ud83c\uddf4 **STROEM Anna Odine, KVANDAL Eirin Maria, SUNDAL Kristoffer Eriksen, and LINDVIK Marius** (**Norway,** 80 athletes) takes **Silver Medal** in Mixed Team Ski Jumping, winning **Grant** 39.99 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 10, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddef\ud83c\uddf5 **NIKAIDO Ren, MARUYAMA Nozomi, KOBAYASHI Ryoyu, and TAKANASHI Sara** (**Japan,** 121 athletes) takes **Bronze Medal** in Mixed Team Ski Jumping, winning **Kalida** 26.66 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 10, 2026",
+      "entry": "\ud83e\udd47 \ud83c\udde6\ud83c\uddf9 **HUBER Katharina and RAEDLER Ariane** (**Austria,** 117 athletes) takes **Gold Medal** in Women's Alpine Combined, winning **Grant** 60.00 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 10, 2026",
+      "entry": "\ud83e\udd48 \ud83c\udde9\ud83c\uddea **AICHER Emma and WEIDLE-WINKELMANN Kira** (**Germany,** 189 athletes) takes **Silver Medal** in Women's Alpine Combined, winning **Kalida** 36.00 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 10, 2026",
+      "entry": "\ud83e\udd47 \ud83c\udde9\ud83c\uddea **TAUBITZ Julia** (**Germany,** 189 athletes) takes **Gold Medal** in Women's Singles Luge, winning **Kalida** 50.00 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 10, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddf1\ud83c\uddfb **BOTA Elina** (**Latvia,** 68 athletes) takes **Silver Medal** in Women's Singles Luge, winning **Grant** 30.00 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 10, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddf8\ud83c\uddea **SVAHN Linn** (**Sweden,** 110 athletes) takes **Gold Medal** in Women's Sprint Free, winning **Meredith** 40.00 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 10, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddf8\ud83c\uddea **SUNDLING Jonna** (**Sweden,** 110 athletes) takes **Silver Medal** in Women's Sprint Free, winning **Meredith** 24.00 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 10, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddf8\ud83c\uddea **DAHLQVIST Maja** (**Sweden,** 110 athletes) takes **Bronze Medal** in Women's Sprint Free, winning **Meredith** 16.00 points!",
+      "owner": "Meredith"
     },
     {
       "date": "Feb 09, 2026",
-      "entry": "**['NYENGET Martin Loewstroem']** (NOR, 80 athletes) takes Bronze Medal in Women's Snowboard Big Air, winning **Grant** 21.82 points!"
+      "entry": "\ud83e\udd47 \ud83c\udde8\ud83c\udded **von ALLMEN Franjo and NEF Tanguy** (**Switzerland,** 175 athletes) takes **Gold Medal** in Men's Alpine Combined, winning **Eric** 60.00 points!",
+      "owner": "Eric"
     },
     {
       "date": "Feb 09, 2026",
-      "entry": "**['KARL Benjamin']** (AUT, 117 athletes) takes Gold Medal in Men's Alpine Combined, winning **Grant** 60.00 points!"
+      "entry": "\ud83e\udd48 \ud83c\udde6\ud83c\uddf9 **FELLER Manuel and KRIECHMAYR Vincent** (**Austria,** 117 athletes) takes **Silver Medal** in Men's Alpine Combined, winning **Grant** 36.00 points!",
+      "owner": "Grant"
     },
     {
       "date": "Feb 09, 2026",
-      "entry": "**['KRIECHMAYR Vincent', 'MUELLER Jonas']** (AUT, 117 athletes) takes Silver Medal in Men's Alpine Combined, winning **Grant** 36.00 points!"
+      "entry": "\ud83e\udd48 \ud83c\udde8\ud83c\udded **MEILLARD Loic and ODERMATT Marco** (**Switzerland,** 175 athletes) takes **Silver Medal** in Men's Alpine Combined, winning **Eric** 36.00 points!",
+      "owner": "Eric"
     },
     {
       "date": "Feb 09, 2026",
-      "entry": "**['SU Yiming']** (CHN, 126 athletes) takes Bronze Medal in Women's Slopestyle Freestyle, winning **Eric** 16.00 points!"
+      "entry": "\ud83e\udd47 \ud83c\udde9\ud83c\uddea **RAIMUND Philipp** (**Germany,** 189 athletes) takes **Gold Medal** in Men's Individual Normal Hill Nordic Combined, winning **Kalida** 66.65 points!",
+      "owner": "Kalida"
     },
     {
       "date": "Feb 09, 2026",
-      "entry": "**['LOLLOBRIGIDA Francesca']** (ITA, 195 athletes) takes Gold Medal in Men's Individual Normal Hill Nordic Combined, winning **Meredith** 66.65 points!"
+      "entry": "\ud83e\udd48 \ud83c\uddf5\ud83c\uddf1 **TOMASIAK Kacper** (**Poland,** 60 athletes) takes **Silver Medal** in Men's Individual Normal Hill Nordic Combined, winning **Eric** 39.99 points!",
+      "owner": "Eric"
     },
     {
       "date": "Feb 09, 2026",
-      "entry": "**['TAKAGI Miho']** (JPN, 121 athletes) takes Bronze Medal in Men's Individual Normal Hill Nordic Combined, winning **Kalida** 26.66 points!"
+      "entry": "\ud83e\udd49 \ud83c\uddef\ud83c\uddf5 **NIKAIDO Ren** (**Japan,** 121 athletes) takes **Bronze Medal** in Men's Individual Normal Hill Nordic Combined, winning **Kalida** 26.66 points!",
+      "owner": "Kalida"
     },
     {
       "date": "Feb 09, 2026",
-      "entry": "**['YU Seungeun']** (KOR, 73 athletes) takes Bronze Medal in Women's 1000m, winning **John** 17.14 points!"
+      "entry": "\ud83e\udd49 \ud83c\udde8\ud83c\udded **DESCHWANDEN Gregor** (**Switzerland,** 175 athletes) takes **Bronze Medal** in Men's Individual Normal Hill Nordic Combined, winning **Eric** 26.66 points!",
+      "owner": "Eric"
     },
     {
       "date": "Feb 09, 2026",
-      "entry": "**['LEERDAM Jutta']** (NED, 39 athletes) takes Gold Medal in Women's Snowboard Big Air, winning **Kalida** 54.55 points!"
+      "entry": "\ud83e\udd47 \ud83c\uddf3\ud83c\uddf1 **LEERDAM Jutta** (**Netherlands,** 39 athletes) takes **Gold Medal** in Women's 1000m, winning **Kalida** 42.85 points!",
+      "owner": "Kalida"
     },
     {
       "date": "Feb 09, 2026",
-      "entry": "**['JILEK Metodej']** (CZE, 114 athletes) takes Silver Medal in Women's Slopestyle Freestyle, winning **Meredith** 24.00 points!"
+      "entry": "\ud83e\udd48 \ud83c\uddf3\ud83c\uddf1 **KOK Femke** (**Netherlands,** 39 athletes) takes **Silver Medal** in Women's 1000m, winning **Kalida** 25.71 points!",
+      "owner": "Kalida"
     },
     {
       "date": "Feb 09, 2026",
-      "entry": "**['EITREM Sander']** (NOR, 80 athletes) takes Gold Medal in Women's 1000m, winning **Grant** 42.85 points!"
+      "entry": "\ud83e\udd49 \ud83c\uddef\ud83c\uddf5 **TAKAGI Miho** (**Japan,** 121 athletes) takes **Bronze Medal** in Women's 1000m, winning **Kalida** 17.14 points!",
+      "owner": "Kalida"
     },
     {
       "date": "Feb 09, 2026",
-      "entry": "**['TOMASIAK Kacper']** (POL, 60 athletes) takes Silver Medal in Women's Snowboard Big Air, winning **Eric** 32.73 points!"
+      "entry": "\ud83e\udd47 \ud83c\udde8\ud83c\udded **GREMAUD Mathilde** (**Switzerland,** 175 athletes) takes **Gold Medal** in Women's Slopestyle Freestyle, winning **Eric** 40.00 points!",
+      "owner": "Eric"
     },
     {
       "date": "Feb 09, 2026",
-      "entry": "**['PREVC Nika']** (SLO, 37 athletes) takes Silver Medal in Men's Individual Normal Hill Nordic Combined, winning **Kalida** 39.99 points!"
+      "entry": "\ud83e\udd48 \ud83c\udde8\ud83c\uddf3 **GU Ailing Eileen** (**China,** 126 athletes) takes **Silver Medal** in Women's Slopestyle Freestyle, winning **Eric** 24.00 points!",
+      "owner": "Eric"
     },
     {
       "date": "Feb 09, 2026",
-      "entry": "**['ODERMATT Marco']** (SUI, 175 athletes) takes Silver Medal in Men's Alpine Combined, winning **Eric** 36.00 points!"
+      "entry": "\ud83e\udd49 \ud83c\udde8\ud83c\udde6 **OLDHAM Megan** (**Canada,** 211 athletes) takes **Bronze Medal** in Women's Slopestyle Freestyle, winning **John** 16.00 points!",
+      "owner": "John"
     },
     {
       "date": "Feb 09, 2026",
-      "entry": "**['NEF Tanguy']** (SUI, 175 athletes) takes Gold Medal in Women's Slopestyle Freestyle, winning **Eric** 40.00 points!"
+      "entry": "\ud83e\udd47 \ud83c\uddef\ud83c\uddf5 **MURASE Kokomo** (**Japan,** 121 athletes) takes **Gold Medal** in Women's Snowboard Big Air, winning **Kalida** 54.55 points!",
+      "owner": "Kalida"
     },
     {
       "date": "Feb 09, 2026",
-      "entry": "**['KARLSSON Frida']** (SWE, 110 athletes) takes Gold Medal in Men's Alpine Combined, winning **Meredith** 60.00 points!"
+      "entry": "\ud83e\udd48 \ud83c\uddf3\ud83c\uddff **SADOWSKI SYNNOTT Zoi** (**New Zealand,** 17 athletes) takes **Silver Medal** in Women's Snowboard Big Air, winning **John** 32.73 points!",
+      "owner": "John"
     },
     {
       "date": "Feb 09, 2026",
-      "entry": "**['WIKLUND Ragne']** (NOR, 80 athletes) takes Silver Medal in Women's 1000m, winning **Grant** 25.71 points!"
+      "entry": "\ud83e\udd49 \ud83c\uddf0\ud83c\uddf7 **YU Seungeun** (**Korea,** 73 athletes) takes **Bronze Medal** in Women's Snowboard Big Air, winning **John** 21.82 points!",
+      "owner": "John"
     },
     {
       "date": "Feb 08, 2026",
-      "entry": "**['KIM Sangkyum']** (KOR, 73 athletes) takes Silver Medal in Team Event Figure Skating, winning **John** 45.00 points!"
+      "entry": "\ud83e\udd47 \ud83c\uddf3\ud83c\uddf4 **KLAEBO Johannes Hoesflot** (**Norway,** 80 athletes) takes **Gold Medal** in Men's 15km + 15km Skiathlon, winning **Grant** 40.00 points!",
+      "owner": "Grant"
     },
     {
       "date": "Feb 08, 2026",
-      "entry": "**['MACII Niccolo']** (ITA, 195 athletes) takes Bronze Medal in Men's 5000m, winning **Meredith** 17.14 points!"
+      "entry": "\ud83e\udd48 \ud83c\uddeb\ud83c\uddf7 **DESLOGES Mathis** (**France,** 162 athletes) takes **Silver Medal** in Men's 15km + 15km Skiathlon, winning **John** 24.00 points!",
+      "owner": "John"
     },
     {
       "date": "Feb 08, 2026",
-      "entry": "**['KAGIYAMA Yuma']** (JPN, 121 athletes) takes Silver Medal in Mixed Relay Biathlon, winning **Kalida** 32.73 points!"
+      "entry": "\ud83e\udd49 \ud83c\uddf3\ud83c\uddf4 **NYENGET Martin Loewstroem** (**Norway,** 80 athletes) takes **Bronze Medal** in Men's 15km + 15km Skiathlon, winning **Grant** 16.00 points!",
+      "owner": "Grant"
     },
     {
       "date": "Feb 08, 2026",
-      "entry": "**['MARUYAMA Nozomi']** (JPN, 121 athletes) takes Bronze Medal in Team Event Figure Skating, winning **Kalida** 30.00 points!"
+      "entry": "\ud83e\udd47 \ud83c\uddf3\ud83c\uddf4 **EITREM Sander** (**Norway,** 80 athletes) takes **Gold Medal** in Men's 5000m, winning **Grant** 42.85 points!",
+      "owner": "Grant"
     },
     {
       "date": "Feb 08, 2026",
-      "entry": "**['KIHARA Ryuichi', 'KIMATA Ryoma', 'MORITA Masaya', 'SAKAMOTO Kaori', 'SATO Shun', 'YOSHIDA Utana']** (JPN, 121 athletes) takes Silver Medal in Team Event Figure Skating, winning **Kalida** 45.00 points!"
+      "entry": "\ud83e\udd48 \ud83c\udde8\ud83c\uddff **JILEK Metodej** (**Czechia,** 114 athletes) takes **Silver Medal** in Men's 5000m, winning **Meredith** 25.71 points!",
+      "owner": "Meredith"
     },
     {
       "date": "Feb 08, 2026",
-      "entry": "**['STROEM Anna Odine']** (NOR, 80 athletes) takes Gold Medal in Men's 15km + 15km Skiathlon, winning **Grant** 40.00 points!"
+      "entry": "\ud83e\udd49 \ud83c\uddee\ud83c\uddf9 **LORELLO Riccardo** (**Italy,** 195 athletes) takes **Bronze Medal** in Men's 5000m, winning **Meredith** 17.14 points!",
+      "owner": "Meredith"
     },
     {
       "date": "Feb 08, 2026",
-      "entry": "**['KOK Femke']** (NED, 39 athletes) takes Silver Medal in Men's Parallel Giant Slalom, winning **Kalida** 32.73 points!"
+      "entry": "\ud83e\udd47 \ud83c\udde6\ud83c\uddf9 **KARL Benjamin** (**Austria,** 117 athletes) takes **Gold Medal** in Men's Parallel Giant Slalom, winning **Grant** 54.55 points!",
+      "owner": "Grant"
     },
     {
       "date": "Feb 08, 2026",
-      "entry": "**['WENG Heidi']** (NOR, 80 athletes) takes Bronze Medal in Men's 15km + 15km Skiathlon, winning **Grant** 16.00 points!"
+      "entry": "\ud83e\udd48 \ud83c\uddf0\ud83c\uddf7 **KIM Sangkyum** (**Korea,** 73 athletes) takes **Silver Medal** in Men's Parallel Giant Slalom, winning **John** 32.73 points!",
+      "owner": "John"
     },
     {
       "date": "Feb 08, 2026",
-      "entry": "**['KLAEBO Johannes Hoesflot']** (NOR, 80 athletes) takes Gold Medal in Men's 5000m, winning **Grant** 42.85 points!"
+      "entry": "\ud83e\udd47 \ud83c\udde9\ud83c\uddea **LANGENHAN Max** (**Germany,** 189 athletes) takes **Gold Medal** in Men's Singles Luge, winning **Kalida** 50.00 points!",
+      "owner": "Kalida"
     },
     {
       "date": "Feb 08, 2026",
-      "entry": "**['GOGGIA Sofia']** (ITA, 195 athletes) takes Bronze Medal in Men's Singles Luge, winning **Meredith** 20.00 points!"
+      "entry": "\ud83e\udd48 \ud83c\udde6\ud83c\uddf9 **MUELLER Jonas** (**Austria,** 117 athletes) takes **Silver Medal** in Men's Singles Luge, winning **Grant** 30.00 points!",
+      "owner": "Grant"
     },
     {
       "date": "Feb 08, 2026",
-      "entry": "**['FABBRI Marco']** (ITA, 195 athletes) takes Bronze Medal in Women's Parallel Giant Slalom, winning **Meredith** 21.82 points!"
+      "entry": "\ud83e\udd49 \ud83c\uddee\ud83c\uddf9 **FISCHNALLER Dominik** (**Italy,** 195 athletes) takes **Bronze Medal** in Men's Singles Luge, winning **Meredith** 20.00 points!",
+      "owner": "Meredith"
     },
     {
       "date": "Feb 08, 2026",
-      "entry": "**['DALMASSO Lucia', 'FISCHNALLER Dominik', 'GUIGNARD Charlene', 'GUTMANN Lara Naki', 'LORELLO Riccardo', 'PARIS Dominik']** (ITA, 195 athletes) takes Bronze Medal in Team Event Figure Skating, winning **Meredith** 30.00 points!"
+      "entry": "\ud83e\udd47 \ud83c\uddeb\ud83c\uddf7 **JEANMONNOT Lou, FILLON MAILLET Quentin, SIMON Julia, and PERROT Eric** (**France,** 162 athletes) takes **Gold Medal** in Mixed Relay Biathlon, winning **John** 54.55 points!",
+      "owner": "John"
     },
     {
       "date": "Feb 08, 2026",
-      "entry": "**['MALTAIS Valerie']** (CAN, 211 athletes) takes Bronze Medal in Men's Parallel Giant Slalom, winning **John** 21.82 points!"
+      "entry": "\ud83e\udd48 \ud83c\uddee\ud83c\uddf9 **VITTOZZI Lisa, GIACOMEL Tommaso, HOFER Lukas, and WIERER Dorothea** (**Italy,** 195 athletes) takes **Silver Medal** in Mixed Relay Biathlon, winning **Meredith** 32.73 points!",
+      "owner": "Meredith"
     },
     {
       "date": "Feb 08, 2026",
-      "entry": "**['DESLOGES Mathis']** (FRA, 162 athletes) takes Silver Medal in Men's 5000m, winning **John** 25.71 points!"
+      "entry": "\ud83e\udd49 \ud83c\udde9\ud83c\uddea **NAWRATH Philipp, PREUSS Franziska, STRELOW Justus, and VOIGT Vanessa** (**Germany,** 189 athletes) takes **Bronze Medal** in Mixed Relay Biathlon, winning **Kalida** 21.82 points!",
+      "owner": "Kalida"
     },
     {
       "date": "Feb 08, 2026",
-      "entry": "**['FELLER Manuel']** (AUT, 117 athletes) takes Gold Medal in Team Event Figure Skating, winning **Grant** 75.00 points!"
+      "entry": "\ud83e\udd48 \ud83c\uddef\ud83c\uddf5 **KIHARA Ryuichi, MIURA Riku, KAGIYAMA Yuma, SAKAMOTO Kaori, SATO Shun, MORITA Masaya, and YOSHIDA Utana** (**Japan,** 121 athletes) takes **Silver Medal** in Team Event Figure Skating, winning **Kalida** 45.00 points!",
+      "owner": "Kalida"
     },
     {
       "date": "Feb 08, 2026",
-      "entry": "**['PAYER Sabine']** (AUT, 117 athletes) takes Silver Medal in Men's Singles Luge, winning **Grant** 30.00 points!"
+      "entry": "\ud83e\udd49 \ud83c\uddee\ud83c\uddf9 **CONTI Sara, FABBRI Marco, GRASSL Daniel, GUIGNARD Charlene, GUTMANN Lara Naki, MACII Niccolo, and RIZZO Matteo** (**Italy,** 195 athletes) takes **Bronze Medal** in Team Event Figure Skating, winning **Meredith** 30.00 points!",
+      "owner": "Meredith"
     },
     {
       "date": "Feb 08, 2026",
-      "entry": "**['HOFER Lukas', 'VITTOZZI Lisa', 'WIERER Dorothea']** (ITA, 195 athletes) takes Silver Medal in Mixed Relay Biathlon, winning **Meredith** 32.73 points!"
+      "entry": "\ud83e\udd48 \ud83c\udde9\ud83c\uddea **AICHER Emma** (**Germany,** 189 athletes) takes **Silver Medal** in Women's Downhill, winning **Kalida** 108.00 points!",
+      "owner": "Kalida"
     },
     {
       "date": "Feb 08, 2026",
-      "entry": "**['GU Ailing Eileen']** (CHN, 126 athletes) takes Silver Medal in Women's Parallel Giant Slalom, winning **Eric** 32.73 points!"
+      "entry": "\ud83e\udd49 \ud83c\uddee\ud83c\uddf9 **GOGGIA Sofia** (**Italy,** 195 athletes) takes **Bronze Medal** in Women's Downhill, winning **Meredith** 72.00 points!",
+      "owner": "Meredith"
     },
     {
       "date": "Feb 08, 2026",
-      "entry": "**['MADEROVA Zuzana']** (CZE, 114 athletes) takes Gold Medal in Men's Parallel Giant Slalom, winning **Meredith** 54.55 points!"
+      "entry": "\ud83e\udd47 \ud83c\udde8\ud83c\uddff **MADEROVA Zuzana** (**Czechia,** 114 athletes) takes **Gold Medal** in Women's Parallel Giant Slalom, winning **Meredith** 54.55 points!",
+      "owner": "Meredith"
     },
     {
       "date": "Feb 08, 2026",
-      "entry": "**['FILLON MAILLET Quentin']** (FRA, 162 athletes) takes Gold Medal in Women's Parallel Giant Slalom, winning **John** 54.55 points!"
+      "entry": "\ud83e\udd48 \ud83c\udde6\ud83c\uddf9 **PAYER Sabine** (**Austria,** 117 athletes) takes **Silver Medal** in Women's Parallel Giant Slalom, winning **Grant** 32.73 points!",
+      "owner": "Grant"
     },
     {
       "date": "Feb 08, 2026",
-      "entry": "**['JEANMONNOT Lou', 'PERROT Eric', 'SIMON Julia']** (FRA, 162 athletes) takes Gold Medal in Mixed Relay Biathlon, winning **John** 54.55 points!"
-    },
-    {
-      "date": "Feb 08, 2026",
-      "entry": "**['PREUSS Franziska', 'STRELOW Justus', 'VOIGT Vanessa']** (GER, 189 athletes) takes Bronze Medal in Mixed Relay Biathlon, winning **Kalida** 21.82 points!"
-    },
-    {
-      "date": "Feb 08, 2026",
-      "entry": "**['LANGENHAN Max']** (GER, 189 athletes) takes Gold Medal in Mixed Relay Biathlon, winning **Kalida** 54.55 points!"
-    },
-    {
-      "date": "Feb 08, 2026",
-      "entry": "**['AICHER Emma']** (GER, 189 athletes) takes Silver Medal in Men's 15km + 15km Skiathlon, winning **Kalida** 24.00 points!"
-    },
-    {
-      "date": "Feb 08, 2026",
-      "entry": "**['RAIMUND Philipp']** (GER, 189 athletes) takes Gold Medal in Men's Singles Luge, winning **Kalida** 50.00 points!"
-    },
-    {
-      "date": "Feb 08, 2026",
-      "entry": "**['GRASSL Daniel']** (ITA, 195 athletes) takes Bronze Medal in Women's Downhill, winning **Meredith** 72.00 points!"
-    },
-    {
-      "date": "Feb 08, 2026",
-      "entry": "**['FRANZONI Giovanni']** (ITA, 195 athletes) takes Silver Medal in Women's Downhill, winning **Meredith** 108.00 points!"
-    },
-    {
-      "date": "Feb 08, 2026",
-      "entry": "**['CONTI Sara']** (ITA, 195 athletes) takes Bronze Medal in Mixed Relay Biathlon, winning **Meredith** 21.82 points!"
+      "entry": "\ud83e\udd49 \ud83c\uddee\ud83c\uddf9 **DALMASSO Lucia** (**Italy,** 195 athletes) takes **Bronze Medal** in Women's Parallel Giant Slalom, winning **Meredith** 21.82 points!",
+      "owner": "Meredith"
     },
     {
       "date": "Feb 07, 2026",
-      "entry": "**['KIMURA Kira']** (JPN, 121 athletes) takes Gold Medal in Women's 3000m, winning **Kalida** 42.85 points!"
+      "entry": "\ud83e\udd47 \ud83c\udde8\ud83c\udded **von ALLMEN Franjo** (**Switzerland,** 175 athletes) takes **Gold Medal** in Men's Downhill, winning **Eric** 180.00 points!",
+      "owner": "Eric"
     },
     {
       "date": "Feb 07, 2026",
-      "entry": "**['RIZZO Matteo']** (ITA, 195 athletes) takes Bronze Medal in Men's Downhill, winning **Meredith** 72.00 points!"
+      "entry": "\ud83e\udd48 \ud83c\uddee\ud83c\uddf9 **FRANZONI Giovanni** (**Italy,** 195 athletes) takes **Silver Medal** in Men's Downhill, winning **Meredith** 108.00 points!",
+      "owner": "Meredith"
     },
     {
       "date": "Feb 07, 2026",
-      "entry": "**['GIACOMEL Tommaso']** (ITA, 195 athletes) takes Silver Medal in Men's Downhill, winning **Meredith** 108.00 points!"
+      "entry": "\ud83e\udd49 \ud83c\uddee\ud83c\uddf9 **PARIS Dominik** (**Italy,** 195 athletes) takes **Bronze Medal** in Men's Downhill, winning **Meredith** 72.00 points!",
+      "owner": "Meredith"
     },
     {
       "date": "Feb 07, 2026",
-      "entry": "**['NIKAIDO Ren']** (JPN, 121 athletes) takes Bronze Medal in Women's NH Individual, winning **Kalida** 26.66 points!"
+      "entry": "\ud83e\udd47 \ud83c\uddef\ud83c\uddf5 **KIMURA Kira** (**Japan,** 121 athletes) takes **Gold Medal** in Men's Snowboard Big Air, winning **Kalida** 54.55 points!",
+      "owner": "Kalida"
     },
     {
       "date": "Feb 07, 2026",
-      "entry": "**['MURASE Kokomo']** (JPN, 121 athletes) takes Gold Medal in Men's Snowboard Big Air, winning **Kalida** 54.55 points!"
+      "entry": "\ud83e\udd48 \ud83c\uddef\ud83c\uddf5 **KIMATA Ryoma** (**Japan,** 121 athletes) takes **Silver Medal** in Men's Snowboard Big Air, winning **Kalida** 32.73 points!",
+      "owner": "Kalida"
     },
     {
       "date": "Feb 07, 2026",
-      "entry": "**['MIURA Riku']** (JPN, 121 athletes) takes Silver Medal in Men's Snowboard Big Air, winning **Kalida** 32.73 points!"
+      "entry": "\ud83e\udd49 \ud83c\udde8\ud83c\uddf3 **SU Yiming** (**China,** 126 athletes) takes **Bronze Medal** in Men's Snowboard Big Air, winning **Eric** 21.82 points!",
+      "owner": "Eric"
     },
     {
       "date": "Feb 07, 2026",
-      "entry": "**['NAWRATH Philipp']** (GER, 189 athletes) takes Bronze Medal in Men's Snowboard Big Air, winning **Kalida** 21.82 points!"
+      "entry": "\ud83e\udd47 \ud83c\uddf8\ud83c\uddea **KARLSSON Frida** (**Sweden,** 110 athletes) takes **Gold Medal** in Women's 10km + 10km Skiathlon, winning **Meredith** 40.00 points!",
+      "owner": "Meredith"
     },
     {
       "date": "Feb 07, 2026",
-      "entry": "**['SADOWSKI SYNNOTT Zoi']** (NZL, 17 athletes) takes Silver Medal in Women's 3000m, winning **John** 25.71 points!"
+      "entry": "\ud83e\udd48 \ud83c\uddf8\ud83c\uddea **ANDERSSON Ebba** (**Sweden,** 110 athletes) takes **Silver Medal** in Women's 10km + 10km Skiathlon, winning **Meredith** 24.00 points!",
+      "owner": "Meredith"
     },
     {
       "date": "Feb 07, 2026",
-      "entry": "**['von ALLMEN Franjo', 'von ALLMEN Franjo']** (SUI, 175 athletes) takes Gold Medal in Men's Downhill, winning **Eric** 180.00 points!"
+      "entry": "\ud83e\udd49 \ud83c\uddf3\ud83c\uddf4 **WENG Heidi** (**Norway,** 80 athletes) takes **Bronze Medal** in Women's 10km + 10km Skiathlon, winning **Grant** 16.00 points!",
+      "owner": "Grant"
     },
     {
       "date": "Feb 07, 2026",
-      "entry": "**['DESCHWANDEN Gregor']** (SUI, 175 athletes) takes Bronze Medal in Women's 10km + 10km Skiathlon, winning **Eric** 16.00 points!"
+      "entry": "\ud83e\udd47 \ud83c\uddee\ud83c\uddf9 **LOLLOBRIGIDA Francesca** (**Italy,** 195 athletes) takes **Gold Medal** in Women's 3000m, winning **Meredith** 42.85 points!",
+      "owner": "Meredith"
     },
     {
       "date": "Feb 07, 2026",
-      "entry": "**['GREMAUD Mathilde']** (SUI, 175 athletes) takes Gold Medal in Women's NH Individual, winning **Eric** 66.65 points!"
+      "entry": "\ud83e\udd48 \ud83c\uddf3\ud83c\uddf4 **WIKLUND Ragne** (**Norway,** 80 athletes) takes **Silver Medal** in Women's 3000m, winning **Grant** 25.71 points!",
+      "owner": "Grant"
     },
     {
       "date": "Feb 07, 2026",
-      "entry": "**['MEILLARD Loic']** (SUI, 175 athletes) takes Silver Medal in Women's NH Individual, winning **Eric** 39.99 points!"
+      "entry": "\ud83e\udd49 \ud83c\udde8\ud83c\udde6 **MALTAIS Valerie** (**Canada,** 211 athletes) takes **Bronze Medal** in Women's 3000m, winning **John** 17.14 points!",
+      "owner": "John"
     },
     {
       "date": "Feb 07, 2026",
-      "entry": "**['OLDHAM Megan']** (CAN, 211 athletes) takes Bronze Medal in Women's 3000m, winning **John** 17.14 points!"
+      "entry": "\ud83e\udd47 \ud83c\uddf3\ud83c\uddf4 **STROEM Anna Odine** (**Norway,** 80 athletes) takes **Gold Medal** in Women's NH Individual, winning **Grant** 66.65 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 07, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddf8\ud83c\uddee **PREVC Nika** (**Slovenia,** 37 athletes) takes **Silver Medal** in Women's NH Individual, winning **Kalida** 39.99 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 07, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddef\ud83c\uddf5 **MARUYAMA Nozomi** (**Japan,** 121 athletes) takes **Bronze Medal** in Women's NH Individual, winning **Kalida** 26.66 points!",
+      "owner": "Kalida"
     }
   ]
 }

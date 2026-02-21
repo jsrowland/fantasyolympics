@@ -81,8 +81,8 @@
 79,Women's NH Individual,Ski Jumping,Ski Jumping,False,False,13.33
 80,Women's Large Hill Ski Jumping,Ski Jumping,Ski Jumping,False,False,13.33
 81,Men's Individual Normal Hill Nordic Combined,Nordic Combined,Ski Jumping,False,False,13.33
-82,Individual Gundersen Large Hill/10km,Nordic Combined,Ski Jumping,False,False,13.33
-83,Team Sprint,Nordic Combined,Ski Jumping,False,False,13.33
+82,Men's Individual Large Hill Nordic Combined,Nordic Combined,Ski Jumping,False,False,13.33
+83,Men's Team Sprint Large Hill Nordic Combined,Nordic Combined,Ski Jumping,False,False,13.33
 84,Men's Aerials,Freestyle Skiing,Freestyle Skiing,False,False,8.0
 85,Men's Moguls,Freestyle Skiing,Freestyle Skiing,False,False,8.0
 86,Men's Dual Moguls,Freestyle Skiing,Freestyle Skiing,False,False,8.0
@@ -114,4 +114,4 @@
 112,Men's Curling,Curling,Curling,False,True,45.0
 113,Women's Curling,Curling,Curling,False,True,45.0
 114,Mixed Doubles Curling,Curling,Curling,False,False,15.0
-115,Men's Super Team,Ski Jumping,Ski Jumping,False,False,13.33
+115,Men's Super Team,Ski Jumping,Ski Jumping,False,False,

@@ -79,7 +79,6 @@
   "Short Track Speed Skating|Men's 1000m": "Short Track|Men's 1000m Short Track",
   "Figure Skating|Pair Skating": "Figure Skating|Pairs Figure Skating",
   "Freestyle Skiing|Women's Freeski Big Air": "Freestyle Skiing|Women's Big Air Freestyle",
-  "Ski Jumping|Men's Super Team": "Ski Jumping|Men's Super Team Ski Jumping",
   "Bobsleigh|Women's Monobob": "Sliding|Women's Monobob",
   "Nordic Combined|Individual Gundersen Large Hill/10km": "Ski Jumping|Men's Team Sprint Large Hill Nordic Combined",
   "Snowboard|Women's Snowboard Slopestyle": "Snowboarding|Women's Slopestyle Snowboard",
@@ -107,5 +106,12 @@
   "Bobsleigh|2-woman": "Sliding|Two-woman Bobsleigh",
   "Curling|Women": "Curling|Women's Curling",
   "Bobsleigh|4-man": "Sliding|Four-man Bobsleigh",
-  "Ice Hockey|Men": "Ice Hockey|Men's Ice Hockey"
+  "Ice Hockey|Men": "Ice Hockey|Men's Ice Hockey",
+  "Cross-Country Skiing|Women's Sprint Classic": "Endurance Snow|Women's Sprint Free",
+  "Cross-Country Skiing|Men's Sprint Classic": "Endurance Snow|Men's Sprint Free",
+  "Ski Jumping|Mixed Team": "Ski Jumping|Mixed Team Ski Jumping",
+  "Cross-Country Skiing|Men's 10km Interval Start Free": "Endurance Snow|Men's 10km Free",
+  "Ski Jumping|Men's Super Team": "Ski Jumping|Men's Super Team",
+  "Biathlon|Men's 4 x 7.5km Relay": "Endurance Snow|Men's 4x10km Relay",
+  "Nordic Combined|Team Sprint": "Ski Jumping|Team Sprint"
 }
