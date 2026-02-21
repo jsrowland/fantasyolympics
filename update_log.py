@@ -198,6 +198,24 @@ def update_log(data_dir):
             "owner": row['owner']
         })
 
+    # Create per-country event breakdown for the Nation Detail tab
+    country_events = {}
+    for _, row in results.iterrows():
+        country = row['country']
+        if country not in country_events:
+            country_events[country] = []
+        country_events[country].append({
+            "date": row['date'].strftime("%b %d, %Y"),
+            "event": row['event'],
+            "discipline": row['discipline'],
+            "medal": row['medal'],
+            "base_score": float(row['base_score']),
+            "is_team": bool(row['is_team']),
+            "is_prestige": bool(row['is_prestige']),
+            "medal_points": float(row['medal_points']),
+            "flag": get_flag(row['code'])
+        })
+
     # Create the "Medal Table" entries (Country-level breakdown)
     medal_breakdown = results.groupby('country').agg(
         golds=('medal', lambda x: (x == 'Gold Medal').sum()),
@@ -220,6 +238,7 @@ def update_log(data_dir):
 
     # Drop any duplicate columns that popped up during merge
     final_table = final_table.drop(columns=[c for c in final_table.columns if '_drop' in c])
+    final_table['flag'] = final_table['code'].apply(get_flag)
 
     medal_table_data = final_table.to_dict(orient='records')
 
@@ -227,7 +246,8 @@ def update_log(data_dir):
     dashboard_data = {
         "history": score_log, # Your existing time-series data
         "medal_table": medal_table_data,
-        "news": news_feed
+        "news": news_feed,
+        "country_events": country_events
     }
 
     with open('dashboard_data.json', 'w') as f:

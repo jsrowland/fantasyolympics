@@ -286,37 +286,37 @@
         "Grant": {
           "medal_score": 1473.76,
           "pa_score": 4.0157,
-          "norm_medal": 0.2198,
-          "norm_pa": 0.2784,
-          "daily_score": 26.67
+          "norm_medal": 0.2155,
+          "norm_pa": 0.2731,
+          "daily_score": 26.16
         },
         "John": {
           "medal_score": 1090.18,
           "pa_score": 2.1935,
-          "norm_medal": 0.1626,
-          "norm_pa": 0.1521,
-          "daily_score": 15.42
+          "norm_medal": 0.1594,
+          "norm_pa": 0.1492,
+          "daily_score": 15.12
         },
         "Eric": {
-          "medal_score": 697.97,
-          "pa_score": 1.1594,
-          "norm_medal": 0.1041,
-          "norm_pa": 0.0804,
-          "daily_score": 8.51
+          "medal_score": 724.63,
+          "pa_score": 1.2037,
+          "norm_medal": 0.106,
+          "norm_pa": 0.0819,
+          "daily_score": 8.67
         },
         "Meredith": {
           "medal_score": 1543.43,
           "pa_score": 2.8424,
-          "norm_medal": 0.2302,
-          "norm_pa": 0.1971,
-          "daily_score": 20.37
+          "norm_medal": 0.2257,
+          "norm_pa": 0.1933,
+          "daily_score": 19.98
         },
         "Kalida": {
-          "medal_score": 1899.49,
-          "pa_score": 4.2117,
-          "norm_medal": 0.2833,
-          "norm_pa": 0.292,
-          "daily_score": 29.03
+          "medal_score": 2006.13,
+          "pa_score": 4.4482,
+          "norm_medal": 0.2934,
+          "norm_pa": 0.3025,
+          "daily_score": 30.07
         }
       }
     },
@@ -326,37 +326,37 @@
         "Grant": {
           "medal_score": 1736.41,
           "pa_score": 4.7314,
-          "norm_medal": 0.2125,
-          "norm_pa": 0.2701,
-          "daily_score": 25.86
+          "norm_medal": 0.2091,
+          "norm_pa": 0.2659,
+          "daily_score": 25.45
         },
         "John": {
           "medal_score": 1272.01,
           "pa_score": 2.5594,
-          "norm_medal": 0.1557,
-          "norm_pa": 0.1461,
-          "daily_score": 14.8
+          "norm_medal": 0.1532,
+          "norm_pa": 0.1438,
+          "daily_score": 14.57
         },
         "Eric": {
-          "medal_score": 719.79,
-          "pa_score": 1.1957,
-          "norm_medal": 0.0881,
-          "norm_pa": 0.0683,
-          "daily_score": 7.23
+          "medal_score": 746.45,
+          "pa_score": 1.24,
+          "norm_medal": 0.0899,
+          "norm_pa": 0.0697,
+          "daily_score": 7.37
         },
         "Meredith": {
           "medal_score": 2185.47,
           "pa_score": 4.0248,
-          "norm_medal": 0.2675,
-          "norm_pa": 0.2298,
-          "daily_score": 23.73
+          "norm_medal": 0.2632,
+          "norm_pa": 0.2262,
+          "daily_score": 23.36
         },
         "Kalida": {
-          "medal_score": 2257.25,
-          "pa_score": 5.005,
-          "norm_medal": 0.2763,
-          "norm_pa": 0.2857,
-          "daily_score": 28.38
+          "medal_score": 2363.89,
+          "pa_score": 5.2414,
+          "norm_medal": 0.2847,
+          "norm_pa": 0.2945,
+          "daily_score": 29.25
         }
       }
     },
@@ -366,37 +366,37 @@
         "Grant": {
           "medal_score": 1889.72,
           "pa_score": 5.1491,
-          "norm_medal": 0.2154,
-          "norm_pa": 0.2734,
-          "daily_score": 26.18
+          "norm_medal": 0.2122,
+          "norm_pa": 0.2694,
+          "daily_score": 25.8
         },
         "John": {
           "medal_score": 1378.66,
           "pa_score": 2.774,
-          "norm_medal": 0.1572,
-          "norm_pa": 0.1473,
-          "daily_score": 14.93
+          "norm_medal": 0.1548,
+          "norm_pa": 0.1451,
+          "daily_score": 14.7
         },
         "Eric": {
-          "medal_score": 843.78,
-          "pa_score": 1.4016,
-          "norm_medal": 0.0962,
-          "norm_pa": 0.0744,
-          "daily_score": 7.88
+          "medal_score": 870.44,
+          "pa_score": 1.4459,
+          "norm_medal": 0.0977,
+          "norm_pa": 0.0757,
+          "daily_score": 8.01
         },
         "Meredith": {
           "medal_score": 2201.47,
           "pa_score": 4.0543,
-          "norm_medal": 0.251,
-          "norm_pa": 0.2153,
-          "daily_score": 22.24
+          "norm_medal": 0.2472,
+          "norm_pa": 0.2121,
+          "daily_score": 21.91
         },
         "Kalida": {
-          "medal_score": 2458.9,
-          "pa_score": 5.4521,
-          "norm_medal": 0.2803,
-          "norm_pa": 0.2895,
-          "daily_score": 28.77
+          "medal_score": 2565.54,
+          "pa_score": 5.6886,
+          "norm_medal": 0.2881,
+          "norm_pa": 0.2976,
+          "daily_score": 29.57
         }
       }
     },
@@ -404,39 +404,39 @@
       "timestamp": "2026-02-17T00:00:00",
       "players": {
         "Grant": {
-          "medal_score": 1969.72,
-          "pa_score": 5.3671,
-          "norm_medal": 0.2152,
-          "norm_pa": 0.2729,
-          "daily_score": 26.14
+          "medal_score": 2076.36,
+          "pa_score": 5.6577,
+          "norm_medal": 0.2204,
+          "norm_pa": 0.2789,
+          "daily_score": 26.72
         },
         "John": {
           "medal_score": 1461.51,
           "pa_score": 2.9407,
-          "norm_medal": 0.1597,
-          "norm_pa": 0.1495,
-          "daily_score": 15.15
+          "norm_medal": 0.1551,
+          "norm_pa": 0.145,
+          "daily_score": 14.7
         },
         "Eric": {
-          "medal_score": 860.92,
-          "pa_score": 1.4301,
-          "norm_medal": 0.094,
-          "norm_pa": 0.0727,
-          "daily_score": 7.7
+          "medal_score": 914.24,
+          "pa_score": 1.5187,
+          "norm_medal": 0.097,
+          "norm_pa": 0.0749,
+          "daily_score": 7.93
         },
         "Meredith": {
           "medal_score": 2260.32,
           "pa_score": 4.1627,
-          "norm_medal": 0.2469,
-          "norm_pa": 0.2116,
-          "daily_score": 21.87
+          "norm_medal": 0.2399,
+          "norm_pa": 0.2052,
+          "daily_score": 21.21
         },
         "Kalida": {
-          "medal_score": 2601.75,
-          "pa_score": 5.7688,
-          "norm_medal": 0.2842,
-          "norm_pa": 0.2933,
-          "daily_score": 29.15
+          "medal_score": 2708.39,
+          "pa_score": 6.0053,
+          "norm_medal": 0.2875,
+          "norm_pa": 0.296,
+          "daily_score": 29.43
         }
       }
     },
@@ -444,39 +444,39 @@
       "timestamp": "2026-02-18T00:00:00",
       "players": {
         "Grant": {
-          "medal_score": 2031.54,
-          "pa_score": 5.5355,
-          "norm_medal": 0.2031,
-          "norm_pa": 0.259,
-          "daily_score": 24.78
+          "medal_score": 2138.18,
+          "pa_score": 5.8261,
+          "norm_medal": 0.2082,
+          "norm_pa": 0.265,
+          "daily_score": 25.36
         },
         "John": {
           "medal_score": 1708.75,
           "pa_score": 3.4381,
-          "norm_medal": 0.1708,
-          "norm_pa": 0.1609,
-          "daily_score": 16.29
+          "norm_medal": 0.1664,
+          "norm_pa": 0.1564,
+          "daily_score": 15.84
         },
         "Eric": {
-          "medal_score": 1031.47,
-          "pa_score": 1.7134,
-          "norm_medal": 0.1031,
-          "norm_pa": 0.0802,
-          "daily_score": 8.48
+          "medal_score": 1084.79,
+          "pa_score": 1.802,
+          "norm_medal": 0.1056,
+          "norm_pa": 0.082,
+          "daily_score": 8.67
         },
         "Meredith": {
           "medal_score": 2437.04,
           "pa_score": 4.4881,
-          "norm_medal": 0.2436,
-          "norm_pa": 0.21,
-          "daily_score": 21.67
+          "norm_medal": 0.2373,
+          "norm_pa": 0.2041,
+          "daily_score": 21.07
         },
         "Kalida": {
-          "medal_score": 2793.5,
-          "pa_score": 6.194,
-          "norm_medal": 0.2793,
-          "norm_pa": 0.2899,
-          "daily_score": 28.78
+          "medal_score": 2900.14,
+          "pa_score": 6.4305,
+          "norm_medal": 0.2824,
+          "norm_pa": 0.2925,
+          "daily_score": 29.05
         }
       }
     },
@@ -484,39 +484,39 @@
       "timestamp": "2026-02-19T00:00:00",
       "players": {
         "Grant": {
-          "medal_score": 2124.85,
-          "pa_score": 5.7898,
-          "norm_medal": 0.1957,
-          "norm_pa": 0.2503,
-          "daily_score": 23.94
+          "medal_score": 2231.49,
+          "pa_score": 6.0804,
+          "norm_medal": 0.2006,
+          "norm_pa": 0.2561,
+          "daily_score": 24.5
         },
         "John": {
           "medal_score": 1928.75,
           "pa_score": 3.8808,
-          "norm_medal": 0.1777,
-          "norm_pa": 0.1678,
-          "daily_score": 16.98
+          "norm_medal": 0.1734,
+          "norm_pa": 0.1634,
+          "daily_score": 16.54
         },
         "Eric": {
-          "medal_score": 1274.31,
-          "pa_score": 2.1168,
-          "norm_medal": 0.1174,
-          "norm_pa": 0.0915,
-          "daily_score": 9.67
+          "medal_score": 1327.63,
+          "pa_score": 2.2054,
+          "norm_medal": 0.1194,
+          "norm_pa": 0.0929,
+          "daily_score": 9.82
         },
         "Meredith": {
           "medal_score": 2437.04,
           "pa_score": 4.4881,
-          "norm_medal": 0.2245,
-          "norm_pa": 0.194,
-          "daily_score": 20.01
+          "norm_medal": 0.2191,
+          "norm_pa": 0.189,
+          "daily_score": 19.5
         },
         "Kalida": {
-          "medal_score": 3091.64,
-          "pa_score": 6.8551,
-          "norm_medal": 0.2848,
-          "norm_pa": 0.2964,
-          "daily_score": 29.41
+          "medal_score": 3198.28,
+          "pa_score": 7.0915,
+          "norm_medal": 0.2875,
+          "norm_pa": 0.2986,
+          "daily_score": 29.64
         }
       }
     }
@@ -529,11 +529,12 @@
       "draft_pick": 1,
       "draft_round": 1,
       "athletes": 80,
-      "golds": 15.0,
+      "golds": 16.0,
       "silvers": 8.0,
       "bronzes": 10.0,
-      "medal_points": 1214.24,
-      "pa_score": 15.18
+      "medal_points": 1280.89,
+      "pa_score": 16.01,
+      "flag": "\ud83c\uddf3\ud83c\uddf4"
     },
     {
       "country": "Canada",
@@ -546,7 +547,8 @@
       "silvers": 5.0,
       "bronzes": 6.0,
       "medal_points": 674.09,
-      "pa_score": 3.19
+      "pa_score": 3.19,
+      "flag": "\ud83c\udde8\ud83c\udde6"
     },
     {
       "country": "Finland",
@@ -557,9 +559,10 @@
       "athletes": 103,
       "golds": 0.0,
       "silvers": 1.0,
-      "bronzes": 3.0,
-      "medal_points": 104.47,
-      "pa_score": 1.01
+      "bronzes": 4.0,
+      "medal_points": 131.13,
+      "pa_score": 1.27,
+      "flag": "\ud83c\uddeb\ud83c\uddee"
     },
     {
       "country": "Sweden",
@@ -572,7 +575,8 @@
       "silvers": 6.0,
       "bronzes": 3.0,
       "medal_points": 510.28,
-      "pa_score": 4.64
+      "pa_score": 4.64,
+      "flag": "\ud83c\uddf8\ud83c\uddea"
     },
     {
       "country": "Germany",
@@ -585,7 +589,8 @@
       "silvers": 8.0,
       "bronzes": 8.0,
       "medal_points": 758.47,
-      "pa_score": 4.01
+      "pa_score": 4.01,
+      "flag": "\ud83c\udde9\ud83c\uddea"
     },
     {
       "country": "Netherlands",
@@ -598,7 +603,8 @@
       "silvers": 7.0,
       "bronzes": 3.0,
       "medal_points": 796.03,
-      "pa_score": 20.41
+      "pa_score": 20.41,
+      "flag": "\ud83c\uddf3\ud83c\uddf1"
     },
     {
       "country": "Italy",
@@ -611,7 +617,8 @@
       "silvers": 5.0,
       "bronzes": 12.0,
       "medal_points": 1179.98,
-      "pa_score": 6.05
+      "pa_score": 6.05,
+      "flag": "\ud83c\uddee\ud83c\uddf9"
     },
     {
       "country": "Switzerland",
@@ -624,7 +631,8 @@
       "silvers": 4.0,
       "bronzes": 4.0,
       "medal_points": 766.66,
-      "pa_score": 4.38
+      "pa_score": 4.38,
+      "flag": "\ud83c\udde8\ud83c\udded"
     },
     {
       "country": "Korea",
@@ -637,7 +645,8 @@
       "silvers": 2.0,
       "bronzes": 3.0,
       "medal_points": 378.15999999999997,
-      "pa_score": 5.18
+      "pa_score": 5.18,
+      "flag": "\ud83c\uddf0\ud83c\uddf7"
     },
     {
       "country": "Latvia",
@@ -650,7 +659,8 @@
       "silvers": 1.0,
       "bronzes": 1.0,
       "medal_points": 56.66,
-      "pa_score": 0.83
+      "pa_score": 0.83,
+      "flag": "\ud83c\uddf1\ud83c\uddfb"
     },
     {
       "country": "Austria",
@@ -660,10 +670,11 @@
       "draft_round": 3,
       "athletes": 117,
       "golds": 5.0,
-      "silvers": 7.0,
+      "silvers": 8.0,
       "bronzes": 5.0,
-      "medal_points": 628.95,
-      "pa_score": 5.38
+      "medal_points": 668.9399999999999,
+      "pa_score": 5.72,
+      "flag": "\ud83c\udde6\ud83c\uddf9"
     },
     {
       "country": "France",
@@ -676,7 +687,8 @@
       "silvers": 8.0,
       "bronzes": 5.0,
       "medal_points": 735.04,
-      "pa_score": 4.54
+      "pa_score": 4.54,
+      "flag": "\ud83c\uddeb\ud83c\uddf7"
     },
     {
       "country": "China",
@@ -689,7 +701,8 @@
       "silvers": 3.0,
       "bronzes": 4.0,
       "medal_points": 297.49,
-      "pa_score": 2.36
+      "pa_score": 2.36,
+      "flag": "\ud83c\udde8\ud83c\uddf3"
     },
     {
       "country": "Czechia",
@@ -702,7 +715,8 @@
       "silvers": 2.0,
       "bronzes": 0.0,
       "medal_points": 155.84,
-      "pa_score": 1.37
+      "pa_score": 1.37,
+      "flag": "\ud83c\udde8\ud83c\uddff"
     },
     {
       "country": "Japan",
@@ -712,10 +726,11 @@
       "draft_round": 3,
       "athletes": 121,
       "golds": 5.0,
-      "silvers": 6.0,
+      "silvers": 7.0,
       "bronzes": 12.0,
-      "medal_points": 1321.18,
-      "pa_score": 10.92
+      "medal_points": 1361.17,
+      "pa_score": 11.25,
+      "flag": "\ud83c\uddef\ud83c\uddf5"
     },
     {
       "country": "Slovenia",
@@ -724,11 +739,12 @@
       "draft_pick": 16,
       "draft_round": 4,
       "athletes": 37,
-      "golds": 1.0,
+      "golds": 2.0,
       "silvers": 1.0,
       "bronzes": 1.0,
-      "medal_points": 133.3,
-      "pa_score": 3.6
+      "medal_points": 199.95000000000002,
+      "pa_score": 5.4,
+      "flag": "\ud83c\uddf8\ud83c\uddee"
     },
     {
       "country": "Great Britain",
@@ -741,7 +757,8 @@
       "silvers": 0.0,
       "bronzes": 0.0,
       "medal_points": 318.2,
-      "pa_score": 5.79
+      "pa_score": 5.79,
+      "flag": "\ud83c\uddec\ud83c\udde7"
     },
     {
       "country": "Poland",
@@ -752,9 +769,10 @@
       "athletes": 60,
       "golds": 0.0,
       "silvers": 3.0,
-      "bronzes": 0.0,
-      "medal_points": 105.69,
-      "pa_score": 1.76
+      "bronzes": 1.0,
+      "medal_points": 132.35000000000002,
+      "pa_score": 2.21,
+      "flag": "\ud83c\uddf5\ud83c\uddf1"
     },
     {
       "country": "New Zealand",
@@ -767,7 +785,8 @@
       "silvers": 2.0,
       "bronzes": 1.0,
       "medal_points": 81.46,
-      "pa_score": 4.79
+      "pa_score": 4.79,
+      "flag": "\ud83c\uddf3\ud83c\uddff"
     },
     {
       "country": "Individual Neutral Athletes",
@@ -780,7 +799,8 @@
       "silvers": 0.0,
       "bronzes": 0.0,
       "medal_points": 0.0,
-      "pa_score": 0.0
+      "pa_score": 0.0,
+      "flag": "\ud83c\uddfa\ud83c\uddf3"
     },
     {
       "country": "Estonia",
@@ -793,7 +813,8 @@
       "silvers": 0.0,
       "bronzes": 0.0,
       "medal_points": 0.0,
-      "pa_score": 0.0
+      "pa_score": 0.0,
+      "flag": "\ud83c\uddea\ud83c\uddea"
     },
     {
       "country": "Lithuania",
@@ -806,7 +827,8 @@
       "silvers": 0.0,
       "bronzes": 0.0,
       "medal_points": 0.0,
-      "pa_score": 0.0
+      "pa_score": 0.0,
+      "flag": "\ud83c\uddf1\ud83c\uddf9"
     },
     {
       "country": "Denmark",
@@ -819,7 +841,8 @@
       "silvers": 0.0,
       "bronzes": 0.0,
       "medal_points": 0.0,
-      "pa_score": 0.0
+      "pa_score": 0.0,
+      "flag": "\ud83c\udde9\ud83c\uddf0"
     },
     {
       "country": "Australia",
@@ -832,7 +855,8 @@
       "silvers": 2.0,
       "bronzes": 1.0,
       "medal_points": 272.74,
-      "pa_score": 5.05
+      "pa_score": 5.05,
+      "flag": "\ud83c\udde6\ud83c\uddfa"
     },
     {
       "country": "Hungary",
@@ -845,7 +869,8 @@
       "silvers": 0.0,
       "bronzes": 0.0,
       "medal_points": 0.0,
-      "pa_score": 0.0
+      "pa_score": 0.0,
+      "flag": "\ud83c\udded\ud83c\uddfa"
     },
     {
       "country": "Belgium",
@@ -858,7 +883,8 @@
       "silvers": 0.0,
       "bronzes": 1.0,
       "medal_points": 26.66,
-      "pa_score": 0.89
+      "pa_score": 0.89,
+      "flag": "\ud83c\udde7\ud83c\uddea"
     },
     {
       "country": "Liechtenstein",
@@ -871,7 +897,8 @@
       "silvers": 0.0,
       "bronzes": 0.0,
       "medal_points": 0.0,
-      "pa_score": 0.0
+      "pa_score": 0.0,
+      "flag": "\ud83c\uddf1\ud83c\uddee"
     },
     {
       "country": "Ukraine",
@@ -884,7 +911,8 @@
       "silvers": 0.0,
       "bronzes": 0.0,
       "medal_points": 0.0,
-      "pa_score": 0.0
+      "pa_score": 0.0,
+      "flag": "\ud83c\uddfa\ud83c\udde6"
     },
     {
       "country": "Brazil",
@@ -897,7 +925,8 @@
       "silvers": 0.0,
       "bronzes": 0.0,
       "medal_points": 60.0,
-      "pa_score": 4.0
+      "pa_score": 4.0,
+      "flag": "\ud83c\udde7\ud83c\uddf7"
     },
     {
       "country": "Kazakhstan",
@@ -910,7 +939,8 @@
       "silvers": 0.0,
       "bronzes": 0.0,
       "medal_points": 225.0,
-      "pa_score": 6.25
+      "pa_score": 6.25,
+      "flag": "\ud83c\uddf0\ud83c\uddff"
     },
     {
       "country": "Croatia",
@@ -923,7 +953,8 @@
       "silvers": 0.0,
       "bronzes": 0.0,
       "medal_points": 0.0,
-      "pa_score": 0.0
+      "pa_score": 0.0,
+      "flag": "\ud83c\udded\ud83c\uddf7"
     },
     {
       "country": "Luxembourg",
@@ -936,7 +967,8 @@
       "silvers": 0.0,
       "bronzes": 0.0,
       "medal_points": 0.0,
-      "pa_score": 0.0
+      "pa_score": 0.0,
+      "flag": "\ud83c\uddf1\ud83c\uddfa"
     },
     {
       "country": "Slovakia",
@@ -949,7 +981,8 @@
       "silvers": 0.0,
       "bronzes": 0.0,
       "medal_points": 0.0,
-      "pa_score": 0.0
+      "pa_score": 0.0,
+      "flag": "\ud83c\uddf8\ud83c\uddf0"
     },
     {
       "country": "Jamaica",
@@ -962,7 +995,8 @@
       "silvers": 0.0,
       "bronzes": 0.0,
       "medal_points": 0.0,
-      "pa_score": 0.0
+      "pa_score": 0.0,
+      "flag": "\ud83c\uddef\ud83c\uddf2"
     },
     {
       "country": "Spain",
@@ -975,7 +1009,8 @@
       "silvers": 0.0,
       "bronzes": 1.0,
       "medal_points": 56.0,
-      "pa_score": 2.8
+      "pa_score": 2.8,
+      "flag": "\ud83c\uddea\ud83c\uddf8"
     }
   ],
   "news": [
@@ -1168,6 +1203,21 @@
       "date": "Feb 18, 2026",
       "entry": "\ud83e\udd49 \ud83c\udde9\ud83c\uddea **GIMMLER Laura and RYDZEK Coletta** (**Germany,** 189 athletes) takes **Bronze Medal** in Women's Team Sprint, winning **Kalida** 16.00 points!",
       "owner": "Kalida"
+    },
+    {
+      "date": "Feb 17, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddf3\ud83c\uddf4 **OFTEBRO Jens Luraas** (**Norway,** 80 athletes) takes **Gold Medal** in Individual Gundersen Large Hill/10km, winning **Grant** 66.65 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 17, 2026",
+      "entry": "\ud83e\udd48 \ud83c\udde6\ud83c\uddf9 **LAMPARTER Johannes** (**Austria,** 117 athletes) takes **Silver Medal** in Individual Gundersen Large Hill/10km, winning **Grant** 39.99 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 17, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddeb\ud83c\uddee **HEROLA Ilkka** (**Finland,** 103 athletes) takes **Bronze Medal** in Individual Gundersen Large Hill/10km, winning **Eric** 26.66 points!",
+      "owner": "Eric"
     },
     {
       "date": "Feb 17, 2026",
@@ -1482,6 +1532,21 @@
     {
       "date": "Feb 14, 2026",
       "entry": "\ud83e\udd49 \ud83c\udde8\ud83c\udded **MEILLARD Loic** (**Switzerland,** 175 athletes) takes **Bronze Medal** in Men's Giant Slalom, winning **Eric** 24.00 points!",
+      "owner": "Eric"
+    },
+    {
+      "date": "Feb 14, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddf8\ud83c\uddee **PREVC Domen** (**Slovenia,** 37 athletes) takes **Gold Medal** in Men's Large Hill Ski Jumping, winning **Kalida** 66.65 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 14, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddef\ud83c\uddf5 **NIKAIDO Ren** (**Japan,** 121 athletes) takes **Silver Medal** in Men's Large Hill Ski Jumping, winning **Kalida** 39.99 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 14, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddf5\ud83c\uddf1 **TOMASIAK Kacper** (**Poland,** 60 athletes) takes **Bronze Medal** in Men's Large Hill Ski Jumping, winning **Eric** 26.66 points!",
       "owner": "Eric"
     },
     {
@@ -2224,5 +2289,2860 @@
       "entry": "\ud83e\udd49 \ud83c\uddef\ud83c\uddf5 **MARUYAMA Nozomi** (**Japan,** 121 athletes) takes **Bronze Medal** in Women's NH Individual, winning **Kalida** 26.66 points!",
       "owner": "Kalida"
     }
-  ]
+  ],
+  "country_events": {
+    "Canada": [
+      {
+        "date": "Feb 07, 2026",
+        "event": "Women's 3000m",
+        "discipline": "Speed Skating",
+        "medal": "Bronze Medal",
+        "base_score": 8.57,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 17.14,
+        "flag": "\ud83c\udde8\ud83c\udde6"
+      },
+      {
+        "date": "Feb 09, 2026",
+        "event": "Women's Slopestyle Freestyle",
+        "discipline": "Freestyle Skiing",
+        "medal": "Bronze Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 16.0,
+        "flag": "\ud83c\udde8\ud83c\udde6"
+      },
+      {
+        "date": "Feb 10, 2026",
+        "event": "Mixed Team Relay Short Track",
+        "discipline": "Short Track Speed Skating",
+        "medal": "Silver Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 39.99,
+        "flag": "\ud83c\udde8\ud83c\udde6"
+      },
+      {
+        "date": "Feb 11, 2026",
+        "event": "Ice Dance",
+        "discipline": "Figure Skating",
+        "medal": "Bronze Medal",
+        "base_score": 15.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 30.0,
+        "flag": "\ud83c\udde8\ud83c\udde6"
+      },
+      {
+        "date": "Feb 12, 2026",
+        "event": "Men's Moguls",
+        "discipline": "Freestyle Skiing",
+        "medal": "Silver Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 24.0,
+        "flag": "\ud83c\udde8\ud83c\udde6"
+      },
+      {
+        "date": "Feb 12, 2026",
+        "event": "Women's 500m Short Track",
+        "discipline": "Short Track Speed Skating",
+        "medal": "Bronze Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 26.66,
+        "flag": "\ud83c\udde8\ud83c\udde6"
+      },
+      {
+        "date": "Feb 12, 2026",
+        "event": "Men's Snowboard Cross",
+        "discipline": "Snowboard",
+        "medal": "Silver Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 32.73,
+        "flag": "\ud83c\udde8\ud83c\udde6"
+      },
+      {
+        "date": "Feb 14, 2026",
+        "event": "Men's 500m",
+        "discipline": "Speed Skating",
+        "medal": "Bronze Medal",
+        "base_score": 25.71,
+        "is_team": false,
+        "is_prestige": true,
+        "medal_points": 51.42,
+        "flag": "\ud83c\udde8\ud83c\udde6"
+      },
+      {
+        "date": "Feb 15, 2026",
+        "event": "Men's Dual Moguls",
+        "discipline": "Freestyle Skiing",
+        "medal": "Gold Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 40.0,
+        "flag": "\ud83c\udde8\ud83c\udde6"
+      },
+      {
+        "date": "Feb 16, 2026",
+        "event": "Women's Big Air Freestyle",
+        "discipline": "Freestyle Skiing",
+        "medal": "Gold Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 40.0,
+        "flag": "\ud83c\udde8\ud83c\udde6"
+      },
+      {
+        "date": "Feb 16, 2026",
+        "event": "Women's 1000m Short Track",
+        "discipline": "Short Track Speed Skating",
+        "medal": "Silver Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 39.99,
+        "flag": "\ud83c\udde8\ud83c\udde6"
+      },
+      {
+        "date": "Feb 17, 2026",
+        "event": "Women's Team Pursuit",
+        "discipline": "Speed Skating",
+        "medal": "Gold Medal",
+        "base_score": 8.57,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 42.85,
+        "flag": "\ud83c\udde8\ud83c\udde6"
+      },
+      {
+        "date": "Feb 18, 2026",
+        "event": "Men's 500m Short Track",
+        "discipline": "Short Track Speed Skating",
+        "medal": "Gold Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 66.65,
+        "flag": "\ud83c\udde8\ud83c\udde6"
+      },
+      {
+        "date": "Feb 18, 2026",
+        "event": "Women's 3000m Relay",
+        "discipline": "Short Track Speed Skating",
+        "medal": "Bronze Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 26.66,
+        "flag": "\ud83c\udde8\ud83c\udde6"
+      },
+      {
+        "date": "Feb 19, 2026",
+        "event": "Women's Ice Hockey",
+        "discipline": "Ice Hockey",
+        "medal": "Silver Medal",
+        "base_score": 60.0,
+        "is_team": true,
+        "is_prestige": false,
+        "medal_points": 180.0,
+        "flag": "\ud83c\udde8\ud83c\udde6"
+      }
+    ],
+    "China": [
+      {
+        "date": "Feb 07, 2026",
+        "event": "Men's Snowboard Big Air",
+        "discipline": "Snowboard",
+        "medal": "Bronze Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 21.82,
+        "flag": "\ud83c\udde8\ud83c\uddf3"
+      },
+      {
+        "date": "Feb 09, 2026",
+        "event": "Women's Slopestyle Freestyle",
+        "discipline": "Freestyle Skiing",
+        "medal": "Silver Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 24.0,
+        "flag": "\ud83c\udde8\ud83c\uddf3"
+      },
+      {
+        "date": "Feb 11, 2026",
+        "event": "Men's 1000m",
+        "discipline": "Speed Skating",
+        "medal": "Bronze Medal",
+        "base_score": 8.57,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 17.14,
+        "flag": "\ud83c\udde8\ud83c\uddf3"
+      },
+      {
+        "date": "Feb 12, 2026",
+        "event": "Men's 1000m Short Track",
+        "discipline": "Short Track Speed Skating",
+        "medal": "Silver Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 39.99,
+        "flag": "\ud83c\udde8\ud83c\uddf3"
+      },
+      {
+        "date": "Feb 16, 2026",
+        "event": "Women's Big Air Freestyle",
+        "discipline": "Freestyle Skiing",
+        "medal": "Silver Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 24.0,
+        "flag": "\ud83c\udde8\ud83c\uddf3"
+      },
+      {
+        "date": "Feb 17, 2026",
+        "event": "Men's Team Pursuit",
+        "discipline": "Speed Skating",
+        "medal": "Bronze Medal",
+        "base_score": 8.57,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 17.14,
+        "flag": "\ud83c\udde8\ud83c\uddf3"
+      },
+      {
+        "date": "Feb 18, 2026",
+        "event": "Women's Aerials",
+        "discipline": "Freestyle Skiing",
+        "medal": "Bronze Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 16.0,
+        "flag": "\ud83c\udde8\ud83c\uddf3"
+      },
+      {
+        "date": "Feb 18, 2026",
+        "event": "Women's Aerials",
+        "discipline": "Freestyle Skiing",
+        "medal": "Gold Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 40.0,
+        "flag": "\ud83c\udde8\ud83c\uddf3"
+      },
+      {
+        "date": "Feb 18, 2026",
+        "event": "Men's Slopestyle Snowboard",
+        "discipline": "Snowboard",
+        "medal": "Gold Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 54.55,
+        "flag": "\ud83c\udde8\ud83c\uddf3"
+      },
+      {
+        "date": "Feb 19, 2026",
+        "event": "Men's 1500m",
+        "discipline": "Speed Skating",
+        "medal": "Gold Medal",
+        "base_score": 8.57,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 42.85,
+        "flag": "\ud83c\udde8\ud83c\uddf3"
+      }
+    ],
+    "Italy": [
+      {
+        "date": "Feb 07, 2026",
+        "event": "Men's Downhill",
+        "discipline": "Alpine Skiing",
+        "medal": "Bronze Medal",
+        "base_score": 36.0,
+        "is_team": false,
+        "is_prestige": true,
+        "medal_points": 72.0,
+        "flag": "\ud83c\uddee\ud83c\uddf9"
+      },
+      {
+        "date": "Feb 07, 2026",
+        "event": "Men's Downhill",
+        "discipline": "Alpine Skiing",
+        "medal": "Silver Medal",
+        "base_score": 36.0,
+        "is_team": false,
+        "is_prestige": true,
+        "medal_points": 108.0,
+        "flag": "\ud83c\uddee\ud83c\uddf9"
+      },
+      {
+        "date": "Feb 07, 2026",
+        "event": "Women's 3000m",
+        "discipline": "Speed Skating",
+        "medal": "Gold Medal",
+        "base_score": 8.57,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 42.85,
+        "flag": "\ud83c\uddee\ud83c\uddf9"
+      },
+      {
+        "date": "Feb 08, 2026",
+        "event": "Women's Downhill",
+        "discipline": "Alpine Skiing",
+        "medal": "Bronze Medal",
+        "base_score": 36.0,
+        "is_team": false,
+        "is_prestige": true,
+        "medal_points": 72.0,
+        "flag": "\ud83c\uddee\ud83c\uddf9"
+      },
+      {
+        "date": "Feb 08, 2026",
+        "event": "Mixed Relay Biathlon",
+        "discipline": "Biathlon",
+        "medal": "Silver Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 32.73,
+        "flag": "\ud83c\uddee\ud83c\uddf9"
+      },
+      {
+        "date": "Feb 08, 2026",
+        "event": "Team Event Figure Skating",
+        "discipline": "Figure Skating",
+        "medal": "Bronze Medal",
+        "base_score": 15.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 30.0,
+        "flag": "\ud83c\uddee\ud83c\uddf9"
+      },
+      {
+        "date": "Feb 08, 2026",
+        "event": "Men's Singles Luge",
+        "discipline": "Luge",
+        "medal": "Bronze Medal",
+        "base_score": 10.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 20.0,
+        "flag": "\ud83c\uddee\ud83c\uddf9"
+      },
+      {
+        "date": "Feb 08, 2026",
+        "event": "Women's Parallel Giant Slalom",
+        "discipline": "Snowboard",
+        "medal": "Bronze Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 21.82,
+        "flag": "\ud83c\uddee\ud83c\uddf9"
+      },
+      {
+        "date": "Feb 08, 2026",
+        "event": "Men's 5000m",
+        "discipline": "Speed Skating",
+        "medal": "Bronze Medal",
+        "base_score": 8.57,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 17.14,
+        "flag": "\ud83c\uddee\ud83c\uddf9"
+      },
+      {
+        "date": "Feb 10, 2026",
+        "event": "Mixed Doubles Curling",
+        "discipline": "Curling",
+        "medal": "Bronze Medal",
+        "base_score": 15.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 30.0,
+        "flag": "\ud83c\uddee\ud83c\uddf9"
+      },
+      {
+        "date": "Feb 10, 2026",
+        "event": "Mixed Team Relay Short Track",
+        "discipline": "Short Track Speed Skating",
+        "medal": "Gold Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 66.65,
+        "flag": "\ud83c\uddee\ud83c\uddf9"
+      },
+      {
+        "date": "Feb 11, 2026",
+        "event": "Men's Doubles Luge",
+        "discipline": "Luge",
+        "medal": "Gold Medal",
+        "base_score": 10.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 50.0,
+        "flag": "\ud83c\uddee\ud83c\uddf9"
+      },
+      {
+        "date": "Feb 11, 2026",
+        "event": "Women's Doubles Luge",
+        "discipline": "Luge",
+        "medal": "Gold Medal",
+        "base_score": 10.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 50.0,
+        "flag": "\ud83c\uddee\ud83c\uddf9"
+      },
+      {
+        "date": "Feb 12, 2026",
+        "event": "Women's Super-G",
+        "discipline": "Alpine Skiing",
+        "medal": "Gold Medal",
+        "base_score": 12.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 60.0,
+        "flag": "\ud83c\uddee\ud83c\uddf9"
+      },
+      {
+        "date": "Feb 12, 2026",
+        "event": "Team Relay Luge",
+        "discipline": "Luge",
+        "medal": "Bronze Medal",
+        "base_score": 10.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 20.0,
+        "flag": "\ud83c\uddee\ud83c\uddf9"
+      },
+      {
+        "date": "Feb 12, 2026",
+        "event": "Women's 500m Short Track",
+        "discipline": "Short Track Speed Skating",
+        "medal": "Silver Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 39.99,
+        "flag": "\ud83c\uddee\ud83c\uddf9"
+      },
+      {
+        "date": "Feb 12, 2026",
+        "event": "Women's 5000m",
+        "discipline": "Speed Skating",
+        "medal": "Gold Medal",
+        "base_score": 8.57,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 42.85,
+        "flag": "\ud83c\uddee\ud83c\uddf9"
+      },
+      {
+        "date": "Feb 13, 2026",
+        "event": "Women's Snowboard Cross",
+        "discipline": "Snowboard",
+        "medal": "Bronze Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 21.82,
+        "flag": "\ud83c\uddee\ud83c\uddf9"
+      },
+      {
+        "date": "Feb 15, 2026",
+        "event": "Women's Giant Slalom",
+        "discipline": "Alpine Skiing",
+        "medal": "Gold Medal",
+        "base_score": 12.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 60.0,
+        "flag": "\ud83c\uddee\ud83c\uddf9"
+      },
+      {
+        "date": "Feb 15, 2026",
+        "event": "Women's 10km Pursuit Biathlon",
+        "discipline": "Biathlon",
+        "medal": "Gold Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 54.55,
+        "flag": "\ud83c\uddee\ud83c\uddf9"
+      },
+      {
+        "date": "Feb 15, 2026",
+        "event": "Men's 4x7.5km Relay Biathlon",
+        "discipline": "Cross-Country Skiing",
+        "medal": "Bronze Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 21.82,
+        "flag": "\ud83c\uddee\ud83c\uddf9"
+      },
+      {
+        "date": "Feb 15, 2026",
+        "event": "Mixed Team Snowboard Cross",
+        "discipline": "Snowboard",
+        "medal": "Silver Medal",
+        "base_score": 43.64,
+        "is_team": true,
+        "is_prestige": false,
+        "medal_points": 130.92,
+        "flag": "\ud83c\uddee\ud83c\uddf9"
+      },
+      {
+        "date": "Feb 16, 2026",
+        "event": "Women's Big Air Freestyle",
+        "discipline": "Freestyle Skiing",
+        "medal": "Bronze Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 16.0,
+        "flag": "\ud83c\uddee\ud83c\uddf9"
+      },
+      {
+        "date": "Feb 17, 2026",
+        "event": "Men's Team Pursuit",
+        "discipline": "Speed Skating",
+        "medal": "Gold Medal",
+        "base_score": 8.57,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 42.85,
+        "flag": "\ud83c\uddee\ud83c\uddf9"
+      },
+      {
+        "date": "Feb 18, 2026",
+        "event": "Men's Team Sprint",
+        "discipline": "Cross-Country Skiing",
+        "medal": "Bronze Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 16.0,
+        "flag": "\ud83c\uddee\ud83c\uddf9"
+      },
+      {
+        "date": "Feb 18, 2026",
+        "event": "Women's 3000m Relay",
+        "discipline": "Short Track Speed Skating",
+        "medal": "Silver Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 39.99,
+        "flag": "\ud83c\uddee\ud83c\uddf9"
+      }
+    ],
+    "Japan": [
+      {
+        "date": "Feb 07, 2026",
+        "event": "Women's NH Individual",
+        "discipline": "Ski Jumping",
+        "medal": "Bronze Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 26.66,
+        "flag": "\ud83c\uddef\ud83c\uddf5"
+      },
+      {
+        "date": "Feb 07, 2026",
+        "event": "Men's Snowboard Big Air",
+        "discipline": "Snowboard",
+        "medal": "Gold Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 54.55,
+        "flag": "\ud83c\uddef\ud83c\uddf5"
+      },
+      {
+        "date": "Feb 07, 2026",
+        "event": "Men's Snowboard Big Air",
+        "discipline": "Snowboard",
+        "medal": "Silver Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 32.73,
+        "flag": "\ud83c\uddef\ud83c\uddf5"
+      },
+      {
+        "date": "Feb 08, 2026",
+        "event": "Team Event Figure Skating",
+        "discipline": "Figure Skating",
+        "medal": "Silver Medal",
+        "base_score": 15.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 45.0,
+        "flag": "\ud83c\uddef\ud83c\uddf5"
+      },
+      {
+        "date": "Feb 09, 2026",
+        "event": "Men's Individual Normal Hill Nordic Combined",
+        "discipline": "Ski Jumping",
+        "medal": "Bronze Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 26.66,
+        "flag": "\ud83c\uddef\ud83c\uddf5"
+      },
+      {
+        "date": "Feb 09, 2026",
+        "event": "Women's Snowboard Big Air",
+        "discipline": "Snowboard",
+        "medal": "Gold Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 54.55,
+        "flag": "\ud83c\uddef\ud83c\uddf5"
+      },
+      {
+        "date": "Feb 09, 2026",
+        "event": "Women's 1000m",
+        "discipline": "Speed Skating",
+        "medal": "Bronze Medal",
+        "base_score": 8.57,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 17.14,
+        "flag": "\ud83c\uddef\ud83c\uddf5"
+      },
+      {
+        "date": "Feb 10, 2026",
+        "event": "Mixed Team Ski Jumping",
+        "discipline": "Ski Jumping",
+        "medal": "Bronze Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 26.66,
+        "flag": "\ud83c\uddef\ud83c\uddf5"
+      },
+      {
+        "date": "Feb 12, 2026",
+        "event": "Men's Moguls",
+        "discipline": "Freestyle Skiing",
+        "medal": "Bronze Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 16.0,
+        "flag": "\ud83c\uddef\ud83c\uddf5"
+      },
+      {
+        "date": "Feb 12, 2026",
+        "event": "Women's Halfpipe Snowboard",
+        "discipline": "Snowboard",
+        "medal": "Bronze Medal",
+        "base_score": 32.73,
+        "is_team": false,
+        "is_prestige": true,
+        "medal_points": 65.46,
+        "flag": "\ud83c\uddef\ud83c\uddf5"
+      },
+      {
+        "date": "Feb 13, 2026",
+        "event": "Men's Singles Figure Skating",
+        "discipline": "Figure Skating",
+        "medal": "Bronze Medal",
+        "base_score": 45.0,
+        "is_team": false,
+        "is_prestige": true,
+        "medal_points": 90.0,
+        "flag": "\ud83c\uddef\ud83c\uddf5"
+      },
+      {
+        "date": "Feb 13, 2026",
+        "event": "Men's Singles Figure Skating",
+        "discipline": "Figure Skating",
+        "medal": "Silver Medal",
+        "base_score": 45.0,
+        "is_team": false,
+        "is_prestige": true,
+        "medal_points": 135.0,
+        "flag": "\ud83c\uddef\ud83c\uddf5"
+      },
+      {
+        "date": "Feb 13, 2026",
+        "event": "Men's Halfpipe Snowboard",
+        "discipline": "Snowboard",
+        "medal": "Bronze Medal",
+        "base_score": 32.73,
+        "is_team": false,
+        "is_prestige": true,
+        "medal_points": 65.46,
+        "flag": "\ud83c\uddef\ud83c\uddf5"
+      },
+      {
+        "date": "Feb 13, 2026",
+        "event": "Men's Halfpipe Snowboard",
+        "discipline": "Snowboard",
+        "medal": "Gold Medal",
+        "base_score": 32.73,
+        "is_team": false,
+        "is_prestige": true,
+        "medal_points": 163.65,
+        "flag": "\ud83c\uddef\ud83c\uddf5"
+      },
+      {
+        "date": "Feb 14, 2026",
+        "event": "Men's Large Hill Ski Jumping",
+        "discipline": "Ski Jumping",
+        "medal": "Silver Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 39.99,
+        "flag": "\ud83c\uddef\ud83c\uddf5"
+      },
+      {
+        "date": "Feb 15, 2026",
+        "event": "Men's Dual Moguls",
+        "discipline": "Freestyle Skiing",
+        "medal": "Silver Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 24.0,
+        "flag": "\ud83c\uddef\ud83c\uddf5"
+      },
+      {
+        "date": "Feb 15, 2026",
+        "event": "Women's 500m",
+        "discipline": "Speed Skating",
+        "medal": "Bronze Medal",
+        "base_score": 25.71,
+        "is_team": false,
+        "is_prestige": true,
+        "medal_points": 51.42,
+        "flag": "\ud83c\uddef\ud83c\uddf5"
+      },
+      {
+        "date": "Feb 16, 2026",
+        "event": "Pairs Figure Skating",
+        "discipline": "Figure Skating",
+        "medal": "Gold Medal",
+        "base_score": 15.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 75.0,
+        "flag": "\ud83c\uddef\ud83c\uddf5"
+      },
+      {
+        "date": "Feb 17, 2026",
+        "event": "Women's Team Pursuit",
+        "discipline": "Speed Skating",
+        "medal": "Bronze Medal",
+        "base_score": 8.57,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 17.14,
+        "flag": "\ud83c\uddef\ud83c\uddf5"
+      },
+      {
+        "date": "Feb 18, 2026",
+        "event": "Men's Slopestyle Snowboard",
+        "discipline": "Snowboard",
+        "medal": "Silver Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 32.73,
+        "flag": "\ud83c\uddef\ud83c\uddf5"
+      },
+      {
+        "date": "Feb 18, 2026",
+        "event": "Women's Slopestyle Snowboard",
+        "discipline": "Snowboard",
+        "medal": "Bronze Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 21.82,
+        "flag": "\ud83c\uddef\ud83c\uddf5"
+      },
+      {
+        "date": "Feb 18, 2026",
+        "event": "Women's Slopestyle Snowboard",
+        "discipline": "Snowboard",
+        "medal": "Gold Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 54.55,
+        "flag": "\ud83c\uddef\ud83c\uddf5"
+      },
+      {
+        "date": "Feb 19, 2026",
+        "event": "Women's Singles Figure Skating",
+        "discipline": "Figure Skating",
+        "medal": "Bronze Medal",
+        "base_score": 45.0,
+        "is_team": false,
+        "is_prestige": true,
+        "medal_points": 90.0,
+        "flag": "\ud83c\uddef\ud83c\uddf5"
+      },
+      {
+        "date": "Feb 19, 2026",
+        "event": "Women's Singles Figure Skating",
+        "discipline": "Figure Skating",
+        "medal": "Silver Medal",
+        "base_score": 45.0,
+        "is_team": false,
+        "is_prestige": true,
+        "medal_points": 135.0,
+        "flag": "\ud83c\uddef\ud83c\uddf5"
+      }
+    ],
+    "Norway": [
+      {
+        "date": "Feb 07, 2026",
+        "event": "Women's 10km + 10km Skiathlon",
+        "discipline": "Cross-Country Skiing",
+        "medal": "Bronze Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 16.0,
+        "flag": "\ud83c\uddf3\ud83c\uddf4"
+      },
+      {
+        "date": "Feb 07, 2026",
+        "event": "Women's NH Individual",
+        "discipline": "Ski Jumping",
+        "medal": "Gold Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 66.65,
+        "flag": "\ud83c\uddf3\ud83c\uddf4"
+      },
+      {
+        "date": "Feb 07, 2026",
+        "event": "Women's 3000m",
+        "discipline": "Speed Skating",
+        "medal": "Silver Medal",
+        "base_score": 8.57,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 25.71,
+        "flag": "\ud83c\uddf3\ud83c\uddf4"
+      },
+      {
+        "date": "Feb 08, 2026",
+        "event": "Men's 15km + 15km Skiathlon",
+        "discipline": "Cross-Country Skiing",
+        "medal": "Bronze Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 16.0,
+        "flag": "\ud83c\uddf3\ud83c\uddf4"
+      },
+      {
+        "date": "Feb 08, 2026",
+        "event": "Men's 15km + 15km Skiathlon",
+        "discipline": "Cross-Country Skiing",
+        "medal": "Gold Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 40.0,
+        "flag": "\ud83c\uddf3\ud83c\uddf4"
+      },
+      {
+        "date": "Feb 08, 2026",
+        "event": "Men's 5000m",
+        "discipline": "Speed Skating",
+        "medal": "Gold Medal",
+        "base_score": 8.57,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 42.85,
+        "flag": "\ud83c\uddf3\ud83c\uddf4"
+      },
+      {
+        "date": "Feb 10, 2026",
+        "event": "Men's 20km Individual Biathlon",
+        "discipline": "Biathlon",
+        "medal": "Bronze Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 21.82,
+        "flag": "\ud83c\uddf3\ud83c\uddf4"
+      },
+      {
+        "date": "Feb 10, 2026",
+        "event": "Men's 20km Individual Biathlon",
+        "discipline": "Biathlon",
+        "medal": "Gold Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 54.55,
+        "flag": "\ud83c\uddf3\ud83c\uddf4"
+      },
+      {
+        "date": "Feb 10, 2026",
+        "event": "Men's Sprint Free",
+        "discipline": "Cross-Country Skiing",
+        "medal": "Bronze Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 16.0,
+        "flag": "\ud83c\uddf3\ud83c\uddf4"
+      },
+      {
+        "date": "Feb 10, 2026",
+        "event": "Men's Sprint Free",
+        "discipline": "Cross-Country Skiing",
+        "medal": "Gold Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 40.0,
+        "flag": "\ud83c\uddf3\ud83c\uddf4"
+      },
+      {
+        "date": "Feb 10, 2026",
+        "event": "Men's Slopestyle Freestyle",
+        "discipline": "Freestyle Skiing",
+        "medal": "Gold Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 40.0,
+        "flag": "\ud83c\uddf3\ud83c\uddf4"
+      },
+      {
+        "date": "Feb 10, 2026",
+        "event": "Mixed Team Ski Jumping",
+        "discipline": "Ski Jumping",
+        "medal": "Silver Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 39.99,
+        "flag": "\ud83c\uddf3\ud83c\uddf4"
+      },
+      {
+        "date": "Feb 11, 2026",
+        "event": "Men's Individual Normal Hill Nordic Combined",
+        "discipline": "Nordic Combined",
+        "medal": "Gold Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 66.65,
+        "flag": "\ud83c\uddf3\ud83c\uddf4"
+      },
+      {
+        "date": "Feb 12, 2026",
+        "event": "Women's 5000m",
+        "discipline": "Speed Skating",
+        "medal": "Bronze Medal",
+        "base_score": 8.57,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 17.14,
+        "flag": "\ud83c\uddf3\ud83c\uddf4"
+      },
+      {
+        "date": "Feb 13, 2026",
+        "event": "Men's 10km Sprint Biathlon",
+        "discipline": "Biathlon",
+        "medal": "Bronze Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 21.82,
+        "flag": "\ud83c\uddf3\ud83c\uddf4"
+      },
+      {
+        "date": "Feb 13, 2026",
+        "event": "Men's 10km Sprint Biathlon",
+        "discipline": "Biathlon",
+        "medal": "Silver Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 32.73,
+        "flag": "\ud83c\uddf3\ud83c\uddf4"
+      },
+      {
+        "date": "Feb 13, 2026",
+        "event": "Men's 10km Free",
+        "discipline": "Cross-Country Skiing",
+        "medal": "Bronze Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 16.0,
+        "flag": "\ud83c\uddf3\ud83c\uddf4"
+      },
+      {
+        "date": "Feb 13, 2026",
+        "event": "Men's 10km Free",
+        "discipline": "Cross-Country Skiing",
+        "medal": "Gold Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 40.0,
+        "flag": "\ud83c\uddf3\ud83c\uddf4"
+      },
+      {
+        "date": "Feb 14, 2026",
+        "event": "Women's 7.5km Sprint Biathlon",
+        "discipline": "Biathlon",
+        "medal": "Gold Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 54.55,
+        "flag": "\ud83c\uddf3\ud83c\uddf4"
+      },
+      {
+        "date": "Feb 14, 2026",
+        "event": "Women's 4x5km Relay",
+        "discipline": "Cross-Country Skiing",
+        "medal": "Gold Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 40.0,
+        "flag": "\ud83c\uddf3\ud83c\uddf4"
+      },
+      {
+        "date": "Feb 15, 2026",
+        "event": "Women's Giant Slalom",
+        "discipline": "Alpine Skiing",
+        "medal": "Silver Medal",
+        "base_score": 12.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 36.0,
+        "flag": "\ud83c\uddf3\ud83c\uddf4"
+      },
+      {
+        "date": "Feb 15, 2026",
+        "event": "Men's 12.5km Pursuit Biathlon",
+        "discipline": "Biathlon",
+        "medal": "Silver Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 32.73,
+        "flag": "\ud83c\uddf3\ud83c\uddf4"
+      },
+      {
+        "date": "Feb 15, 2026",
+        "event": "Women's 10km Pursuit Biathlon",
+        "discipline": "Biathlon",
+        "medal": "Silver Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 32.73,
+        "flag": "\ud83c\uddf3\ud83c\uddf4"
+      },
+      {
+        "date": "Feb 15, 2026",
+        "event": "Men's 4x7.5km Relay Biathlon",
+        "discipline": "Cross-Country Skiing",
+        "medal": "Gold Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 54.55,
+        "flag": "\ud83c\uddf3\ud83c\uddf4"
+      },
+      {
+        "date": "Feb 15, 2026",
+        "event": "Women's Large Hill Ski Jumping",
+        "discipline": "Ski Jumping",
+        "medal": "Gold Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 66.65,
+        "flag": "\ud83c\uddf3\ud83c\uddf4"
+      },
+      {
+        "date": "Feb 15, 2026",
+        "event": "Women's Large Hill Ski Jumping",
+        "discipline": "Ski Jumping",
+        "medal": "Silver Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 39.99,
+        "flag": "\ud83c\uddf3\ud83c\uddf4"
+      },
+      {
+        "date": "Feb 16, 2026",
+        "event": "Men's Slalom",
+        "discipline": "Alpine Skiing",
+        "medal": "Bronze Medal",
+        "base_score": 12.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 24.0,
+        "flag": "\ud83c\uddf3\ud83c\uddf4"
+      },
+      {
+        "date": "Feb 16, 2026",
+        "event": "Men's Super Team",
+        "discipline": "Ski Jumping",
+        "medal": "Bronze Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 26.66,
+        "flag": "\ud83c\uddf3\ud83c\uddf4"
+      },
+      {
+        "date": "Feb 17, 2026",
+        "event": "Men's 4x10km Relay",
+        "discipline": "Biathlon",
+        "medal": "Silver Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 24.0,
+        "flag": "\ud83c\uddf3\ud83c\uddf4"
+      },
+      {
+        "date": "Feb 17, 2026",
+        "event": "Men's Big Air Freestyle",
+        "discipline": "Freestyle Skiing",
+        "medal": "Gold Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 40.0,
+        "flag": "\ud83c\uddf3\ud83c\uddf4"
+      },
+      {
+        "date": "Feb 17, 2026",
+        "event": "Individual Gundersen Large Hill/10km",
+        "discipline": "Nordic Combined",
+        "medal": "Gold Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 66.65,
+        "flag": "\ud83c\uddf3\ud83c\uddf4"
+      },
+      {
+        "date": "Feb 18, 2026",
+        "event": "Women's 4x6km Relay Biathlon",
+        "discipline": "Biathlon",
+        "medal": "Bronze Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 21.82,
+        "flag": "\ud83c\uddf3\ud83c\uddf4"
+      },
+      {
+        "date": "Feb 18, 2026",
+        "event": "Men's Team Sprint",
+        "discipline": "Cross-Country Skiing",
+        "medal": "Gold Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 40.0,
+        "flag": "\ud83c\uddf3\ud83c\uddf4"
+      },
+      {
+        "date": "Feb 19, 2026",
+        "event": "Team Sprint",
+        "discipline": "Nordic Combined",
+        "medal": "Gold Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 66.65,
+        "flag": "\ud83c\uddf3\ud83c\uddf4"
+      }
+    ],
+    "Slovenia": [
+      {
+        "date": "Feb 07, 2026",
+        "event": "Women's NH Individual",
+        "discipline": "Ski Jumping",
+        "medal": "Silver Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 39.99,
+        "flag": "\ud83c\uddf8\ud83c\uddee"
+      },
+      {
+        "date": "Feb 10, 2026",
+        "event": "Mixed Team Ski Jumping",
+        "discipline": "Ski Jumping",
+        "medal": "Gold Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 66.65,
+        "flag": "\ud83c\uddf8\ud83c\uddee"
+      },
+      {
+        "date": "Feb 14, 2026",
+        "event": "Men's Large Hill Ski Jumping",
+        "discipline": "Ski Jumping",
+        "medal": "Gold Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 66.65,
+        "flag": "\ud83c\uddf8\ud83c\uddee"
+      },
+      {
+        "date": "Feb 15, 2026",
+        "event": "Women's Large Hill Ski Jumping",
+        "discipline": "Ski Jumping",
+        "medal": "Bronze Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 26.66,
+        "flag": "\ud83c\uddf8\ud83c\uddee"
+      }
+    ],
+    "Sweden": [
+      {
+        "date": "Feb 07, 2026",
+        "event": "Women's 10km + 10km Skiathlon",
+        "discipline": "Cross-Country Skiing",
+        "medal": "Gold Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 40.0,
+        "flag": "\ud83c\uddf8\ud83c\uddea"
+      },
+      {
+        "date": "Feb 07, 2026",
+        "event": "Women's 10km + 10km Skiathlon",
+        "discipline": "Cross-Country Skiing",
+        "medal": "Silver Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 24.0,
+        "flag": "\ud83c\uddf8\ud83c\uddea"
+      },
+      {
+        "date": "Feb 10, 2026",
+        "event": "Women's Sprint Free",
+        "discipline": "Cross-Country Skiing",
+        "medal": "Bronze Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 16.0,
+        "flag": "\ud83c\uddf8\ud83c\uddea"
+      },
+      {
+        "date": "Feb 10, 2026",
+        "event": "Women's Sprint Free",
+        "discipline": "Cross-Country Skiing",
+        "medal": "Gold Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 40.0,
+        "flag": "\ud83c\uddf8\ud83c\uddea"
+      },
+      {
+        "date": "Feb 10, 2026",
+        "event": "Women's Sprint Free",
+        "discipline": "Cross-Country Skiing",
+        "medal": "Silver Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 24.0,
+        "flag": "\ud83c\uddf8\ud83c\uddea"
+      },
+      {
+        "date": "Feb 10, 2026",
+        "event": "Mixed Doubles Curling",
+        "discipline": "Curling",
+        "medal": "Gold Medal",
+        "base_score": 15.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 75.0,
+        "flag": "\ud83c\uddf8\ud83c\uddea"
+      },
+      {
+        "date": "Feb 12, 2026",
+        "event": "Women's 10km Free",
+        "discipline": "Cross-Country Skiing",
+        "medal": "Gold Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 40.0,
+        "flag": "\ud83c\uddf8\ud83c\uddea"
+      },
+      {
+        "date": "Feb 12, 2026",
+        "event": "Women's 10km Free",
+        "discipline": "Cross-Country Skiing",
+        "medal": "Silver Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 24.0,
+        "flag": "\ud83c\uddf8\ud83c\uddea"
+      },
+      {
+        "date": "Feb 14, 2026",
+        "event": "Women's 4x5km Relay",
+        "discipline": "Cross-Country Skiing",
+        "medal": "Silver Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 24.0,
+        "flag": "\ud83c\uddf8\ud83c\uddea"
+      },
+      {
+        "date": "Feb 15, 2026",
+        "event": "Women's Giant Slalom",
+        "discipline": "Alpine Skiing",
+        "medal": "Silver Medal",
+        "base_score": 12.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 36.0,
+        "flag": "\ud83c\uddf8\ud83c\uddea"
+      },
+      {
+        "date": "Feb 15, 2026",
+        "event": "Men's 12.5km Pursuit Biathlon",
+        "discipline": "Biathlon",
+        "medal": "Gold Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 54.55,
+        "flag": "\ud83c\uddf8\ud83c\uddea"
+      },
+      {
+        "date": "Feb 17, 2026",
+        "event": "Men's 4x10km Relay",
+        "discipline": "Biathlon",
+        "medal": "Bronze Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 16.0,
+        "flag": "\ud83c\uddf8\ud83c\uddea"
+      },
+      {
+        "date": "Feb 18, 2026",
+        "event": "Women's Slalom",
+        "discipline": "Alpine Skiing",
+        "medal": "Bronze Medal",
+        "base_score": 12.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 24.0,
+        "flag": "\ud83c\uddf8\ud83c\uddea"
+      },
+      {
+        "date": "Feb 18, 2026",
+        "event": "Women's 4x6km Relay Biathlon",
+        "discipline": "Biathlon",
+        "medal": "Silver Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 32.73,
+        "flag": "\ud83c\uddf8\ud83c\uddea"
+      },
+      {
+        "date": "Feb 18, 2026",
+        "event": "Women's Team Sprint",
+        "discipline": "Cross-Country Skiing",
+        "medal": "Gold Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 40.0,
+        "flag": "\ud83c\uddf8\ud83c\uddea"
+      }
+    ],
+    "Switzerland": [
+      {
+        "date": "Feb 07, 2026",
+        "event": "Men's Downhill",
+        "discipline": "Alpine Skiing",
+        "medal": "Gold Medal",
+        "base_score": 36.0,
+        "is_team": false,
+        "is_prestige": true,
+        "medal_points": 180.0,
+        "flag": "\ud83c\udde8\ud83c\udded"
+      },
+      {
+        "date": "Feb 09, 2026",
+        "event": "Men's Alpine Combined",
+        "discipline": "Alpine Skiing",
+        "medal": "Gold Medal",
+        "base_score": 12.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 60.0,
+        "flag": "\ud83c\udde8\ud83c\udded"
+      },
+      {
+        "date": "Feb 09, 2026",
+        "event": "Men's Alpine Combined",
+        "discipline": "Alpine Skiing",
+        "medal": "Silver Medal",
+        "base_score": 12.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 36.0,
+        "flag": "\ud83c\udde8\ud83c\udded"
+      },
+      {
+        "date": "Feb 09, 2026",
+        "event": "Women's Slopestyle Freestyle",
+        "discipline": "Freestyle Skiing",
+        "medal": "Gold Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 40.0,
+        "flag": "\ud83c\udde8\ud83c\udded"
+      },
+      {
+        "date": "Feb 09, 2026",
+        "event": "Men's Individual Normal Hill Nordic Combined",
+        "discipline": "Ski Jumping",
+        "medal": "Bronze Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 26.66,
+        "flag": "\ud83c\udde8\ud83c\udded"
+      },
+      {
+        "date": "Feb 11, 2026",
+        "event": "Men's Super-G",
+        "discipline": "Alpine Skiing",
+        "medal": "Bronze Medal",
+        "base_score": 12.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 24.0,
+        "flag": "\ud83c\udde8\ud83c\udded"
+      },
+      {
+        "date": "Feb 11, 2026",
+        "event": "Men's Super-G",
+        "discipline": "Alpine Skiing",
+        "medal": "Gold Medal",
+        "base_score": 12.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 60.0,
+        "flag": "\ud83c\udde8\ud83c\udded"
+      },
+      {
+        "date": "Feb 14, 2026",
+        "event": "Men's Giant Slalom",
+        "discipline": "Alpine Skiing",
+        "medal": "Bronze Medal",
+        "base_score": 12.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 24.0,
+        "flag": "\ud83c\udde8\ud83c\udded"
+      },
+      {
+        "date": "Feb 14, 2026",
+        "event": "Men's Giant Slalom",
+        "discipline": "Alpine Skiing",
+        "medal": "Silver Medal",
+        "base_score": 12.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 36.0,
+        "flag": "\ud83c\udde8\ud83c\udded"
+      },
+      {
+        "date": "Feb 16, 2026",
+        "event": "Men's Slalom",
+        "discipline": "Alpine Skiing",
+        "medal": "Gold Medal",
+        "base_score": 12.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 60.0,
+        "flag": "\ud83c\udde8\ud83c\udded"
+      },
+      {
+        "date": "Feb 18, 2026",
+        "event": "Women's Slalom",
+        "discipline": "Alpine Skiing",
+        "medal": "Silver Medal",
+        "base_score": 12.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 36.0,
+        "flag": "\ud83c\udde8\ud83c\udded"
+      },
+      {
+        "date": "Feb 18, 2026",
+        "event": "Women's Team Sprint",
+        "discipline": "Cross-Country Skiing",
+        "medal": "Silver Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 24.0,
+        "flag": "\ud83c\udde8\ud83c\udded"
+      },
+      {
+        "date": "Feb 19, 2026",
+        "event": "Women's Ice Hockey",
+        "discipline": "Ice Hockey",
+        "medal": "Bronze Medal",
+        "base_score": 60.0,
+        "is_team": true,
+        "is_prestige": false,
+        "medal_points": 120.0,
+        "flag": "\ud83c\udde8\ud83c\udded"
+      },
+      {
+        "date": "Feb 19, 2026",
+        "event": "Women's Sprint SkiMo",
+        "discipline": "Ski Mountaineering",
+        "medal": "Gold Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 40.0,
+        "flag": "\ud83c\udde8\ud83c\udded"
+      }
+    ],
+    "Austria": [
+      {
+        "date": "Feb 08, 2026",
+        "event": "Men's Singles Luge",
+        "discipline": "Luge",
+        "medal": "Silver Medal",
+        "base_score": 10.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 30.0,
+        "flag": "\ud83c\udde6\ud83c\uddf9"
+      },
+      {
+        "date": "Feb 08, 2026",
+        "event": "Men's Parallel Giant Slalom",
+        "discipline": "Snowboard",
+        "medal": "Gold Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 54.55,
+        "flag": "\ud83c\udde6\ud83c\uddf9"
+      },
+      {
+        "date": "Feb 08, 2026",
+        "event": "Women's Parallel Giant Slalom",
+        "discipline": "Snowboard",
+        "medal": "Silver Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 32.73,
+        "flag": "\ud83c\udde6\ud83c\uddf9"
+      },
+      {
+        "date": "Feb 09, 2026",
+        "event": "Men's Alpine Combined",
+        "discipline": "Alpine Skiing",
+        "medal": "Silver Medal",
+        "base_score": 12.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 36.0,
+        "flag": "\ud83c\udde6\ud83c\uddf9"
+      },
+      {
+        "date": "Feb 10, 2026",
+        "event": "Women's Alpine Combined",
+        "discipline": "Alpine Skiing",
+        "medal": "Gold Medal",
+        "base_score": 12.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 60.0,
+        "flag": "\ud83c\udde6\ud83c\uddf9"
+      },
+      {
+        "date": "Feb 11, 2026",
+        "event": "Men's Doubles Luge",
+        "discipline": "Luge",
+        "medal": "Silver Medal",
+        "base_score": 10.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 30.0,
+        "flag": "\ud83c\udde6\ud83c\uddf9"
+      },
+      {
+        "date": "Feb 11, 2026",
+        "event": "Women's Doubles Luge",
+        "discipline": "Luge",
+        "medal": "Bronze Medal",
+        "base_score": 10.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 20.0,
+        "flag": "\ud83c\udde6\ud83c\uddf9"
+      },
+      {
+        "date": "Feb 11, 2026",
+        "event": "Men's Individual Normal Hill Nordic Combined",
+        "discipline": "Nordic Combined",
+        "medal": "Silver Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 39.99,
+        "flag": "\ud83c\udde6\ud83c\uddf9"
+      },
+      {
+        "date": "Feb 12, 2026",
+        "event": "Women's Super-G",
+        "discipline": "Alpine Skiing",
+        "medal": "Bronze Medal",
+        "base_score": 12.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 24.0,
+        "flag": "\ud83c\udde6\ud83c\uddf9"
+      },
+      {
+        "date": "Feb 12, 2026",
+        "event": "Team Relay Luge",
+        "discipline": "Luge",
+        "medal": "Silver Medal",
+        "base_score": 10.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 30.0,
+        "flag": "\ud83c\udde6\ud83c\uddf9"
+      },
+      {
+        "date": "Feb 12, 2026",
+        "event": "Men's Snowboard Cross",
+        "discipline": "Snowboard",
+        "medal": "Bronze Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 21.82,
+        "flag": "\ud83c\udde6\ud83c\uddf9"
+      },
+      {
+        "date": "Feb 12, 2026",
+        "event": "Men's Snowboard Cross",
+        "discipline": "Snowboard",
+        "medal": "Gold Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 54.55,
+        "flag": "\ud83c\udde6\ud83c\uddf9"
+      },
+      {
+        "date": "Feb 14, 2026",
+        "event": "Women's Skeleton",
+        "discipline": "Skeleton",
+        "medal": "Gold Medal",
+        "base_score": 10.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 50.0,
+        "flag": "\ud83c\udde6\ud83c\uddf9"
+      },
+      {
+        "date": "Feb 16, 2026",
+        "event": "Men's Slalom",
+        "discipline": "Alpine Skiing",
+        "medal": "Silver Medal",
+        "base_score": 12.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 36.0,
+        "flag": "\ud83c\udde6\ud83c\uddf9"
+      },
+      {
+        "date": "Feb 16, 2026",
+        "event": "Men's Super Team",
+        "discipline": "Ski Jumping",
+        "medal": "Gold Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 66.65,
+        "flag": "\ud83c\udde6\ud83c\uddf9"
+      },
+      {
+        "date": "Feb 17, 2026",
+        "event": "Men's Big Air Freestyle",
+        "discipline": "Freestyle Skiing",
+        "medal": "Bronze Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 16.0,
+        "flag": "\ud83c\udde6\ud83c\uddf9"
+      },
+      {
+        "date": "Feb 17, 2026",
+        "event": "Individual Gundersen Large Hill/10km",
+        "discipline": "Nordic Combined",
+        "medal": "Silver Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 39.99,
+        "flag": "\ud83c\udde6\ud83c\uddf9"
+      },
+      {
+        "date": "Feb 19, 2026",
+        "event": "Team Sprint",
+        "discipline": "Nordic Combined",
+        "medal": "Bronze Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 26.66,
+        "flag": "\ud83c\udde6\ud83c\uddf9"
+      }
+    ],
+    "Czechia": [
+      {
+        "date": "Feb 08, 2026",
+        "event": "Women's Parallel Giant Slalom",
+        "discipline": "Snowboard",
+        "medal": "Gold Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 54.55,
+        "flag": "\ud83c\udde8\ud83c\uddff"
+      },
+      {
+        "date": "Feb 08, 2026",
+        "event": "Men's 5000m",
+        "discipline": "Speed Skating",
+        "medal": "Silver Medal",
+        "base_score": 8.57,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 25.71,
+        "flag": "\ud83c\udde8\ud83c\uddff"
+      },
+      {
+        "date": "Feb 13, 2026",
+        "event": "Women's Snowboard Cross",
+        "discipline": "Snowboard",
+        "medal": "Silver Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 32.73,
+        "flag": "\ud83c\udde8\ud83c\uddff"
+      },
+      {
+        "date": "Feb 13, 2026",
+        "event": "Men's 10,000m",
+        "discipline": "Speed Skating",
+        "medal": "Gold Medal",
+        "base_score": 8.57,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 42.85,
+        "flag": "\ud83c\udde8\ud83c\uddff"
+      }
+    ],
+    "France": [
+      {
+        "date": "Feb 08, 2026",
+        "event": "Mixed Relay Biathlon",
+        "discipline": "Biathlon",
+        "medal": "Gold Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 54.55,
+        "flag": "\ud83c\uddeb\ud83c\uddf7"
+      },
+      {
+        "date": "Feb 08, 2026",
+        "event": "Men's 15km + 15km Skiathlon",
+        "discipline": "Cross-Country Skiing",
+        "medal": "Silver Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 24.0,
+        "flag": "\ud83c\uddeb\ud83c\uddf7"
+      },
+      {
+        "date": "Feb 10, 2026",
+        "event": "Men's 20km Individual Biathlon",
+        "discipline": "Biathlon",
+        "medal": "Silver Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 32.73,
+        "flag": "\ud83c\uddeb\ud83c\uddf7"
+      },
+      {
+        "date": "Feb 11, 2026",
+        "event": "Women's 15km Individual Biathlon",
+        "discipline": "Biathlon",
+        "medal": "Gold Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 54.55,
+        "flag": "\ud83c\uddeb\ud83c\uddf7"
+      },
+      {
+        "date": "Feb 11, 2026",
+        "event": "Women's 15km Individual Biathlon",
+        "discipline": "Biathlon",
+        "medal": "Silver Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 32.73,
+        "flag": "\ud83c\uddeb\ud83c\uddf7"
+      },
+      {
+        "date": "Feb 11, 2026",
+        "event": "Ice Dance",
+        "discipline": "Figure Skating",
+        "medal": "Gold Medal",
+        "base_score": 15.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 75.0,
+        "flag": "\ud83c\uddeb\ud83c\uddf7"
+      },
+      {
+        "date": "Feb 11, 2026",
+        "event": "Women's Moguls",
+        "discipline": "Freestyle Skiing",
+        "medal": "Bronze Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 16.0,
+        "flag": "\ud83c\uddeb\ud83c\uddf7"
+      },
+      {
+        "date": "Feb 12, 2026",
+        "event": "Women's Super-G",
+        "discipline": "Alpine Skiing",
+        "medal": "Silver Medal",
+        "base_score": 12.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 36.0,
+        "flag": "\ud83c\uddeb\ud83c\uddf7"
+      },
+      {
+        "date": "Feb 13, 2026",
+        "event": "Men's 10km Sprint Biathlon",
+        "discipline": "Biathlon",
+        "medal": "Gold Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 54.55,
+        "flag": "\ud83c\uddeb\ud83c\uddf7"
+      },
+      {
+        "date": "Feb 13, 2026",
+        "event": "Men's 10km Free",
+        "discipline": "Cross-Country Skiing",
+        "medal": "Silver Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 24.0,
+        "flag": "\ud83c\uddeb\ud83c\uddf7"
+      },
+      {
+        "date": "Feb 14, 2026",
+        "event": "Women's 7.5km Sprint Biathlon",
+        "discipline": "Biathlon",
+        "medal": "Bronze Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 21.82,
+        "flag": "\ud83c\uddeb\ud83c\uddf7"
+      },
+      {
+        "date": "Feb 14, 2026",
+        "event": "Women's 7.5km Sprint Biathlon",
+        "discipline": "Biathlon",
+        "medal": "Silver Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 32.73,
+        "flag": "\ud83c\uddeb\ud83c\uddf7"
+      },
+      {
+        "date": "Feb 15, 2026",
+        "event": "Men's 12.5km Pursuit Biathlon",
+        "discipline": "Biathlon",
+        "medal": "Bronze Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 21.82,
+        "flag": "\ud83c\uddeb\ud83c\uddf7"
+      },
+      {
+        "date": "Feb 15, 2026",
+        "event": "Men's 4x7.5km Relay Biathlon",
+        "discipline": "Cross-Country Skiing",
+        "medal": "Silver Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 32.73,
+        "flag": "\ud83c\uddeb\ud83c\uddf7"
+      },
+      {
+        "date": "Feb 15, 2026",
+        "event": "Mixed Team Snowboard Cross",
+        "discipline": "Snowboard",
+        "medal": "Bronze Medal",
+        "base_score": 43.64,
+        "is_team": true,
+        "is_prestige": false,
+        "medal_points": 87.28,
+        "flag": "\ud83c\uddeb\ud83c\uddf7"
+      },
+      {
+        "date": "Feb 17, 2026",
+        "event": "Men's 4x10km Relay",
+        "discipline": "Biathlon",
+        "medal": "Gold Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 40.0,
+        "flag": "\ud83c\uddeb\ud83c\uddf7"
+      },
+      {
+        "date": "Feb 18, 2026",
+        "event": "Women's 4x6km Relay Biathlon",
+        "discipline": "Biathlon",
+        "medal": "Gold Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 54.55,
+        "flag": "\ud83c\uddeb\ud83c\uddf7"
+      },
+      {
+        "date": "Feb 19, 2026",
+        "event": "Men's Sprint SkiMo",
+        "discipline": "Ski Mountaineering",
+        "medal": "Bronze Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 16.0,
+        "flag": "\ud83c\uddeb\ud83c\uddf7"
+      },
+      {
+        "date": "Feb 19, 2026",
+        "event": "Women's Sprint SkiMo",
+        "discipline": "Ski Mountaineering",
+        "medal": "Silver Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 24.0,
+        "flag": "\ud83c\uddeb\ud83c\uddf7"
+      }
+    ],
+    "Germany": [
+      {
+        "date": "Feb 08, 2026",
+        "event": "Women's Downhill",
+        "discipline": "Alpine Skiing",
+        "medal": "Silver Medal",
+        "base_score": 36.0,
+        "is_team": false,
+        "is_prestige": true,
+        "medal_points": 108.0,
+        "flag": "\ud83c\udde9\ud83c\uddea"
+      },
+      {
+        "date": "Feb 08, 2026",
+        "event": "Mixed Relay Biathlon",
+        "discipline": "Biathlon",
+        "medal": "Bronze Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 21.82,
+        "flag": "\ud83c\udde9\ud83c\uddea"
+      },
+      {
+        "date": "Feb 08, 2026",
+        "event": "Men's Singles Luge",
+        "discipline": "Luge",
+        "medal": "Gold Medal",
+        "base_score": 10.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 50.0,
+        "flag": "\ud83c\udde9\ud83c\uddea"
+      },
+      {
+        "date": "Feb 09, 2026",
+        "event": "Men's Individual Normal Hill Nordic Combined",
+        "discipline": "Ski Jumping",
+        "medal": "Gold Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 66.65,
+        "flag": "\ud83c\udde9\ud83c\uddea"
+      },
+      {
+        "date": "Feb 10, 2026",
+        "event": "Women's Alpine Combined",
+        "discipline": "Alpine Skiing",
+        "medal": "Silver Medal",
+        "base_score": 12.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 36.0,
+        "flag": "\ud83c\udde9\ud83c\uddea"
+      },
+      {
+        "date": "Feb 10, 2026",
+        "event": "Women's Singles Luge",
+        "discipline": "Luge",
+        "medal": "Gold Medal",
+        "base_score": 10.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 50.0,
+        "flag": "\ud83c\udde9\ud83c\uddea"
+      },
+      {
+        "date": "Feb 11, 2026",
+        "event": "Men's Doubles Luge",
+        "discipline": "Luge",
+        "medal": "Bronze Medal",
+        "base_score": 10.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 20.0,
+        "flag": "\ud83c\udde9\ud83c\uddea"
+      },
+      {
+        "date": "Feb 11, 2026",
+        "event": "Women's Doubles Luge",
+        "discipline": "Luge",
+        "medal": "Silver Medal",
+        "base_score": 10.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 30.0,
+        "flag": "\ud83c\udde9\ud83c\uddea"
+      },
+      {
+        "date": "Feb 12, 2026",
+        "event": "Team Relay Luge",
+        "discipline": "Luge",
+        "medal": "Gold Medal",
+        "base_score": 10.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 50.0,
+        "flag": "\ud83c\udde9\ud83c\uddea"
+      },
+      {
+        "date": "Feb 13, 2026",
+        "event": "Men's Skeleton",
+        "discipline": "Skeleton",
+        "medal": "Bronze Medal",
+        "base_score": 10.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 20.0,
+        "flag": "\ud83c\udde9\ud83c\uddea"
+      },
+      {
+        "date": "Feb 13, 2026",
+        "event": "Men's Skeleton",
+        "discipline": "Skeleton",
+        "medal": "Silver Medal",
+        "base_score": 10.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 30.0,
+        "flag": "\ud83c\udde9\ud83c\uddea"
+      },
+      {
+        "date": "Feb 14, 2026",
+        "event": "Women's Skeleton",
+        "discipline": "Skeleton",
+        "medal": "Bronze Medal",
+        "base_score": 10.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 20.0,
+        "flag": "\ud83c\udde9\ud83c\uddea"
+      },
+      {
+        "date": "Feb 14, 2026",
+        "event": "Women's Skeleton",
+        "discipline": "Skeleton",
+        "medal": "Silver Medal",
+        "base_score": 10.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 30.0,
+        "flag": "\ud83c\udde9\ud83c\uddea"
+      },
+      {
+        "date": "Feb 15, 2026",
+        "event": "Mixed Team Skeleton",
+        "discipline": "Skeleton",
+        "medal": "Bronze Medal",
+        "base_score": 10.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 20.0,
+        "flag": "\ud83c\udde9\ud83c\uddea"
+      },
+      {
+        "date": "Feb 15, 2026",
+        "event": "Mixed Team Skeleton",
+        "discipline": "Skeleton",
+        "medal": "Silver Medal",
+        "base_score": 10.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 30.0,
+        "flag": "\ud83c\udde9\ud83c\uddea"
+      },
+      {
+        "date": "Feb 16, 2026",
+        "event": "Women's Monobob",
+        "discipline": "Bobsleigh",
+        "medal": "Silver Medal",
+        "base_score": 10.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 30.0,
+        "flag": "\ud83c\udde9\ud83c\uddea"
+      },
+      {
+        "date": "Feb 16, 2026",
+        "event": "Pairs Figure Skating",
+        "discipline": "Figure Skating",
+        "medal": "Bronze Medal",
+        "base_score": 15.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 30.0,
+        "flag": "\ud83c\udde9\ud83c\uddea"
+      },
+      {
+        "date": "Feb 17, 2026",
+        "event": "Two-man Bobsleigh",
+        "discipline": "Bobsleigh",
+        "medal": "Bronze Medal",
+        "base_score": 10.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 20.0,
+        "flag": "\ud83c\udde9\ud83c\uddea"
+      },
+      {
+        "date": "Feb 17, 2026",
+        "event": "Two-man Bobsleigh",
+        "discipline": "Bobsleigh",
+        "medal": "Gold Medal",
+        "base_score": 10.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 50.0,
+        "flag": "\ud83c\udde9\ud83c\uddea"
+      },
+      {
+        "date": "Feb 17, 2026",
+        "event": "Two-man Bobsleigh",
+        "discipline": "Bobsleigh",
+        "medal": "Silver Medal",
+        "base_score": 10.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 30.0,
+        "flag": "\ud83c\udde9\ud83c\uddea"
+      },
+      {
+        "date": "Feb 18, 2026",
+        "event": "Women's Team Sprint",
+        "discipline": "Cross-Country Skiing",
+        "medal": "Bronze Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 16.0,
+        "flag": "\ud83c\udde9\ud83c\uddea"
+      }
+    ],
+    "Korea": [
+      {
+        "date": "Feb 08, 2026",
+        "event": "Men's Parallel Giant Slalom",
+        "discipline": "Snowboard",
+        "medal": "Silver Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 32.73,
+        "flag": "\ud83c\uddf0\ud83c\uddf7"
+      },
+      {
+        "date": "Feb 09, 2026",
+        "event": "Women's Snowboard Big Air",
+        "discipline": "Snowboard",
+        "medal": "Bronze Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 21.82,
+        "flag": "\ud83c\uddf0\ud83c\uddf7"
+      },
+      {
+        "date": "Feb 12, 2026",
+        "event": "Men's 1000m Short Track",
+        "discipline": "Short Track Speed Skating",
+        "medal": "Bronze Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 26.66,
+        "flag": "\ud83c\uddf0\ud83c\uddf7"
+      },
+      {
+        "date": "Feb 12, 2026",
+        "event": "Women's Halfpipe Snowboard",
+        "discipline": "Snowboard",
+        "medal": "Gold Medal",
+        "base_score": 32.73,
+        "is_team": false,
+        "is_prestige": true,
+        "medal_points": 163.65,
+        "flag": "\ud83c\uddf0\ud83c\uddf7"
+      },
+      {
+        "date": "Feb 14, 2026",
+        "event": "Men's 1500m Short Track",
+        "discipline": "Short Track Speed Skating",
+        "medal": "Silver Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 39.99,
+        "flag": "\ud83c\uddf0\ud83c\uddf7"
+      },
+      {
+        "date": "Feb 16, 2026",
+        "event": "Women's 1000m Short Track",
+        "discipline": "Short Track Speed Skating",
+        "medal": "Bronze Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 26.66,
+        "flag": "\ud83c\uddf0\ud83c\uddf7"
+      },
+      {
+        "date": "Feb 18, 2026",
+        "event": "Women's 3000m Relay",
+        "discipline": "Short Track Speed Skating",
+        "medal": "Gold Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 66.65,
+        "flag": "\ud83c\uddf0\ud83c\uddf7"
+      }
+    ],
+    "Netherlands": [
+      {
+        "date": "Feb 09, 2026",
+        "event": "Women's 1000m",
+        "discipline": "Speed Skating",
+        "medal": "Gold Medal",
+        "base_score": 8.57,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 42.85,
+        "flag": "\ud83c\uddf3\ud83c\uddf1"
+      },
+      {
+        "date": "Feb 09, 2026",
+        "event": "Women's 1000m",
+        "discipline": "Speed Skating",
+        "medal": "Silver Medal",
+        "base_score": 8.57,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 25.71,
+        "flag": "\ud83c\uddf3\ud83c\uddf1"
+      },
+      {
+        "date": "Feb 11, 2026",
+        "event": "Men's 1000m",
+        "discipline": "Speed Skating",
+        "medal": "Silver Medal",
+        "base_score": 8.57,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 25.71,
+        "flag": "\ud83c\uddf3\ud83c\uddf1"
+      },
+      {
+        "date": "Feb 12, 2026",
+        "event": "Men's 1000m Short Track",
+        "discipline": "Short Track Speed Skating",
+        "medal": "Gold Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 66.65,
+        "flag": "\ud83c\uddf3\ud83c\uddf1"
+      },
+      {
+        "date": "Feb 12, 2026",
+        "event": "Women's 500m Short Track",
+        "discipline": "Short Track Speed Skating",
+        "medal": "Gold Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 66.65,
+        "flag": "\ud83c\uddf3\ud83c\uddf1"
+      },
+      {
+        "date": "Feb 12, 2026",
+        "event": "Women's 5000m",
+        "discipline": "Speed Skating",
+        "medal": "Silver Medal",
+        "base_score": 8.57,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 25.71,
+        "flag": "\ud83c\uddf3\ud83c\uddf1"
+      },
+      {
+        "date": "Feb 13, 2026",
+        "event": "Men's 10,000m",
+        "discipline": "Speed Skating",
+        "medal": "Bronze Medal",
+        "base_score": 8.57,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 17.14,
+        "flag": "\ud83c\uddf3\ud83c\uddf1"
+      },
+      {
+        "date": "Feb 14, 2026",
+        "event": "Men's 1500m Short Track",
+        "discipline": "Short Track Speed Skating",
+        "medal": "Gold Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 66.65,
+        "flag": "\ud83c\uddf3\ud83c\uddf1"
+      },
+      {
+        "date": "Feb 14, 2026",
+        "event": "Men's 500m",
+        "discipline": "Speed Skating",
+        "medal": "Silver Medal",
+        "base_score": 25.71,
+        "is_team": false,
+        "is_prestige": true,
+        "medal_points": 77.13,
+        "flag": "\ud83c\uddf3\ud83c\uddf1"
+      },
+      {
+        "date": "Feb 15, 2026",
+        "event": "Women's 500m",
+        "discipline": "Speed Skating",
+        "medal": "Gold Medal",
+        "base_score": 25.71,
+        "is_team": false,
+        "is_prestige": true,
+        "medal_points": 128.55,
+        "flag": "\ud83c\uddf3\ud83c\uddf1"
+      },
+      {
+        "date": "Feb 15, 2026",
+        "event": "Women's 500m",
+        "discipline": "Speed Skating",
+        "medal": "Silver Medal",
+        "base_score": 25.71,
+        "is_team": false,
+        "is_prestige": true,
+        "medal_points": 77.13,
+        "flag": "\ud83c\uddf3\ud83c\uddf1"
+      },
+      {
+        "date": "Feb 16, 2026",
+        "event": "Women's 1000m Short Track",
+        "discipline": "Short Track Speed Skating",
+        "medal": "Gold Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 66.65,
+        "flag": "\ud83c\uddf3\ud83c\uddf1"
+      },
+      {
+        "date": "Feb 17, 2026",
+        "event": "Women's Team Pursuit",
+        "discipline": "Speed Skating",
+        "medal": "Silver Medal",
+        "base_score": 8.57,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 25.71,
+        "flag": "\ud83c\uddf3\ud83c\uddf1"
+      },
+      {
+        "date": "Feb 18, 2026",
+        "event": "Men's 500m Short Track",
+        "discipline": "Short Track Speed Skating",
+        "medal": "Bronze Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 26.66,
+        "flag": "\ud83c\uddf3\ud83c\uddf1"
+      },
+      {
+        "date": "Feb 18, 2026",
+        "event": "Men's 500m Short Track",
+        "discipline": "Short Track Speed Skating",
+        "medal": "Silver Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 39.99,
+        "flag": "\ud83c\uddf3\ud83c\uddf1"
+      },
+      {
+        "date": "Feb 19, 2026",
+        "event": "Men's 1500m",
+        "discipline": "Speed Skating",
+        "medal": "Bronze Medal",
+        "base_score": 8.57,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 17.14,
+        "flag": "\ud83c\uddf3\ud83c\uddf1"
+      }
+    ],
+    "New Zealand": [
+      {
+        "date": "Feb 09, 2026",
+        "event": "Women's Snowboard Big Air",
+        "discipline": "Snowboard",
+        "medal": "Silver Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 32.73,
+        "flag": "\ud83c\uddf3\ud83c\uddff"
+      },
+      {
+        "date": "Feb 10, 2026",
+        "event": "Men's Slopestyle Freestyle",
+        "discipline": "Freestyle Skiing",
+        "medal": "Bronze Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 16.0,
+        "flag": "\ud83c\uddf3\ud83c\uddff"
+      },
+      {
+        "date": "Feb 18, 2026",
+        "event": "Women's Slopestyle Snowboard",
+        "discipline": "Snowboard",
+        "medal": "Silver Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 32.73,
+        "flag": "\ud83c\uddf3\ud83c\uddff"
+      }
+    ],
+    "Poland": [
+      {
+        "date": "Feb 09, 2026",
+        "event": "Men's Individual Normal Hill Nordic Combined",
+        "discipline": "Ski Jumping",
+        "medal": "Silver Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 39.99,
+        "flag": "\ud83c\uddf5\ud83c\uddf1"
+      },
+      {
+        "date": "Feb 13, 2026",
+        "event": "Men's 10,000m",
+        "discipline": "Speed Skating",
+        "medal": "Silver Medal",
+        "base_score": 8.57,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 25.71,
+        "flag": "\ud83c\uddf5\ud83c\uddf1"
+      },
+      {
+        "date": "Feb 14, 2026",
+        "event": "Men's Large Hill Ski Jumping",
+        "discipline": "Ski Jumping",
+        "medal": "Bronze Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 26.66,
+        "flag": "\ud83c\uddf5\ud83c\uddf1"
+      },
+      {
+        "date": "Feb 16, 2026",
+        "event": "Men's Super Team",
+        "discipline": "Ski Jumping",
+        "medal": "Silver Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 39.99,
+        "flag": "\ud83c\uddf5\ud83c\uddf1"
+      }
+    ],
+    "Belgium": [
+      {
+        "date": "Feb 10, 2026",
+        "event": "Mixed Team Relay Short Track",
+        "discipline": "Short Track Speed Skating",
+        "medal": "Bronze Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 26.66,
+        "flag": "\ud83c\udde7\ud83c\uddea"
+      }
+    ],
+    "Latvia": [
+      {
+        "date": "Feb 10, 2026",
+        "event": "Women's Singles Luge",
+        "discipline": "Luge",
+        "medal": "Silver Medal",
+        "base_score": 10.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 30.0,
+        "flag": "\ud83c\uddf1\ud83c\uddfb"
+      },
+      {
+        "date": "Feb 14, 2026",
+        "event": "Men's 1500m Short Track",
+        "discipline": "Short Track Speed Skating",
+        "medal": "Bronze Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 26.66,
+        "flag": "\ud83c\uddf1\ud83c\uddfb"
+      }
+    ],
+    "Finland": [
+      {
+        "date": "Feb 11, 2026",
+        "event": "Men's Individual Normal Hill Nordic Combined",
+        "discipline": "Nordic Combined",
+        "medal": "Bronze Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 26.66,
+        "flag": "\ud83c\uddeb\ud83c\uddee"
+      },
+      {
+        "date": "Feb 14, 2026",
+        "event": "Women's 4x5km Relay",
+        "discipline": "Cross-Country Skiing",
+        "medal": "Bronze Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 16.0,
+        "flag": "\ud83c\uddeb\ud83c\uddee"
+      },
+      {
+        "date": "Feb 15, 2026",
+        "event": "Women's 10km Pursuit Biathlon",
+        "discipline": "Biathlon",
+        "medal": "Bronze Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 21.82,
+        "flag": "\ud83c\uddeb\ud83c\uddee"
+      },
+      {
+        "date": "Feb 17, 2026",
+        "event": "Individual Gundersen Large Hill/10km",
+        "discipline": "Nordic Combined",
+        "medal": "Bronze Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 26.66,
+        "flag": "\ud83c\uddeb\ud83c\uddee"
+      },
+      {
+        "date": "Feb 19, 2026",
+        "event": "Team Sprint",
+        "discipline": "Nordic Combined",
+        "medal": "Silver Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 39.99,
+        "flag": "\ud83c\uddeb\ud83c\uddee"
+      }
+    ],
+    "Australia": [
+      {
+        "date": "Feb 12, 2026",
+        "event": "Men's Moguls",
+        "discipline": "Freestyle Skiing",
+        "medal": "Gold Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 40.0,
+        "flag": "\ud83c\udde6\ud83c\uddfa"
+      },
+      {
+        "date": "Feb 13, 2026",
+        "event": "Men's Halfpipe Snowboard",
+        "discipline": "Snowboard",
+        "medal": "Silver Medal",
+        "base_score": 32.73,
+        "is_team": false,
+        "is_prestige": true,
+        "medal_points": 98.19,
+        "flag": "\ud83c\udde6\ud83c\uddfa"
+      },
+      {
+        "date": "Feb 13, 2026",
+        "event": "Women's Snowboard Cross",
+        "discipline": "Snowboard",
+        "medal": "Gold Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 54.55,
+        "flag": "\ud83c\udde6\ud83c\uddfa"
+      },
+      {
+        "date": "Feb 14, 2026",
+        "event": "Women's Dual Moguls",
+        "discipline": "Freestyle Skiing",
+        "medal": "Gold Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 40.0,
+        "flag": "\ud83c\udde6\ud83c\uddfa"
+      },
+      {
+        "date": "Feb 15, 2026",
+        "event": "Men's Dual Moguls",
+        "discipline": "Freestyle Skiing",
+        "medal": "Bronze Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 16.0,
+        "flag": "\ud83c\udde6\ud83c\uddfa"
+      },
+      {
+        "date": "Feb 18, 2026",
+        "event": "Women's Aerials",
+        "discipline": "Freestyle Skiing",
+        "medal": "Silver Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 24.0,
+        "flag": "\ud83c\udde6\ud83c\uddfa"
+      }
+    ],
+    "Great Britain": [
+      {
+        "date": "Feb 13, 2026",
+        "event": "Men's Skeleton",
+        "discipline": "Skeleton",
+        "medal": "Gold Medal",
+        "base_score": 10.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 50.0,
+        "flag": "\ud83c\uddec\ud83c\udde7"
+      },
+      {
+        "date": "Feb 15, 2026",
+        "event": "Mixed Team Skeleton",
+        "discipline": "Skeleton",
+        "medal": "Gold Medal",
+        "base_score": 10.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 50.0,
+        "flag": "\ud83c\uddec\ud83c\udde7"
+      },
+      {
+        "date": "Feb 15, 2026",
+        "event": "Mixed Team Snowboard Cross",
+        "discipline": "Snowboard",
+        "medal": "Gold Medal",
+        "base_score": 43.64,
+        "is_team": true,
+        "is_prestige": false,
+        "medal_points": 218.2,
+        "flag": "\ud83c\uddec\ud83c\udde7"
+      }
+    ],
+    "Kazakhstan": [
+      {
+        "date": "Feb 13, 2026",
+        "event": "Men's Singles Figure Skating",
+        "discipline": "Figure Skating",
+        "medal": "Gold Medal",
+        "base_score": 45.0,
+        "is_team": false,
+        "is_prestige": true,
+        "medal_points": 225.0,
+        "flag": "\ud83c\uddf0\ud83c\uddff"
+      }
+    ],
+    "Brazil": [
+      {
+        "date": "Feb 14, 2026",
+        "event": "Men's Giant Slalom",
+        "discipline": "Alpine Skiing",
+        "medal": "Gold Medal",
+        "base_score": 12.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 60.0,
+        "flag": "\ud83c\udde7\ud83c\uddf7"
+      }
+    ],
+    "Spain": [
+      {
+        "date": "Feb 19, 2026",
+        "event": "Men's Sprint SkiMo",
+        "discipline": "Ski Mountaineering",
+        "medal": "Gold Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 40.0,
+        "flag": "\ud83c\uddea\ud83c\uddf8"
+      },
+      {
+        "date": "Feb 19, 2026",
+        "event": "Women's Sprint SkiMo",
+        "discipline": "Ski Mountaineering",
+        "medal": "Bronze Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 16.0,
+        "flag": "\ud83c\uddea\ud83c\uddf8"
+      }
+    ]
+  }
 }
