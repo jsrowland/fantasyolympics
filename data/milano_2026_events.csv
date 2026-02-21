@@ -21,7 +21,7 @@
 19,19,Women's 4x6km Relay Biathlon,Biathlon,Biathlon,False,False,10.91
 20,20,Mixed Relay Biathlon,Biathlon,Biathlon,False,False,10.91
 21,21,Men's 15km + 15km Skiathlon,Cross-Country Skiing,Endurance Snow,False,False,8.0
-22,22,Men's 15km Free,Cross-Country Skiing,Endurance Snow,False,False,8.0
+22,22,Men's 10km Free,Cross-Country Skiing,Endurance Snow,False,False,8.0
 23,23,Men's 50km Mass Start,Cross-Country Skiing,Endurance Snow,False,False,8.0
 24,24,Men's 4x10km Relay,Cross-Country Skiing,Endurance Snow,False,False,8.0
 25,25,Men's Sprint Free,Cross-Country Skiing,Endurance Snow,False,False,8.0
@@ -75,14 +75,14 @@
 73,73,Women's 1500m Short Track,Short Track Speed Skating,Short Track,False,False,13.33
 74,74,Women's 3000m Relay,Short Track Speed Skating,Short Track,False,False,13.33
 75,75,Mixed Team Relay Short Track,Short Track Speed Skating,Short Track,False,False,13.33
-76,76,Men's Normal Hill Ski Jumping,Ski Jumping,Ski Jumping,False,False,15.0
-77,77,Men's Large Hill Ski Jumping,Ski Jumping,Ski Jumping,False,False,15.0
-78,78,Mixed Team Ski Jumping,Ski Jumping,Ski Jumping,False,False,15.0
-79,79,Women's NH Individual,Ski Jumping,Ski Jumping,False,False,15.0
-80,80,Women's Large Hill Ski Jumping,Ski Jumping,Ski Jumping,False,False,15.0
-81,82,Men's Individual Normal Hill Nordic Combined,Nordic Combined,Ski Jumping,False,False,15.0
-82,83,Men's Individual Large Hill Nordic Combined,Nordic Combined,Ski Jumping,False,False,15.0
-83,84,Men's Team Sprint Large Hill Nordic Combined,Nordic Combined,Ski Jumping,False,False,15.0
+76,76,Men's Normal Hill Ski Jumping,Ski Jumping,Ski Jumping,False,False,13.33
+77,77,Men's Large Hill Ski Jumping,Ski Jumping,Ski Jumping,False,False,13.33
+78,78,Mixed Team Ski Jumping,Ski Jumping,Ski Jumping,False,False,13.33
+79,79,Women's NH Individual,Ski Jumping,Ski Jumping,False,False,13.33
+80,80,Women's Large Hill Ski Jumping,Ski Jumping,Ski Jumping,False,False,13.33
+81,82,Men's Individual Normal Hill Nordic Combined,Nordic Combined,Ski Jumping,False,False,13.33
+82,83,Men's Individual Large Hill Nordic Combined,Nordic Combined,Ski Jumping,False,False,13.33
+83,84,Men's Team Sprint Large Hill Nordic Combined,Nordic Combined,Ski Jumping,False,False,13.33
 84,85,Men's Aerials,Freestyle Skiing,Freestyle Skiing,False,False,8.0
 85,86,Men's Moguls,Freestyle Skiing,Freestyle Skiing,False,False,8.0
 86,87,Men's Dual Moguls,Freestyle Skiing,Freestyle Skiing,False,False,8.0
@@ -114,3 +114,4 @@
 112,113,Men's Curling,Curling,Curling,False,True,45.0
 113,114,Women's Curling,Curling,Curling,False,True,45.0
 114,115,Mixed Doubles Curling,Curling,Curling,False,False,15.0
+115,116,Men's Super Team,Ski Jumping,Ski Jumping,False,False,13.33
