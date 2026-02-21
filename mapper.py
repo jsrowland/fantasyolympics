@@ -30,10 +30,18 @@ def run_mapper(mode):
     local_df['key'] = local_df['discipline'] + "|" + local_df['event']
     
     mapping = load_json(MAPPING_FILE)
-    to_process = []
 
     # 2. Identify "Used" Local Events (Values in our mapping)
+    # Drop any entries whose target no longer exists in events.csv (stale from bad prior mappings)
+    valid_local_keys = set(local_df['key'].values)
+    stale = [k for k, v in mapping.items() if v not in valid_local_keys]
+    for k in stale:
+        del mapping[k]
+    if stale:
+        print(f"[!] Removed {len(stale)} stale mapping(s) whose target event is not in events.csv.")
+
     used_local_keys = set(mapping.values())
+    to_process = []
 
     # 3. Choose Source
     if mode == 'schedule':

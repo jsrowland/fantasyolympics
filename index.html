@@ -15,6 +15,7 @@
             <li class="nav-item"><button class="nav-link active" data-bs-toggle="tab" data-bs-target="#medal-tab">Medal Table</button></li>
             <li class="nav-item"><button class="nav-link" data-bs-toggle="tab" data-bs-target="#standings-tab">Standings</button></li>
             <li class="nav-item"><button class="nav-link" data-bs-toggle="tab" data-bs-target="#news-tab">News</button></li>
+            <li class="nav-item"><button class="nav-link" data-bs-toggle="tab" data-bs-target="#nations-tab">Nations</button></li>
         </ul>
 
         <div class="tab-content bg-white p-4 border border-top-0">
@@ -42,6 +43,34 @@
             <div class="tab-pane fade" id="news-tab">
                 <div id="news-feed" class="list-group list-group-flush"></div>
             </div>
+
+            <div class="tab-pane fade" id="nations-tab">
+                <div class="mb-3">
+                    <select id="nation-select" class="form-select" style="max-width: 320px;">
+                        <option value="">— Select a country —</option>
+                    </select>
+                </div>
+                <div id="nation-detail" class="d-none">
+                    <div id="nation-header" class="mb-4 p-3 bg-light rounded border"></div>
+                    <div class="row g-4 align-items-start">
+                        <div class="col-md-5">
+                            <h6 class="text-muted text-uppercase small mb-2">Points by Discipline</h6>
+                            <canvas id="disciplineChart"></canvas>
+                        </div>
+                        <div class="col-md-7">
+                            <h6 class="text-muted text-uppercase small mb-2">Medal Breakdown</h6>
+                            <div style="max-height: 420px; overflow-y: auto;">
+                                <table class="table table-sm table-striped mb-0">
+                                    <thead class="sticky-top bg-white">
+                                        <tr><th>Event</th><th>Date</th><th></th><th class="text-end">Pts</th></tr>
+                                    </thead>
+                                    <tbody id="events-body"></tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 
@@ -62,6 +91,11 @@
 
         // Helper to get color safely
         const getC = (name) => playerColors[name] || "#6c757d";
+
+        const disciplineColors = [
+            '#4e79a7','#f28e2b','#e15759','#76b7b2','#59a14f',
+            '#edc948','#b07aa1','#ff9da7','#9c755f','#bab0ac'
+        ];
 
         fetch('./dashboard_data.json')
             .then(res => res.json())
@@ -112,6 +146,86 @@
                         </div>`;
                 }).join('');
                 document.getElementById('news-feed').innerHTML = newsHtml;
+
+                // 5. Populate Nation Selector (grouped by owner)
+                const select = document.getElementById('nation-select');
+                const byOwner = {};
+                data.medal_table.forEach(row => {
+                    if (!byOwner[row.owner]) byOwner[row.owner] = [];
+                    byOwner[row.owner].push(row);
+                });
+                Object.entries(byOwner).sort(([a],[b]) => a.localeCompare(b)).forEach(([owner, countries]) => {
+                    const group = document.createElement('optgroup');
+                    group.label = owner;
+                    countries.sort((a,b) => a.country.localeCompare(b.country)).forEach(row => {
+                        const opt = document.createElement('option');
+                        opt.value = row.country;
+                        opt.textContent = `${row.flag} ${row.country}`;
+                        group.appendChild(opt);
+                    });
+                    select.appendChild(group);
+                });
+
+                // 6. Nation Detail rendering
+                let disciplineChart = null;
+                const countryEvents = data.country_events || {};
+                const countryIndex = {};
+                data.medal_table.forEach(r => countryIndex[r.country] = r);
+                const medalEmoji = {'Gold Medal':'🥇','Silver Medal':'🥈','Bronze Medal':'🥉'};
+
+                document.getElementById('nation-select').addEventListener('change', function() {
+                    const country = this.value;
+                    const detail = document.getElementById('nation-detail');
+                    if (!country) { detail.classList.add('d-none'); return; }
+
+                    const info = countryIndex[country];
+                    const events = countryEvents[country] || [];
+
+                    document.getElementById('nation-header').innerHTML = `
+                        <div class="d-flex align-items-center gap-3 flex-wrap">
+                            <span class="fs-2">${info.flag}</span>
+                            <div>
+                                <h5 class="mb-0">${country}
+                                    <span class="badge ms-1" style="background-color:${getC(info.owner)}">${info.owner}</span>
+                                </h5>
+                                <small class="text-muted">${info.athletes} athletes &nbsp;|&nbsp;
+                                    🥇 ${Math.round(info.golds)} &nbsp;🥈 ${Math.round(info.silvers)} &nbsp;🥉 ${Math.round(info.bronzes)} &nbsp;|&nbsp;
+                                    <strong>${info.medal_points.toFixed(0)}</strong> pts total &nbsp;|&nbsp;
+                                    <strong>${info.pa_score.toFixed(2)}</strong> pts/athlete
+                                </small>
+                            </div>
+                        </div>`;
+
+                    const sorted = [...events].sort((a,b) => b.medal_points - a.medal_points);
+                    document.getElementById('events-body').innerHTML = sorted.length
+                        ? sorted.map(e => {
+                            const tags = [e.is_team ? 'Team' : '', e.is_prestige ? 'Prestige' : ''].filter(Boolean);
+                            return `<tr>
+                                <td>${e.event}${tags.length ? `<br><small class="text-muted">${tags.join(' · ')}</small>` : ''}</td>
+                                <td class="text-muted small text-nowrap">${e.date}</td>
+                                <td>${medalEmoji[e.medal] || ''}</td>
+                                <td class="text-end fw-bold">${e.medal_points.toFixed(2)}</td>
+                            </tr>`;
+                          }).join('')
+                        : '<tr><td colspan="4" class="text-center text-muted">No medals yet</td></tr>';
+
+                    const byDisc = {};
+                    events.forEach(e => { byDisc[e.discipline] = (byDisc[e.discipline] || 0) + e.medal_points; });
+                    const labels = Object.keys(byDisc).sort((a,b) => byDisc[b] - byDisc[a]);
+                    const values = labels.map(l => +byDisc[l].toFixed(2));
+
+                    if (disciplineChart) disciplineChart.destroy();
+                    if (labels.length) {
+                        const ctx = document.getElementById('disciplineChart').getContext('2d');
+                        disciplineChart = new Chart(ctx, {
+                            type: 'pie',
+                            data: { labels, datasets: [{ data: values, backgroundColor: disciplineColors.slice(0, labels.length) }] },
+                            options: { plugins: { legend: { position: 'bottom' } } }
+                        });
+                    }
+
+                    detail.classList.remove('d-none');
+                });
 
                 renderChart(data.history);
             });

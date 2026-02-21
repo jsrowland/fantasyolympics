@@ -31,11 +31,8 @@ From that point on, `update.yml` runs the following sequence on a cadence accord
 - need a way to validate the data -- some sort of debug index if events or countries aren't matching
 - percent of all points that have come in
 - country breakdown -- pie chart of disciplines, list of medals/points
+- points left / % complete
+- dashboard data update should give you confidence it was a good update (diff)
 
 # Missing Events
 
-Cross Country Classic
-Mixed Team Ski Jumping
-Gundersen Normal Hill??
-Cross Country Sprint
-Men's 10km Interval Start Free
