@@ -97,7 +97,7 @@
             '#edc948','#b07aa1','#ff9da7','#9c755f','#bab0ac'
         ];
 
-        fetch('./dashboard_data.json')
+        fetch('./dashboard_data.json', { cache: 'no-cache' })
             .then(res => res.json())
             .then(data => {
                 // 2. Populate Medal Table (with colored owner badges)

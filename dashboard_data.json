@@ -519,6 +519,126 @@
           "daily_score": 29.64
         }
       }
+    },
+    {
+      "timestamp": "2026-02-20T00:00:00",
+      "players": {
+        "Grant": {
+          "medal_score": 2368.48,
+          "pa_score": 6.4536,
+          "norm_medal": 0.1999,
+          "norm_pa": 0.2555,
+          "daily_score": 24.44
+        },
+        "John": {
+          "medal_score": 2130.34,
+          "pa_score": 4.2864,
+          "norm_medal": 0.1798,
+          "norm_pa": 0.1697,
+          "daily_score": 17.17
+        },
+        "Eric": {
+          "medal_score": 1521.63,
+          "pa_score": 2.5276,
+          "norm_medal": 0.1284,
+          "norm_pa": 0.1001,
+          "daily_score": 10.58
+        },
+        "Meredith": {
+          "medal_score": 2479.7,
+          "pa_score": 4.5667,
+          "norm_medal": 0.2093,
+          "norm_pa": 0.1808,
+          "daily_score": 18.65
+        },
+        "Kalida": {
+          "medal_score": 3347.78,
+          "pa_score": 7.423,
+          "norm_medal": 0.2826,
+          "norm_pa": 0.2939,
+          "daily_score": 29.16
+        }
+      }
+    },
+    {
+      "timestamp": "2026-02-21T00:00:00",
+      "players": {
+        "Grant": {
+          "medal_score": 2448.48,
+          "pa_score": 6.6716,
+          "norm_medal": 0.1877,
+          "norm_pa": 0.2414,
+          "daily_score": 23.07
+        },
+        "John": {
+          "medal_score": 2598.33,
+          "pa_score": 5.228,
+          "norm_medal": 0.1992,
+          "norm_pa": 0.1892,
+          "daily_score": 19.12
+        },
+        "Eric": {
+          "medal_score": 1747.34,
+          "pa_score": 2.9026,
+          "norm_medal": 0.134,
+          "norm_pa": 0.105,
+          "daily_score": 11.08
+        },
+        "Meredith": {
+          "medal_score": 2717.66,
+          "pa_score": 5.0049,
+          "norm_medal": 0.2084,
+          "norm_pa": 0.1811,
+          "daily_score": 18.66
+        },
+        "Kalida": {
+          "medal_score": 3529.48,
+          "pa_score": 7.8259,
+          "norm_medal": 0.2706,
+          "norm_pa": 0.2832,
+          "daily_score": 28.07
+        }
+      }
+    },
+    {
+      "timestamp": "2026-02-22T00:00:00",
+      "players": {
+        "Grant": {
+          "medal_score": 2472.48,
+          "pa_score": 6.737,
+          "norm_medal": 0.1761,
+          "norm_pa": 0.2279,
+          "daily_score": 21.75
+        },
+        "John": {
+          "medal_score": 2778.33,
+          "pa_score": 5.5902,
+          "norm_medal": 0.1979,
+          "norm_pa": 0.1891,
+          "daily_score": 19.09
+        },
+        "Eric": {
+          "medal_score": 2022.34,
+          "pa_score": 3.3594,
+          "norm_medal": 0.144,
+          "norm_pa": 0.1136,
+          "daily_score": 11.97
+        },
+        "Meredith": {
+          "medal_score": 2998.66,
+          "pa_score": 5.5224,
+          "norm_medal": 0.2136,
+          "norm_pa": 0.1868,
+          "daily_score": 19.22
+        },
+        "Kalida": {
+          "medal_score": 3769.48,
+          "pa_score": 8.358,
+          "norm_medal": 0.2685,
+          "norm_pa": 0.2827,
+          "daily_score": 27.99
+        }
+      }
     }
   ],
   "medal_table": [
@@ -529,11 +649,11 @@
       "draft_pick": 1,
       "draft_round": 1,
       "athletes": 80,
-      "golds": 16.0,
-      "silvers": 8.0,
-      "bronzes": 10.0,
-      "medal_points": 1280.89,
-      "pa_score": 16.01,
+      "golds": 18.0,
+      "silvers": 12.0,
+      "bronzes": 11.0,
+      "medal_points": 1497.88,
+      "pa_score": 18.72,
       "flag": "\ud83c\uddf3\ud83c\uddf4"
     },
     {
@@ -543,11 +663,11 @@
       "draft_pick": 2,
       "draft_round": 1,
       "athletes": 211,
-      "golds": 4.0,
-      "silvers": 5.0,
-      "bronzes": 6.0,
-      "medal_points": 674.09,
-      "pa_score": 3.19,
+      "golds": 5.0,
+      "silvers": 7.0,
+      "bronzes": 9.0,
+      "medal_points": 1227.94,
+      "pa_score": 5.82,
       "flag": "\ud83c\udde8\ud83c\udde6"
     },
     {
@@ -559,9 +679,9 @@
       "athletes": 103,
       "golds": 0.0,
       "silvers": 1.0,
-      "bronzes": 4.0,
-      "medal_points": 131.13,
-      "pa_score": 1.27,
+      "bronzes": 5.0,
+      "medal_points": 251.13,
+      "pa_score": 2.44,
       "flag": "\ud83c\uddeb\ud83c\uddee"
     },
     {
@@ -571,11 +691,11 @@
       "draft_pick": 4,
       "draft_round": 1,
       "athletes": 110,
-      "golds": 6.0,
+      "golds": 8.0,
       "silvers": 6.0,
-      "bronzes": 3.0,
-      "medal_points": 510.28,
-      "pa_score": 4.64,
+      "bronzes": 4.0,
+      "medal_points": 791.28,
+      "pa_score": 7.19,
       "flag": "\ud83c\uddf8\ud83c\uddea"
     },
     {
@@ -585,11 +705,11 @@
       "draft_pick": 5,
       "draft_round": 1,
       "athletes": 189,
-      "golds": 5.0,
-      "silvers": 8.0,
+      "golds": 8.0,
+      "silvers": 10.0,
       "bronzes": 8.0,
-      "medal_points": 758.47,
-      "pa_score": 4.01,
+      "medal_points": 1118.47,
+      "pa_score": 5.92,
       "flag": "\ud83c\udde9\ud83c\uddea"
     },
     {
@@ -599,11 +719,11 @@
       "draft_pick": 6,
       "draft_round": 2,
       "athletes": 39,
-      "golds": 6.0,
+      "golds": 10.0,
       "silvers": 7.0,
       "bronzes": 3.0,
-      "medal_points": 796.03,
-      "pa_score": 20.41,
+      "medal_points": 991.23,
+      "pa_score": 25.42,
       "flag": "\ud83c\uddf3\ud83c\uddf1"
     },
     {
@@ -613,11 +733,11 @@
       "draft_pick": 7,
       "draft_round": 2,
       "athletes": 195,
-      "golds": 9.0,
-      "silvers": 5.0,
-      "bronzes": 12.0,
-      "medal_points": 1179.98,
-      "pa_score": 6.05,
+      "golds": 10.0,
+      "silvers": 6.0,
+      "bronzes": 14.0,
+      "medal_points": 1287.78,
+      "pa_score": 6.6,
       "flag": "\ud83c\uddee\ud83c\uddf9"
     },
     {
@@ -628,10 +748,10 @@
       "draft_round": 2,
       "athletes": 175,
       "golds": 6.0,
-      "silvers": 4.0,
-      "bronzes": 4.0,
-      "medal_points": 766.66,
-      "pa_score": 4.38,
+      "silvers": 9.0,
+      "bronzes": 8.0,
+      "medal_points": 1179.66,
+      "pa_score": 6.74,
       "flag": "\ud83c\udde8\ud83c\udded"
     },
     {
@@ -641,11 +761,11 @@
       "draft_pick": 9,
       "draft_round": 2,
       "athletes": 73,
-      "golds": 2.0,
-      "silvers": 2.0,
+      "golds": 3.0,
+      "silvers": 4.0,
       "bronzes": 3.0,
-      "medal_points": 378.15999999999997,
-      "pa_score": 5.18,
+      "medal_points": 524.79,
+      "pa_score": 7.19,
       "flag": "\ud83c\uddf0\ud83c\uddf7"
     },
     {
@@ -683,11 +803,11 @@
       "draft_pick": 12,
       "draft_round": 3,
       "athletes": 162,
-      "golds": 6.0,
-      "silvers": 8.0,
-      "bronzes": 5.0,
-      "medal_points": 735.04,
-      "pa_score": 4.54,
+      "golds": 8.0,
+      "silvers": 9.0,
+      "bronzes": 6.0,
+      "medal_points": 884.14,
+      "pa_score": 5.46,
       "flag": "\ud83c\uddeb\ud83c\uddf7"
     },
     {
@@ -697,11 +817,11 @@
       "draft_pick": 13,
       "draft_round": 3,
       "athletes": 126,
-      "golds": 3.0,
-      "silvers": 3.0,
-      "bronzes": 4.0,
-      "medal_points": 297.49,
-      "pa_score": 2.36,
+      "golds": 5.0,
+      "silvers": 4.0,
+      "bronzes": 6.0,
+      "medal_points": 433.49,
+      "pa_score": 3.44,
       "flag": "\ud83c\udde8\ud83c\uddf3"
     },
     {
@@ -713,9 +833,9 @@
       "athletes": 114,
       "golds": 2.0,
       "silvers": 2.0,
-      "bronzes": 0.0,
-      "medal_points": 155.84,
-      "pa_score": 1.37,
+      "bronzes": 1.0,
+      "medal_points": 177.66,
+      "pa_score": 1.56,
       "flag": "\ud83c\udde8\ud83c\uddff"
     },
     {
@@ -754,10 +874,10 @@
       "draft_round": 4,
       "athletes": 55,
       "golds": 3.0,
-      "silvers": 0.0,
-      "bronzes": 0.0,
-      "medal_points": 318.2,
-      "pa_score": 5.79,
+      "silvers": 1.0,
+      "bronzes": 1.0,
+      "medal_points": 469.2,
+      "pa_score": 8.53,
       "flag": "\ud83c\uddec\ud83c\udde7"
     },
     {
@@ -810,10 +930,10 @@
       "draft_round": 5,
       "athletes": 32,
       "golds": 0.0,
-      "silvers": 0.0,
+      "silvers": 1.0,
       "bronzes": 0.0,
-      "medal_points": 0.0,
-      "pa_score": 0.0,
+      "medal_points": 24.0,
+      "pa_score": 0.75,
       "flag": "\ud83c\uddea\ud83c\uddea"
     },
     {
@@ -838,10 +958,10 @@
       "draft_round": 5,
       "athletes": 39,
       "golds": 0.0,
-      "silvers": 0.0,
+      "silvers": 1.0,
       "bronzes": 0.0,
-      "medal_points": 0.0,
-      "pa_score": 0.0,
+      "medal_points": 25.71,
+      "pa_score": 0.66,
       "flag": "\ud83c\udde9\ud83c\uddf0"
     },
     {
@@ -1007,13 +1127,298 @@
       "athletes": 20,
       "golds": 1.0,
       "silvers": 0.0,
-      "bronzes": 1.0,
-      "medal_points": 56.0,
-      "pa_score": 2.8,
+      "bronzes": 2.0,
+      "medal_points": 72.0,
+      "pa_score": 3.6,
       "flag": "\ud83c\uddea\ud83c\uddf8"
     }
   ],
   "news": [
+    {
+      "date": "Feb 22, 2026",
+      "entry": "\ud83e\udd47 \ud83c\udde9\ud83c\uddea **FLEISCHHAUER Georg, LOCHNER Johannes, MARGIS Thorsten, and WENZEL Jorn** (**Germany,** 189 athletes) takes **Gold Medal** in Four-man Bobsleigh, winning **Kalida** 150.00 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 22, 2026",
+      "entry": "\ud83e\udd48 \ud83c\udde9\ud83c\uddea **FRIEDRICH Francesco, SCHULLER Alexander, SOMMER Matthias, and STRAUB Felix** (**Germany,** 189 athletes) takes **Silver Medal** in Four-man Bobsleigh, winning **Kalida** 90.00 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 22, 2026",
+      "entry": "\ud83e\udd49 \ud83c\udde8\ud83c\udded **AEBERHARD Mario, HAAS Andreas, NDIAYE Amadou David, and VOGT Michael** (**Switzerland,** 175 athletes) takes **Bronze Medal** in Four-man Bobsleigh, winning **Eric** 60.00 points!",
+      "owner": "Eric"
+    },
+    {
+      "date": "Feb 22, 2026",
+      "entry": "\ud83e\udd48 \ud83c\udde8\ud83c\udde6 **BENNETT Sam, BINNINGTON Jordan, CELEBRINI Macklin, CROSBY Sidney, DOUGHTY Drew, HAGEL Brandon, HARLEY Thomas, HORVAT Bo, JARVIS Seth, KUEMPER Darcy, MAKAR Cale, MARCHAND Brad, MARNER Mitch, MORRISSEY Josh, MacKINNON Nathan, McDAVID Connor, PARAYKO Colton, REINHART Sam, SANHEIM Travis, STONE Mark, SUZUKI Nick, THEODORE Shea, THOMPSON Logan, TOEWS Devon, and WILSON Tom** (**Canada,** 211 athletes) takes **Silver Medal** in Men's Ice Hockey, winning **John** 180.00 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 22, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddf8\ud83c\uddea **ANDERSSON Ebba** (**Sweden,** 110 athletes) takes **Gold Medal** in Women's 30km Mass Start, winning **Meredith** 40.00 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 22, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddf3\ud83c\uddf4 **WENG Heidi** (**Norway,** 80 athletes) takes **Silver Medal** in Women's 30km Mass Start, winning **Grant** 24.00 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 22, 2026",
+      "entry": "\ud83e\udd49 \ud83c\udde8\ud83c\udded **KAELIN Nadja** (**Switzerland,** 175 athletes) takes **Bronze Medal** in Women's 30km Mass Start, winning **Eric** 16.00 points!",
+      "owner": "Eric"
+    },
+    {
+      "date": "Feb 22, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddf8\ud83c\uddea **HASSELBORG Anna, HELDIN Johanna, KNOCHENHAUER Agnes, McMANUS Sara, and SCHARBACK Sofia** (**Sweden,** 110 athletes) takes **Gold Medal** in Women's Curling, winning **Meredith** 225.00 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 22, 2026",
+      "entry": "\ud83e\udd48 \ud83c\udde8\ud83c\udded **BERSET Stefanie, HOWALD Carole, PAETZ Alina, TIRINZONI Silvana, and WITSCHONKE Selina** (**Switzerland,** 175 athletes) takes **Silver Medal** in Women's Curling, winning **Eric** 135.00 points!",
+      "owner": "Eric"
+    },
+    {
+      "date": "Feb 22, 2026",
+      "entry": "\ud83e\udd47 \ud83c\udde8\ud83c\uddf3 **GU Ailing Eileen** (**China,** 126 athletes) takes **Gold Medal** in Women's Halfpipe Freestyle, winning **Eric** 40.00 points!",
+      "owner": "Eric"
+    },
+    {
+      "date": "Feb 22, 2026",
+      "entry": "\ud83e\udd48 \ud83c\udde8\ud83c\uddf3 **LI Fanghui** (**China,** 126 athletes) takes **Silver Medal** in Women's Halfpipe Freestyle, winning **Eric** 24.00 points!",
+      "owner": "Eric"
+    },
+    {
+      "date": "Feb 22, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddec\ud83c\udde7 **ATKIN Zoe** (**Great Britain,** 55 athletes) takes **Bronze Medal** in Women's Halfpipe Freestyle, winning **Meredith** 16.00 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 21, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddf3\ud83c\uddf4 **KLAEBO Johannes Hoesflot** (**Norway,** 80 athletes) takes **Gold Medal** in Men's 50km Mass Start, winning **Grant** 40.00 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 21, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddf3\ud83c\uddf4 **NYENGET Martin Loewstroem** (**Norway,** 80 athletes) takes **Silver Medal** in Men's 50km Mass Start, winning **Grant** 24.00 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 21, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddf3\ud83c\uddf4 **IVERSEN Emil** (**Norway,** 80 athletes) takes **Bronze Medal** in Men's 50km Mass Start, winning **Grant** 16.00 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 21, 2026",
+      "entry": "\ud83e\udd47 \ud83c\udde8\ud83c\udde6 **GALLANT Brett, HEBERT Ben, JACOBS Brad, KENNEDY Marc, and TARDI Tyler** (**Canada,** 211 athletes) takes **Gold Medal** in Men's Curling, winning **John** 225.00 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 21, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddec\ud83c\udde7 **HARDIE Grant, LAMMIE Bobby, MOUAT Bruce, McMILLAN Hammy, and WADDELL Kyle** (**Great Britain,** 55 athletes) takes **Silver Medal** in Men's Curling, winning **Meredith** 135.00 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 21, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddeb\ud83c\uddee **AHO Sebastian, ARMIA Joel, GRANLUND Mikael, HAULA Erik, HEISKANEN Miro, HINTZ Roope, JOKIHARJU Henri, KAKKO Kaapo, KAPANEN Oliver, KIVIRANTA Joel, KORPISALO Joonas, LANKINEN Kevin, LEHKONEN Artturi, LEHTONEN Mikko, LINDELL Esa, LUNDELL Anton, LUOSTARINEN Eetu, MAATTA Olli, MATINPALO Nikolas, MIKKOLA Niko, RANTANEN Mikko, RISTOLAINEN Rasmus, SAROS Juuse, TERAVAINEN Teuvo, and TOLVANEN Eeli** (**Finland,** 103 athletes) takes **Bronze Medal** in Men's Ice Hockey, winning **Eric** 120.00 points!",
+      "owner": "Eric"
+    },
+    {
+      "date": "Feb 21, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddf3\ud83c\uddf1 **BERGSMA Jorrit** (**Netherlands,** 39 athletes) takes **Gold Medal** in Men's Mass Start, winning **Kalida** 42.85 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 21, 2026",
+      "entry": "\ud83e\udd48 \ud83c\udde9\ud83c\uddf0 **THORUP Viktor Hald** (**Denmark,** 39 athletes) takes **Silver Medal** in Men's Mass Start, winning **Eric** 25.71 points!",
+      "owner": "Eric"
+    },
+    {
+      "date": "Feb 21, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddee\ud83c\uddf9 **GIOVANNINI Andrea** (**Italy,** 195 athletes) takes **Bronze Medal** in Men's Mass Start, winning **Meredith** 17.14 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 21, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddee\ud83c\uddf9 **DEROMEDIS Simone** (**Italy,** 195 athletes) takes **Gold Medal** in Men's Ski Cross, winning **Meredith** 40.00 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 21, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddee\ud83c\uddf9 **TOMASONI Federico** (**Italy,** 195 athletes) takes **Silver Medal** in Men's Ski Cross, winning **Meredith** 24.00 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 21, 2026",
+      "entry": "\ud83e\udd49 \ud83c\udde8\ud83c\udded **FIVA Alex** (**Switzerland,** 175 athletes) takes **Bronze Medal** in Men's Ski Cross, winning **Eric** 16.00 points!",
+      "owner": "Eric"
+    },
+    {
+      "date": "Feb 21, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddeb\ud83c\uddf7 **HARROP Emily and ANSELMET Thibault** (**France,** 162 athletes) takes **Gold Medal** in Mixed Relay SkiMo, winning **John** 40.00 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 21, 2026",
+      "entry": "\ud83e\udd48 \ud83c\udde8\ud83c\udded **FATTON Marianne and KISTLER Jon** (**Switzerland,** 175 athletes) takes **Silver Medal** in Mixed Relay SkiMo, winning **Eric** 24.00 points!",
+      "owner": "Eric"
+    },
+    {
+      "date": "Feb 21, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddea\ud83c\uddf8 **CARDONA COLL Oriol and ALONSO RODRIGUEZ Ana** (**Spain,** 20 athletes) takes **Bronze Medal** in Mixed Relay SkiMo, winning **Kalida** 16.00 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 21, 2026",
+      "entry": "\ud83e\udd48 \ud83c\udde8\ud83c\udded **ROTH Noe, KOZOMARA Lina, and WERNER Pirmin** (**Switzerland,** 175 athletes) takes **Silver Medal** in Mixed Team Aerials, winning **Eric** 24.00 points!",
+      "owner": "Eric"
+    },
+    {
+      "date": "Feb 21, 2026",
+      "entry": "\ud83e\udd49 \ud83c\udde8\ud83c\uddf3 **WANG Xindi, XU Mengtao, and LI Tianma** (**China,** 126 athletes) takes **Bronze Medal** in Mixed Team Aerials, winning **Eric** 16.00 points!",
+      "owner": "Eric"
+    },
+    {
+      "date": "Feb 21, 2026",
+      "entry": "\ud83e\udd47 \ud83c\udde9\ud83c\uddea **NOLTE Laura and LEVI Deborah** (**Germany,** 189 athletes) takes **Gold Medal** in Two-woman Bobsleigh, winning **Kalida** 50.00 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 21, 2026",
+      "entry": "\ud83e\udd48 \ud83c\udde9\ud83c\uddea **BUCKWITZ Lisa and SCHUTEN Neele** (**Germany,** 189 athletes) takes **Silver Medal** in Two-woman Bobsleigh, winning **Kalida** 30.00 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 21, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddeb\ud83c\uddf7 **MICHELON Oceane** (**France,** 162 athletes) takes **Gold Medal** in Women's 12.5km Mass Start Biathlon, winning **John** 54.55 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 21, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddeb\ud83c\uddf7 **SIMON Julia** (**France,** 162 athletes) takes **Silver Medal** in Women's 12.5km Mass Start Biathlon, winning **John** 32.73 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 21, 2026",
+      "entry": "\ud83e\udd49 \ud83c\udde8\ud83c\uddff **VOBORNIKOVA Tereza** (**Czechia,** 114 athletes) takes **Bronze Medal** in Women's 12.5km Mass Start Biathlon, winning **Meredith** 21.82 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 21, 2026",
+      "entry": "\ud83e\udd49 \ud83c\udde8\ud83c\udde6 **BROWN Rachel, FLEURY Tracy, HOMAN Rachel, MISKEW Emma, and WILKES Sarah** (**Canada,** 211 athletes) takes **Bronze Medal** in Women's Curling, winning **John** 90.00 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 21, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddf3\ud83c\uddf1 **GROENEWOUD Marijke** (**Netherlands,** 39 athletes) takes **Gold Medal** in Women's Mass Start, winning **Kalida** 42.85 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 21, 2026",
+      "entry": "\ud83e\udd48 \ud83c\udde8\ud83c\udde6 **BLONDIN Ivanie** (**Canada,** 211 athletes) takes **Silver Medal** in Women's Mass Start, winning **John** 25.71 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 20, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddf3\ud83c\uddf4 **DALE-SKJEVDAL Johannes** (**Norway,** 80 athletes) takes **Gold Medal** in Men's 15km Mass Start Biathlon, winning **Grant** 54.55 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 20, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddf3\ud83c\uddf4 **LAEGREID Sturla Holm** (**Norway,** 80 athletes) takes **Silver Medal** in Men's 15km Mass Start Biathlon, winning **Grant** 32.73 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 20, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddeb\ud83c\uddf7 **FILLON MAILLET Quentin** (**France,** 162 athletes) takes **Bronze Medal** in Men's 15km Mass Start Biathlon, winning **John** 21.82 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 20, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddf3\ud83c\uddf1 **van 'T WOUT Jens, van 'T WOUT Melle, BOER Teun, EMONS Friso, and de LAAT Itzhak** (**Netherlands,** 39 athletes) takes **Gold Medal** in Men's 5000m Relay, winning **Kalida** 66.65 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 20, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddf0\ud83c\uddf7 **HWANG Daeheon, RIM Jongun, LEE Jeongmin, LEE Juneseo, and SHIN Dong Min** (**Korea,** 73 athletes) takes **Silver Medal** in Men's 5000m Relay, winning **John** 39.99 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 20, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddee\ud83c\uddf9 **NADALINI Thomas, SIGHEL Pietro, SPECHENHAUSER Luca, and CASSINELLI Andrea** (**Italy,** 195 athletes) takes **Bronze Medal** in Men's 5000m Relay, winning **Meredith** 26.66 points!",
+      "owner": "Meredith"
+    },
+    {
+      "date": "Feb 20, 2026",
+      "entry": "\ud83e\udd47 \ud83c\udde8\ud83c\uddf3 **WANG Xindi** (**China,** 126 athletes) takes **Gold Medal** in Men's Aerials, winning **Eric** 40.00 points!",
+      "owner": "Eric"
+    },
+    {
+      "date": "Feb 20, 2026",
+      "entry": "\ud83e\udd48 \ud83c\udde8\ud83c\udded **ROTH Noe** (**Switzerland,** 175 athletes) takes **Silver Medal** in Men's Aerials, winning **Eric** 24.00 points!",
+      "owner": "Eric"
+    },
+    {
+      "date": "Feb 20, 2026",
+      "entry": "\ud83e\udd49 \ud83c\udde8\ud83c\uddf3 **LI Tianma** (**China,** 126 athletes) takes **Bronze Medal** in Men's Aerials, winning **Eric** 16.00 points!",
+      "owner": "Eric"
+    },
+    {
+      "date": "Feb 20, 2026",
+      "entry": "\ud83e\udd49 \ud83c\udde8\ud83c\udded **LACHAT-COUCHEPIN Pablo, MICHEL Sven, SCHWALLER Kim, SCHWALLER Yannick, and SCHWARZ-van BERKEL Benoit** (**Switzerland,** 175 athletes) takes **Bronze Medal** in Men's Curling, winning **Eric** 90.00 points!",
+      "owner": "Eric"
+    },
+    {
+      "date": "Feb 20, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddea\ud83c\uddea **SILDARU Henry** (**Estonia,** 32 athletes) takes **Silver Medal** in Men's Halfpipe Freestyle, winning **Grant** 24.00 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 20, 2026",
+      "entry": "\ud83e\udd49 \ud83c\udde8\ud83c\udde6 **MACKAY Brendan** (**Canada,** 211 athletes) takes **Bronze Medal** in Men's Halfpipe Freestyle, winning **John** 16.00 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 20, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddf3\ud83c\uddf1 **RIJPMA-de JONG Antoinette** (**Netherlands,** 39 athletes) takes **Gold Medal** in Women's 1500m, winning **Kalida** 42.85 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 20, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddf3\ud83c\uddf4 **WIKLUND Ragne** (**Norway,** 80 athletes) takes **Silver Medal** in Women's 1500m, winning **Grant** 25.71 points!",
+      "owner": "Grant"
+    },
+    {
+      "date": "Feb 20, 2026",
+      "entry": "\ud83e\udd49 \ud83c\udde8\ud83c\udde6 **MALTAIS Valerie** (**Canada,** 211 athletes) takes **Bronze Medal** in Women's 1500m, winning **John** 17.14 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 20, 2026",
+      "entry": "\ud83e\udd47 \ud83c\uddf0\ud83c\uddf7 **KIM Gilli** (**Korea,** 73 athletes) takes **Gold Medal** in Women's 1500m Short Track, winning **John** 66.65 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 20, 2026",
+      "entry": "\ud83e\udd48 \ud83c\uddf0\ud83c\uddf7 **CHOI Minjeong** (**Korea,** 73 athletes) takes **Silver Medal** in Women's 1500m Short Track, winning **John** 39.99 points!",
+      "owner": "John"
+    },
+    {
+      "date": "Feb 20, 2026",
+      "entry": "\ud83e\udd47 \ud83c\udde9\ud83c\uddea **MAIER Daniela** (**Germany,** 189 athletes) takes **Gold Medal** in Women's Ski Cross, winning **Kalida** 40.00 points!",
+      "owner": "Kalida"
+    },
+    {
+      "date": "Feb 20, 2026",
+      "entry": "\ud83e\udd48 \ud83c\udde8\ud83c\udded **SMITH Fanny** (**Switzerland,** 175 athletes) takes **Silver Medal** in Women's Ski Cross, winning **Eric** 24.00 points!",
+      "owner": "Eric"
+    },
+    {
+      "date": "Feb 20, 2026",
+      "entry": "\ud83e\udd49 \ud83c\uddf8\ud83c\uddea **NAESLUND Sandra** (**Sweden,** 110 athletes) takes **Bronze Medal** in Women's Ski Cross, winning **Meredith** 16.00 points!",
+      "owner": "Meredith"
+    },
     {
       "date": "Feb 19, 2026",
       "entry": "\ud83e\udd47 \ud83c\udde8\ud83c\uddf3 **NING Zhongyan** (**China,** 126 athletes) takes **Gold Medal** in Men's 1500m, winning **Eric** 42.85 points!",
@@ -1136,7 +1541,7 @@
     },
     {
       "date": "Feb 18, 2026",
-      "entry": "\ud83e\udd47 \ud83c\uddeb\ud83c\uddf7 **JEANMONNOT Lou, SIMON Julia, MICHELON Oceane, and BENED Camille** (**France,** 162 athletes) takes **Gold Medal** in Women's 4x6km Relay Biathlon, winning **John** 54.55 points!",
+      "entry": "\ud83e\udd47 \ud83c\uddeb\ud83c\uddf7 **SIMON Julia, JEANMONNOT Lou, MICHELON Oceane, and BENED Camille** (**France,** 162 athletes) takes **Gold Medal** in Women's 4x6km Relay Biathlon, winning **John** 54.55 points!",
       "owner": "John"
     },
     {
@@ -1196,7 +1601,7 @@
     },
     {
       "date": "Feb 18, 2026",
-      "entry": "\ud83e\udd48 \ud83c\udde8\ud83c\udded **FAEHNDRICH Nadine and KAELIN Nadja** (**Switzerland,** 175 athletes) takes **Silver Medal** in Women's Team Sprint, winning **Eric** 24.00 points!",
+      "entry": "\ud83e\udd48 \ud83c\udde8\ud83c\udded **KAELIN Nadja and FAEHNDRICH Nadine** (**Switzerland,** 175 athletes) takes **Silver Medal** in Women's Team Sprint, winning **Eric** 24.00 points!",
       "owner": "Eric"
     },
     {
@@ -1246,7 +1651,7 @@
     },
     {
       "date": "Feb 17, 2026",
-      "entry": "\ud83e\udd47 \ud83c\uddee\ud83c\uddf9 **GHIOTTO Davide, GIOVANNINI Andrea, and MALFATTI Michele** (**Italy,** 195 athletes) takes **Gold Medal** in Men's Team Pursuit, winning **Meredith** 42.85 points!",
+      "entry": "\ud83e\udd47 \ud83c\uddee\ud83c\uddf9 **GIOVANNINI Andrea, GHIOTTO Davide, and MALFATTI Michele** (**Italy,** 195 athletes) takes **Gold Medal** in Men's Team Pursuit, winning **Meredith** 42.85 points!",
       "owner": "Meredith"
     },
     {
@@ -1276,7 +1681,7 @@
     },
     {
       "date": "Feb 17, 2026",
-      "entry": "\ud83e\udd48 \ud83c\uddf3\ud83c\uddf1 **BEUNE Joy, GROENEWOUD Marijke, and RIJPMA-de JONG Antoinette** (**Netherlands,** 39 athletes) takes **Silver Medal** in Women's Team Pursuit, winning **Kalida** 25.71 points!",
+      "entry": "\ud83e\udd48 \ud83c\uddf3\ud83c\uddf1 **GROENEWOUD Marijke, RIJPMA-de JONG Antoinette, and BEUNE Joy** (**Netherlands,** 39 athletes) takes **Silver Medal** in Women's Team Pursuit, winning **Kalida** 25.71 points!",
       "owner": "Kalida"
     },
     {
@@ -1556,7 +1961,7 @@
     },
     {
       "date": "Feb 14, 2026",
-      "entry": "\ud83e\udd48 \ud83c\uddf8\ud83c\uddea **KARLSSON Frida, SUNDLING Jonna, ANDERSSON Ebba, and SVAHN Linn** (**Sweden,** 110 athletes) takes **Silver Medal** in Women's 4x5km Relay, winning **Meredith** 24.00 points!",
+      "entry": "\ud83e\udd48 \ud83c\uddf8\ud83c\uddea **ANDERSSON Ebba, KARLSSON Frida, SUNDLING Jonna, and SVAHN Linn** (**Sweden,** 110 athletes) takes **Silver Medal** in Women's 4x5km Relay, winning **Meredith** 24.00 points!",
       "owner": "Meredith"
     },
     {
@@ -2166,7 +2571,7 @@
     },
     {
       "date": "Feb 08, 2026",
-      "entry": "\ud83e\udd47 \ud83c\uddeb\ud83c\uddf7 **JEANMONNOT Lou, FILLON MAILLET Quentin, SIMON Julia, and PERROT Eric** (**France,** 162 athletes) takes **Gold Medal** in Mixed Relay Biathlon, winning **John** 54.55 points!",
+      "entry": "\ud83e\udd47 \ud83c\uddeb\ud83c\uddf7 **SIMON Julia, FILLON MAILLET Quentin, JEANMONNOT Lou, and PERROT Eric** (**France,** 162 athletes) takes **Gold Medal** in Mixed Relay Biathlon, winning **John** 54.55 points!",
       "owner": "John"
     },
     {
@@ -2456,6 +2861,72 @@
         "is_prestige": false,
         "medal_points": 180.0,
         "flag": "\ud83c\udde8\ud83c\udde6"
+      },
+      {
+        "date": "Feb 20, 2026",
+        "event": "Men's Halfpipe Freestyle",
+        "discipline": "Freestyle Skiing",
+        "medal": "Bronze Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 16.0,
+        "flag": "\ud83c\udde8\ud83c\udde6"
+      },
+      {
+        "date": "Feb 20, 2026",
+        "event": "Women's 1500m",
+        "discipline": "Speed Skating",
+        "medal": "Bronze Medal",
+        "base_score": 8.57,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 17.14,
+        "flag": "\ud83c\udde8\ud83c\udde6"
+      },
+      {
+        "date": "Feb 21, 2026",
+        "event": "Men's Curling",
+        "discipline": "Curling",
+        "medal": "Gold Medal",
+        "base_score": 45.0,
+        "is_team": false,
+        "is_prestige": true,
+        "medal_points": 225.0,
+        "flag": "\ud83c\udde8\ud83c\udde6"
+      },
+      {
+        "date": "Feb 21, 2026",
+        "event": "Women's Curling",
+        "discipline": "Curling",
+        "medal": "Bronze Medal",
+        "base_score": 45.0,
+        "is_team": false,
+        "is_prestige": true,
+        "medal_points": 90.0,
+        "flag": "\ud83c\udde8\ud83c\udde6"
+      },
+      {
+        "date": "Feb 21, 2026",
+        "event": "Women's Mass Start",
+        "discipline": "Speed Skating",
+        "medal": "Silver Medal",
+        "base_score": 8.57,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 25.71,
+        "flag": "\ud83c\udde8\ud83c\udde6"
+      },
+      {
+        "date": "Feb 22, 2026",
+        "event": "Men's Ice Hockey",
+        "discipline": "Ice Hockey",
+        "medal": "Silver Medal",
+        "base_score": 60.0,
+        "is_team": true,
+        "is_prestige": false,
+        "medal_points": 180.0,
+        "flag": "\ud83c\udde8\ud83c\udde6"
       }
     ],
     "China": [
@@ -2567,6 +3038,61 @@
         "is_team": false,
         "is_prestige": false,
         "medal_points": 42.85,
+        "flag": "\ud83c\udde8\ud83c\uddf3"
+      },
+      {
+        "date": "Feb 20, 2026",
+        "event": "Men's Aerials",
+        "discipline": "Freestyle Skiing",
+        "medal": "Bronze Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 16.0,
+        "flag": "\ud83c\udde8\ud83c\uddf3"
+      },
+      {
+        "date": "Feb 20, 2026",
+        "event": "Men's Aerials",
+        "discipline": "Freestyle Skiing",
+        "medal": "Gold Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 40.0,
+        "flag": "\ud83c\udde8\ud83c\uddf3"
+      },
+      {
+        "date": "Feb 21, 2026",
+        "event": "Mixed Team Aerials",
+        "discipline": "Freestyle Skiing",
+        "medal": "Bronze Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 16.0,
+        "flag": "\ud83c\udde8\ud83c\uddf3"
+      },
+      {
+        "date": "Feb 22, 2026",
+        "event": "Women's Halfpipe Freestyle",
+        "discipline": "Freestyle Skiing",
+        "medal": "Gold Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 40.0,
+        "flag": "\ud83c\udde8\ud83c\uddf3"
+      },
+      {
+        "date": "Feb 22, 2026",
+        "event": "Women's Halfpipe Freestyle",
+        "discipline": "Freestyle Skiing",
+        "medal": "Silver Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 24.0,
         "flag": "\ud83c\udde8\ud83c\uddf3"
       }
     ],
@@ -2855,6 +3381,50 @@
         "is_team": false,
         "is_prestige": false,
         "medal_points": 39.99,
+        "flag": "\ud83c\uddee\ud83c\uddf9"
+      },
+      {
+        "date": "Feb 20, 2026",
+        "event": "Men's 5000m Relay",
+        "discipline": "Short Track Speed Skating",
+        "medal": "Bronze Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 26.66,
+        "flag": "\ud83c\uddee\ud83c\uddf9"
+      },
+      {
+        "date": "Feb 21, 2026",
+        "event": "Men's Ski Cross",
+        "discipline": "Freestyle Skiing",
+        "medal": "Gold Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 40.0,
+        "flag": "\ud83c\uddee\ud83c\uddf9"
+      },
+      {
+        "date": "Feb 21, 2026",
+        "event": "Men's Ski Cross",
+        "discipline": "Freestyle Skiing",
+        "medal": "Silver Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 24.0,
+        "flag": "\ud83c\uddee\ud83c\uddf9"
+      },
+      {
+        "date": "Feb 21, 2026",
+        "event": "Men's Mass Start",
+        "discipline": "Speed Skating",
+        "medal": "Bronze Medal",
+        "base_score": 8.57,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 17.14,
         "flag": "\ud83c\uddee\ud83c\uddf9"
       }
     ],
@@ -3498,6 +4068,83 @@
         "is_prestige": false,
         "medal_points": 66.65,
         "flag": "\ud83c\uddf3\ud83c\uddf4"
+      },
+      {
+        "date": "Feb 20, 2026",
+        "event": "Men's 15km Mass Start Biathlon",
+        "discipline": "Biathlon",
+        "medal": "Gold Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 54.55,
+        "flag": "\ud83c\uddf3\ud83c\uddf4"
+      },
+      {
+        "date": "Feb 20, 2026",
+        "event": "Men's 15km Mass Start Biathlon",
+        "discipline": "Biathlon",
+        "medal": "Silver Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 32.73,
+        "flag": "\ud83c\uddf3\ud83c\uddf4"
+      },
+      {
+        "date": "Feb 20, 2026",
+        "event": "Women's 1500m",
+        "discipline": "Speed Skating",
+        "medal": "Silver Medal",
+        "base_score": 8.57,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 25.71,
+        "flag": "\ud83c\uddf3\ud83c\uddf4"
+      },
+      {
+        "date": "Feb 21, 2026",
+        "event": "Men's 50km Mass Start",
+        "discipline": "Cross-Country Skiing",
+        "medal": "Bronze Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 16.0,
+        "flag": "\ud83c\uddf3\ud83c\uddf4"
+      },
+      {
+        "date": "Feb 21, 2026",
+        "event": "Men's 50km Mass Start",
+        "discipline": "Cross-Country Skiing",
+        "medal": "Gold Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 40.0,
+        "flag": "\ud83c\uddf3\ud83c\uddf4"
+      },
+      {
+        "date": "Feb 21, 2026",
+        "event": "Men's 50km Mass Start",
+        "discipline": "Cross-Country Skiing",
+        "medal": "Silver Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 24.0,
+        "flag": "\ud83c\uddf3\ud83c\uddf4"
+      },
+      {
+        "date": "Feb 22, 2026",
+        "event": "Women's 30km Mass Start",
+        "discipline": "Cross-Country Skiing",
+        "medal": "Silver Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 24.0,
+        "flag": "\ud83c\uddf3\ud83c\uddf4"
       }
     ],
     "Slovenia": [
@@ -3711,6 +4358,39 @@
         "is_prestige": false,
         "medal_points": 40.0,
         "flag": "\ud83c\uddf8\ud83c\uddea"
+      },
+      {
+        "date": "Feb 20, 2026",
+        "event": "Women's Ski Cross",
+        "discipline": "Freestyle Skiing",
+        "medal": "Bronze Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 16.0,
+        "flag": "\ud83c\uddf8\ud83c\uddea"
+      },
+      {
+        "date": "Feb 22, 2026",
+        "event": "Women's 30km Mass Start",
+        "discipline": "Cross-Country Skiing",
+        "medal": "Gold Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 40.0,
+        "flag": "\ud83c\uddf8\ud83c\uddea"
+      },
+      {
+        "date": "Feb 22, 2026",
+        "event": "Women's Curling",
+        "discipline": "Curling",
+        "medal": "Gold Medal",
+        "base_score": 45.0,
+        "is_team": false,
+        "is_prestige": true,
+        "medal_points": 225.0,
+        "flag": "\ud83c\uddf8\ud83c\uddea"
       }
     ],
     "Switzerland": [
@@ -3866,6 +4546,105 @@
         "is_team": false,
         "is_prestige": false,
         "medal_points": 40.0,
+        "flag": "\ud83c\udde8\ud83c\udded"
+      },
+      {
+        "date": "Feb 20, 2026",
+        "event": "Men's Curling",
+        "discipline": "Curling",
+        "medal": "Bronze Medal",
+        "base_score": 45.0,
+        "is_team": false,
+        "is_prestige": true,
+        "medal_points": 90.0,
+        "flag": "\ud83c\udde8\ud83c\udded"
+      },
+      {
+        "date": "Feb 20, 2026",
+        "event": "Men's Aerials",
+        "discipline": "Freestyle Skiing",
+        "medal": "Silver Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 24.0,
+        "flag": "\ud83c\udde8\ud83c\udded"
+      },
+      {
+        "date": "Feb 20, 2026",
+        "event": "Women's Ski Cross",
+        "discipline": "Freestyle Skiing",
+        "medal": "Silver Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 24.0,
+        "flag": "\ud83c\udde8\ud83c\udded"
+      },
+      {
+        "date": "Feb 21, 2026",
+        "event": "Men's Ski Cross",
+        "discipline": "Freestyle Skiing",
+        "medal": "Bronze Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 16.0,
+        "flag": "\ud83c\udde8\ud83c\udded"
+      },
+      {
+        "date": "Feb 21, 2026",
+        "event": "Mixed Team Aerials",
+        "discipline": "Freestyle Skiing",
+        "medal": "Silver Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 24.0,
+        "flag": "\ud83c\udde8\ud83c\udded"
+      },
+      {
+        "date": "Feb 21, 2026",
+        "event": "Mixed Relay SkiMo",
+        "discipline": "Ski Mountaineering",
+        "medal": "Silver Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 24.0,
+        "flag": "\ud83c\udde8\ud83c\udded"
+      },
+      {
+        "date": "Feb 22, 2026",
+        "event": "Four-man Bobsleigh",
+        "discipline": "Bobsleigh",
+        "medal": "Bronze Medal",
+        "base_score": 30.0,
+        "is_team": false,
+        "is_prestige": true,
+        "medal_points": 60.0,
+        "flag": "\ud83c\udde8\ud83c\udded"
+      },
+      {
+        "date": "Feb 22, 2026",
+        "event": "Women's 30km Mass Start",
+        "discipline": "Cross-Country Skiing",
+        "medal": "Bronze Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 16.0,
+        "flag": "\ud83c\udde8\ud83c\udded"
+      },
+      {
+        "date": "Feb 22, 2026",
+        "event": "Women's Curling",
+        "discipline": "Curling",
+        "medal": "Silver Medal",
+        "base_score": 45.0,
+        "is_team": false,
+        "is_prestige": true,
+        "medal_points": 135.0,
         "flag": "\ud83c\udde8\ud83c\udded"
       }
     ],
@@ -4113,6 +4892,17 @@
         "is_prestige": false,
         "medal_points": 42.85,
         "flag": "\ud83c\udde8\ud83c\uddff"
+      },
+      {
+        "date": "Feb 21, 2026",
+        "event": "Women's 12.5km Mass Start Biathlon",
+        "discipline": "Biathlon",
+        "medal": "Bronze Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 21.82,
+        "flag": "\ud83c\udde8\ud83c\uddff"
       }
     ],
     "France": [
@@ -4323,6 +5113,50 @@
         "is_team": false,
         "is_prestige": false,
         "medal_points": 24.0,
+        "flag": "\ud83c\uddeb\ud83c\uddf7"
+      },
+      {
+        "date": "Feb 20, 2026",
+        "event": "Men's 15km Mass Start Biathlon",
+        "discipline": "Biathlon",
+        "medal": "Bronze Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 21.82,
+        "flag": "\ud83c\uddeb\ud83c\uddf7"
+      },
+      {
+        "date": "Feb 21, 2026",
+        "event": "Women's 12.5km Mass Start Biathlon",
+        "discipline": "Biathlon",
+        "medal": "Gold Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 54.55,
+        "flag": "\ud83c\uddeb\ud83c\uddf7"
+      },
+      {
+        "date": "Feb 21, 2026",
+        "event": "Women's 12.5km Mass Start Biathlon",
+        "discipline": "Biathlon",
+        "medal": "Silver Medal",
+        "base_score": 10.91,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 32.73,
+        "flag": "\ud83c\uddeb\ud83c\uddf7"
+      },
+      {
+        "date": "Feb 21, 2026",
+        "event": "Mixed Relay SkiMo",
+        "discipline": "Ski Mountaineering",
+        "medal": "Gold Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 40.0,
         "flag": "\ud83c\uddeb\ud83c\uddf7"
       }
     ],
@@ -4557,6 +5391,61 @@
         "is_prestige": false,
         "medal_points": 16.0,
         "flag": "\ud83c\udde9\ud83c\uddea"
+      },
+      {
+        "date": "Feb 20, 2026",
+        "event": "Women's Ski Cross",
+        "discipline": "Freestyle Skiing",
+        "medal": "Gold Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 40.0,
+        "flag": "\ud83c\udde9\ud83c\uddea"
+      },
+      {
+        "date": "Feb 21, 2026",
+        "event": "Two-woman Bobsleigh",
+        "discipline": "Bobsleigh",
+        "medal": "Gold Medal",
+        "base_score": 10.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 50.0,
+        "flag": "\ud83c\udde9\ud83c\uddea"
+      },
+      {
+        "date": "Feb 21, 2026",
+        "event": "Two-woman Bobsleigh",
+        "discipline": "Bobsleigh",
+        "medal": "Silver Medal",
+        "base_score": 10.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 30.0,
+        "flag": "\ud83c\udde9\ud83c\uddea"
+      },
+      {
+        "date": "Feb 22, 2026",
+        "event": "Four-man Bobsleigh",
+        "discipline": "Bobsleigh",
+        "medal": "Gold Medal",
+        "base_score": 30.0,
+        "is_team": false,
+        "is_prestige": true,
+        "medal_points": 150.0,
+        "flag": "\ud83c\udde9\ud83c\uddea"
+      },
+      {
+        "date": "Feb 22, 2026",
+        "event": "Four-man Bobsleigh",
+        "discipline": "Bobsleigh",
+        "medal": "Silver Medal",
+        "base_score": 30.0,
+        "is_team": false,
+        "is_prestige": true,
+        "medal_points": 90.0,
+        "flag": "\ud83c\udde9\ud83c\uddea"
       }
     ],
     "Korea": [
@@ -4635,6 +5524,39 @@
         "is_team": false,
         "is_prestige": false,
         "medal_points": 66.65,
+        "flag": "\ud83c\uddf0\ud83c\uddf7"
+      },
+      {
+        "date": "Feb 20, 2026",
+        "event": "Men's 5000m Relay",
+        "discipline": "Short Track Speed Skating",
+        "medal": "Silver Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 39.99,
+        "flag": "\ud83c\uddf0\ud83c\uddf7"
+      },
+      {
+        "date": "Feb 20, 2026",
+        "event": "Women's 1500m Short Track",
+        "discipline": "Short Track Speed Skating",
+        "medal": "Gold Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 66.65,
+        "flag": "\ud83c\uddf0\ud83c\uddf7"
+      },
+      {
+        "date": "Feb 20, 2026",
+        "event": "Women's 1500m Short Track",
+        "discipline": "Short Track Speed Skating",
+        "medal": "Silver Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 39.99,
         "flag": "\ud83c\uddf0\ud83c\uddf7"
       }
     ],
@@ -4814,6 +5736,50 @@
         "is_prestige": false,
         "medal_points": 17.14,
         "flag": "\ud83c\uddf3\ud83c\uddf1"
+      },
+      {
+        "date": "Feb 20, 2026",
+        "event": "Men's 5000m Relay",
+        "discipline": "Short Track Speed Skating",
+        "medal": "Gold Medal",
+        "base_score": 13.33,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 66.65,
+        "flag": "\ud83c\uddf3\ud83c\uddf1"
+      },
+      {
+        "date": "Feb 20, 2026",
+        "event": "Women's 1500m",
+        "discipline": "Speed Skating",
+        "medal": "Gold Medal",
+        "base_score": 8.57,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 42.85,
+        "flag": "\ud83c\uddf3\ud83c\uddf1"
+      },
+      {
+        "date": "Feb 21, 2026",
+        "event": "Men's Mass Start",
+        "discipline": "Speed Skating",
+        "medal": "Gold Medal",
+        "base_score": 8.57,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 42.85,
+        "flag": "\ud83c\uddf3\ud83c\uddf1"
+      },
+      {
+        "date": "Feb 21, 2026",
+        "event": "Women's Mass Start",
+        "discipline": "Speed Skating",
+        "medal": "Gold Medal",
+        "base_score": 8.57,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 42.85,
+        "flag": "\ud83c\uddf3\ud83c\uddf1"
       }
     ],
     "New Zealand": [
@@ -4989,6 +5955,17 @@
         "is_prestige": false,
         "medal_points": 39.99,
         "flag": "\ud83c\uddeb\ud83c\uddee"
+      },
+      {
+        "date": "Feb 21, 2026",
+        "event": "Men's Ice Hockey",
+        "discipline": "Ice Hockey",
+        "medal": "Bronze Medal",
+        "base_score": 60.0,
+        "is_team": true,
+        "is_prestige": false,
+        "medal_points": 120.0,
+        "flag": "\ud83c\uddeb\ud83c\uddee"
       }
     ],
     "Australia": [
@@ -5092,6 +6069,28 @@
         "is_prestige": false,
         "medal_points": 218.2,
         "flag": "\ud83c\uddec\ud83c\udde7"
+      },
+      {
+        "date": "Feb 21, 2026",
+        "event": "Men's Curling",
+        "discipline": "Curling",
+        "medal": "Silver Medal",
+        "base_score": 45.0,
+        "is_team": false,
+        "is_prestige": true,
+        "medal_points": 135.0,
+        "flag": "\ud83c\uddec\ud83c\udde7"
+      },
+      {
+        "date": "Feb 22, 2026",
+        "event": "Women's Halfpipe Freestyle",
+        "discipline": "Freestyle Skiing",
+        "medal": "Bronze Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 16.0,
+        "flag": "\ud83c\uddec\ud83c\udde7"
       }
     ],
     "Kazakhstan": [
@@ -5142,6 +6141,43 @@
         "is_prestige": false,
         "medal_points": 16.0,
         "flag": "\ud83c\uddea\ud83c\uddf8"
+      },
+      {
+        "date": "Feb 21, 2026",
+        "event": "Mixed Relay SkiMo",
+        "discipline": "Ski Mountaineering",
+        "medal": "Bronze Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 16.0,
+        "flag": "\ud83c\uddea\ud83c\uddf8"
+      }
+    ],
+    "Estonia": [
+      {
+        "date": "Feb 20, 2026",
+        "event": "Men's Halfpipe Freestyle",
+        "discipline": "Freestyle Skiing",
+        "medal": "Silver Medal",
+        "base_score": 8.0,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 24.0,
+        "flag": "\ud83c\uddea\ud83c\uddea"
+      }
+    ],
+    "Denmark": [
+      {
+        "date": "Feb 21, 2026",
+        "event": "Men's Mass Start",
+        "discipline": "Speed Skating",
+        "medal": "Silver Medal",
+        "base_score": 8.57,
+        "is_team": false,
+        "is_prestige": false,
+        "medal_points": 25.71,
+        "flag": "\ud83c\udde9\ud83c\uddf0"
       }
     ]
   }
