@@ -17,9 +17,9 @@ date,medal_code,medal,code,name,gender,country_code,country,discipline,disciplin
 2026-02-08,1,GOLD,25476,JOHNSON Breezy,F,USA,United States,Alpine Skiing,ALP,Women's Downhill
 2026-02-08,2,SILVER,41302,AICHER Emma,F,GER,Germany,Alpine Skiing,ALP,Women's Downhill
 2026-02-08,3,BRONZE,6472,GOGGIA Sofia,F,ITA,Italy,Alpine Skiing,ALP,Women's Downhill
-2026-02-08,1,GOLD,44685,JEANMONNOT Lou,F,FRA,France,Biathlon,BTH,Mixed Relay 4 x 6km (M+W)
-2026-02-08,1,GOLD,46398,FILLON MAILLET Quentin,M,FRA,France,Biathlon,BTH,Mixed Relay 4 x 6km (M+W)
 2026-02-08,1,GOLD,44694,SIMON Julia,F,FRA,France,Biathlon,BTH,Mixed Relay 4 x 6km (M+W)
+2026-02-08,1,GOLD,46398,FILLON MAILLET Quentin,M,FRA,France,Biathlon,BTH,Mixed Relay 4 x 6km (M+W)
+2026-02-08,1,GOLD,44685,JEANMONNOT Lou,F,FRA,France,Biathlon,BTH,Mixed Relay 4 x 6km (M+W)
 2026-02-08,1,GOLD,44692,PERROT Eric,M,FRA,France,Biathlon,BTH,Mixed Relay 4 x 6km (M+W)
 2026-02-08,2,SILVER,22484,VITTOZZI Lisa,F,ITA,Italy,Biathlon,BTH,Mixed Relay 4 x 6km (M+W)
 2026-02-08,2,SILVER,6490,GIACOMEL Tommaso,M,ITA,Italy,Biathlon,BTH,Mixed Relay 4 x 6km (M+W)
@@ -245,9 +245,9 @@ date,medal_code,medal,code,name,gender,country_code,country,discipline,disciplin
 2026-02-14,1,GOLD,42293,FOSNAES Kristin Austgulen,F,NOR,Norway,Cross-Country Skiing,CCS,Women's 4 x 7.5km Relay
 2026-02-14,1,GOLD,139894,SIMPSON-LARSEN Karoline,F,NOR,Norway,Cross-Country Skiing,CCS,Women's 4 x 7.5km Relay
 2026-02-14,1,GOLD,42289,SLIND Astrid Oeyre,F,NOR,Norway,Cross-Country Skiing,CCS,Women's 4 x 7.5km Relay
+2026-02-14,2,SILVER,30707,ANDERSSON Ebba,F,SWE,Sweden,Cross-Country Skiing,CCS,Women's 4 x 7.5km Relay
 2026-02-14,2,SILVER,30739,KARLSSON Frida,F,SWE,Sweden,Cross-Country Skiing,CCS,Women's 4 x 7.5km Relay
 2026-02-14,2,SILVER,30755,SUNDLING Jonna,F,SWE,Sweden,Cross-Country Skiing,CCS,Women's 4 x 7.5km Relay
-2026-02-14,2,SILVER,30707,ANDERSSON Ebba,F,SWE,Sweden,Cross-Country Skiing,CCS,Women's 4 x 7.5km Relay
 2026-02-14,2,SILVER,30756,SVAHN Linn,F,SWE,Sweden,Cross-Country Skiing,CCS,Women's 4 x 7.5km Relay
 2026-02-14,3,BRONZE,45022,JOENSUU Jasmi,F,FIN,Finland,Cross-Country Skiing,CCS,Women's 4 x 7.5km Relay
 2026-02-14,3,BRONZE,45035,MATINTALO Johanna,F,FIN,Finland,Cross-Country Skiing,CCS,Women's 4 x 7.5km Relay
@@ -358,8 +358,8 @@ date,medal_code,medal,code,name,gender,country_code,country,discipline,disciplin
 2026-02-17,1,GOLD,42330,OFTEBRO Jens Luraas,M,NOR,Norway,Nordic Combined,NCB,Individual Gundersen Large Hill/10km
 2026-02-17,2,SILVER,19966,LAMPARTER Johannes,M,AUT,Austria,Nordic Combined,NCB,Individual Gundersen Large Hill/10km
 2026-02-17,3,BRONZE,45070,HEROLA Ilkka,M,FIN,Finland,Nordic Combined,NCB,Individual Gundersen Large Hill/10km
-2026-02-17,1,GOLD,22174,GHIOTTO Davide,M,ITA,Italy,Speed Skating,SSK,Men's Team Pursuit
 2026-02-17,1,GOLD,22173,GIOVANNINI Andrea,M,ITA,Italy,Speed Skating,SSK,Men's Team Pursuit
+2026-02-17,1,GOLD,22174,GHIOTTO Davide,M,ITA,Italy,Speed Skating,SSK,Men's Team Pursuit
 2026-02-17,1,GOLD,22175,MALFATTI Michele,M,ITA,Italy,Speed Skating,SSK,Men's Team Pursuit
 2026-02-17,2,SILVER,26854,CEPURAN Ethan,M,USA,United States,Speed Skating,SSK,Men's Team Pursuit
 2026-02-17,2,SILVER,26842,DAWSON Casey,M,USA,United States,Speed Skating,SSK,Men's Team Pursuit
@@ -371,9 +371,9 @@ date,medal_code,medal,code,name,gender,country_code,country,discipline,disciplin
 2026-02-17,1,GOLD,44030,MALTAIS Valerie,F,CAN,Canada,Speed Skating,SSK,Women's Team Pursuit
 2026-02-17,1,GOLD,43996,BLONDIN Ivanie,F,CAN,Canada,Speed Skating,SSK,Women's Team Pursuit
 2026-02-17,1,GOLD,42559,WEIDEMANN Isabelle,F,CAN,Canada,Speed Skating,SSK,Women's Team Pursuit
-2026-02-17,2,SILVER,51780,BEUNE Joy,F,NED,Netherlands,Speed Skating,SSK,Women's Team Pursuit
 2026-02-17,2,SILVER,51774,GROENEWOUD Marijke,F,NED,Netherlands,Speed Skating,SSK,Women's Team Pursuit
 2026-02-17,2,SILVER,51793,RIJPMA-de JONG Antoinette,F,NED,Netherlands,Speed Skating,SSK,Women's Team Pursuit
+2026-02-17,2,SILVER,51780,BEUNE Joy,F,NED,Netherlands,Speed Skating,SSK,Women's Team Pursuit
 2026-02-17,3,BRONZE,36075,TAKAGI Miho,F,JPN,Japan,Speed Skating,SSK,Women's Team Pursuit
 2026-02-17,3,BRONZE,36069,HORIKAWA Momoka,F,JPN,Japan,Speed Skating,SSK,Women's Team Pursuit
 2026-02-17,3,BRONZE,36070,NOAKE Hana,F,JPN,Japan,Speed Skating,SSK,Women's Team Pursuit
@@ -381,8 +381,8 @@ date,medal_code,medal,code,name,gender,country_code,country,discipline,disciplin
 2026-02-18,1,GOLD,25496,SHIFFRIN Mikaela,F,USA,United States,Alpine Skiing,ALP,Women's Slalom
 2026-02-18,2,SILVER,48626,RAST Camille,F,SUI,Switzerland,Alpine Skiing,ALP,Women's Slalom
 2026-02-18,3,BRONZE,27521,SWENN LARSSON Anna,F,SWE,Sweden,Alpine Skiing,ALP,Women's Slalom
-2026-02-18,1,GOLD,44685,JEANMONNOT Lou,F,FRA,France,Biathlon,BTH,Women's 4 x 6km Relay
 2026-02-18,1,GOLD,44694,SIMON Julia,F,FRA,France,Biathlon,BTH,Women's 4 x 6km Relay
+2026-02-18,1,GOLD,44685,JEANMONNOT Lou,F,FRA,France,Biathlon,BTH,Women's 4 x 6km Relay
 2026-02-18,1,GOLD,44690,MICHELON Oceane,F,FRA,France,Biathlon,BTH,Women's 4 x 6km Relay
 2026-02-18,1,GOLD,44669,BENED Camille,F,FRA,France,Biathlon,BTH,Women's 4 x 6km Relay
 2026-02-18,2,SILVER,21770,GESTBLOM Linn,F,SWE,Sweden,Biathlon,BTH,Women's 4 x 6km Relay
@@ -401,8 +401,8 @@ date,medal_code,medal,code,name,gender,country_code,country,discipline,disciplin
 2026-02-18,3,BRONZE,26631,PELLEGRINO Federico,M,ITA,Italy,Cross-Country Skiing,CCS,Men's Team Sprint Free
 2026-02-18,1,GOLD,30755,SUNDLING Jonna,F,SWE,Sweden,Cross-Country Skiing,CCS,Women's Team Sprint Free
 2026-02-18,1,GOLD,30716,DAHLQVIST Maja,F,SWE,Sweden,Cross-Country Skiing,CCS,Women's Team Sprint Free
-2026-02-18,2,SILVER,48354,FAEHNDRICH Nadine,F,SUI,Switzerland,Cross-Country Skiing,CCS,Women's Team Sprint Free
 2026-02-18,2,SILVER,48454,KAELIN Nadja,F,SUI,Switzerland,Cross-Country Skiing,CCS,Women's Team Sprint Free
+2026-02-18,2,SILVER,48354,FAEHNDRICH Nadine,F,SUI,Switzerland,Cross-Country Skiing,CCS,Women's Team Sprint Free
 2026-02-18,3,BRONZE,41350,GIMMLER Laura,F,GER,Germany,Cross-Country Skiing,CCS,Women's Team Sprint Free
 2026-02-18,3,BRONZE,41440,RYDZEK Coletta,F,GER,Germany,Cross-Country Skiing,CCS,Women's Team Sprint Free
 2026-02-18,1,GOLD,50963,XU Mengtao,F,CHN,China,Freestyle Skiing,FRS,Women's Aerials
@@ -517,3 +517,194 @@ date,medal_code,medal,code,name,gender,country_code,country,discipline,disciplin
 2026-02-19,1,GOLD,39871,NING Zhongyan,M,CHN,China,Speed Skating,SSK,Men's 1500m
 2026-02-19,2,SILVER,26864,STOLZ Jordan,M,USA,United States,Speed Skating,SSK,Men's 1500m
 2026-02-19,3,BRONZE,51797,NUIS Kjeld,M,NED,Netherlands,Speed Skating,SSK,Men's 1500m
+2026-02-20,1,GOLD,42243,DALE-SKJEVDAL Johannes,M,NOR,Norway,Biathlon,BTH,Men's 15km Mass Start
+2026-02-20,2,SILVER,42254,LAEGREID Sturla Holm,M,NOR,Norway,Biathlon,BTH,Men's 15km Mass Start
+2026-02-20,3,BRONZE,46398,FILLON MAILLET Quentin,M,FRA,France,Biathlon,BTH,Men's 15km Mass Start
+2026-02-20,3,BRONZE,48480,LACHAT-COUCHEPIN Pablo,M,SUI,Switzerland,Curling,CUR,Men
+2026-02-20,3,BRONZE,48579,MICHEL Sven,M,SUI,Switzerland,Curling,CUR,Men
+2026-02-20,3,BRONZE,48675,SCHWALLER Kim,M,SUI,Switzerland,Curling,CUR,Men
+2026-02-20,3,BRONZE,48674,SCHWALLER Yannick,M,SUI,Switzerland,Curling,CUR,Men
+2026-02-20,3,BRONZE,48678,SCHWARZ-van BERKEL Benoit,M,SUI,Switzerland,Curling,CUR,Men
+2026-02-20,1,GOLD,50970,WANG Xindi,M,CHN,China,Freestyle Skiing,FRS,Men's Aerials
+2026-02-20,2,SILVER,48652,ROTH Noe,M,SUI,Switzerland,Freestyle Skiing,FRS,Men's Aerials
+2026-02-20,3,BRONZE,50972,LI Tianma,M,CHN,China,Freestyle Skiing,FRS,Men's Aerials
+2026-02-20,1,GOLD,24020,FERREIRA Alex,M,USA,United States,Freestyle Skiing,FRS,Men's Freeski Halfpipe
+2026-02-20,2,SILVER,44080,SILDARU Henry,M,EST,Estonia,Freestyle Skiing,FRS,Men's Freeski Halfpipe
+2026-02-20,3,BRONZE,53467,MACKAY Brendan,M,CAN,Canada,Freestyle Skiing,FRS,Men's Freeski Halfpipe
+2026-02-20,1,GOLD,41407,MAIER Daniela,F,GER,Germany,Freestyle Skiing,FRS,Women's Ski Cross
+2026-02-20,2,SILVER,48691,SMITH Fanny,F,SUI,Switzerland,Freestyle Skiing,FRS,Women's Ski Cross
+2026-02-20,3,BRONZE,22023,NAESLUND Sandra,F,SWE,Sweden,Freestyle Skiing,FRS,Women's Ski Cross
+2026-02-20,1,GOLD,51717,van 'T WOUT Jens,M,NED,Netherlands,Short Track Speed Skating,STK,Men's 5000m Relay
+2026-02-20,1,GOLD,51718,van 'T WOUT Melle,M,NED,Netherlands,Short Track Speed Skating,STK,Men's 5000m Relay
+2026-02-20,1,GOLD,51709,BOER Teun,M,NED,Netherlands,Short Track Speed Skating,STK,Men's 5000m Relay
+2026-02-20,1,GOLD,51710,EMONS Friso,M,NED,Netherlands,Short Track Speed Skating,STK,Men's 5000m Relay
+2026-02-20,1,GOLD,51714,de LAAT Itzhak,M,NED,Netherlands,Short Track Speed Skating,STK,Men's 5000m Relay
+2026-02-20,2,SILVER,44461,HWANG Daeheon,M,KOR,Korea,Short Track Speed Skating,STK,Men's 5000m Relay
+2026-02-20,2,SILVER,44460,RIM Jongun,M,KOR,Korea,Short Track Speed Skating,STK,Men's 5000m Relay
+2026-02-20,2,SILVER,44463,LEE Jeongmin,M,KOR,Korea,Short Track Speed Skating,STK,Men's 5000m Relay
+2026-02-20,2,SILVER,44464,LEE Juneseo,M,KOR,Korea,Short Track Speed Skating,STK,Men's 5000m Relay
+2026-02-20,2,SILVER,44462,SHIN Dong Min,M,KOR,Korea,Short Track Speed Skating,STK,Men's 5000m Relay
+2026-02-20,3,BRONZE,22152,NADALINI Thomas,M,ITA,Italy,Short Track Speed Skating,STK,Men's 5000m Relay
+2026-02-20,3,BRONZE,22150,SIGHEL Pietro,M,ITA,Italy,Short Track Speed Skating,STK,Men's 5000m Relay
+2026-02-20,3,BRONZE,22154,SPECHENHAUSER Luca,M,ITA,Italy,Short Track Speed Skating,STK,Men's 5000m Relay
+2026-02-20,3,BRONZE,22157,CASSINELLI Andrea,M,ITA,Italy,Short Track Speed Skating,STK,Men's 5000m Relay
+2026-02-20,1,GOLD,44450,KIM Gilli,F,KOR,Korea,Short Track Speed Skating,STK,Women's 1500m
+2026-02-20,2,SILVER,44449,CHOI Minjeong,F,KOR,Korea,Short Track Speed Skating,STK,Women's 1500m
+2026-02-20,3,BRONZE,26848,STODDARD Corinne,F,USA,United States,Short Track Speed Skating,STK,Women's 1500m
+2026-02-20,1,GOLD,51793,RIJPMA-de JONG Antoinette,F,NED,Netherlands,Speed Skating,SSK,Women's 1500m
+2026-02-20,2,SILVER,42383,WIKLUND Ragne,F,NOR,Norway,Speed Skating,SSK,Women's 1500m
+2026-02-20,3,BRONZE,44030,MALTAIS Valerie,F,CAN,Canada,Speed Skating,SSK,Women's 1500m
+2026-02-21,1,GOLD,44690,MICHELON Oceane,F,FRA,France,Biathlon,BTH,Women's 12.5km Mass Start
+2026-02-21,2,SILVER,44694,SIMON Julia,F,FRA,France,Biathlon,BTH,Women's 12.5km Mass Start
+2026-02-21,3,BRONZE,43022,VOBORNIKOVA Tereza,F,CZE,Czechia,Biathlon,BTH,Women's 12.5km Mass Start
+2026-02-21,1,GOLD,20106,NOLTE Laura,F,GER,Germany,Bobsleigh,BOB,2-woman
+2026-02-21,1,GOLD,20091,LEVI Deborah,F,GER,Germany,Bobsleigh,BOB,2-woman
+2026-02-21,2,SILVER,20040,BUCKWITZ Lisa,F,GER,Germany,Bobsleigh,BOB,2-woman
+2026-02-21,2,SILVER,20126,SCHUTEN Neele,F,GER,Germany,Bobsleigh,BOB,2-woman
+2026-02-21,3,BRONZE,23320,ARMBRUSTER HUMPHRIES Kaillie,F,USA,United States,Bobsleigh,BOB,2-woman
+2026-02-21,3,BRONZE,23312,JONES Jasmine,F,USA,United States,Bobsleigh,BOB,2-woman
+2026-02-21,1,GOLD,42284,KLAEBO Johannes Hoesflot,M,NOR,Norway,Cross-Country Skiing,CCS,Men's 50km Mass Start Classic
+2026-02-21,2,SILVER,42285,NYENGET Martin Loewstroem,M,NOR,Norway,Cross-Country Skiing,CCS,Men's 50km Mass Start Classic
+2026-02-21,3,BRONZE,139897,IVERSEN Emil,M,NOR,Norway,Cross-Country Skiing,CCS,Men's 50km Mass Start Classic
+2026-02-21,1,GOLD,53214,GALLANT Brett,M,CAN,Canada,Curling,CUR,Men
+2026-02-21,1,GOLD,53226,HEBERT Ben,M,CAN,Canada,Curling,CUR,Men
+2026-02-21,1,GOLD,53237,JACOBS Brad,M,CAN,Canada,Curling,CUR,Men
+2026-02-21,1,GOLD,53244,KENNEDY Marc,M,CAN,Canada,Curling,CUR,Men
+2026-02-21,1,GOLD,53320,TARDI Tyler,M,CAN,Canada,Curling,CUR,Men
+2026-02-21,2,SILVER,37138,HARDIE Grant,M,GBR,Great Britain,Curling,CUR,Men
+2026-02-21,2,SILVER,37142,LAMMIE Bobby,M,GBR,Great Britain,Curling,CUR,Men
+2026-02-21,2,SILVER,37147,MOUAT Bruce,M,GBR,Great Britain,Curling,CUR,Men
+2026-02-21,2,SILVER,37145,McMILLAN Hammy,M,GBR,Great Britain,Curling,CUR,Men
+2026-02-21,2,SILVER,37151,WADDELL Kyle,M,GBR,Great Britain,Curling,CUR,Men
+2026-02-21,3,BRONZE,53183,BROWN Rachel,F,CAN,Canada,Curling,CUR,Women
+2026-02-21,3,BRONZE,53213,FLEURY Tracy,F,CAN,Canada,Curling,CUR,Women
+2026-02-21,3,BRONZE,53218,HOMAN Rachel,F,CAN,Canada,Curling,CUR,Women
+2026-02-21,3,BRONZE,53279,MISKEW Emma,F,CAN,Canada,Curling,CUR,Women
+2026-02-21,3,BRONZE,53331,WILKES Sarah,F,CAN,Canada,Curling,CUR,Women
+2026-02-21,1,GOLD,22753,DEROMEDIS Simone,M,ITA,Italy,Freestyle Skiing,FRS,Men's Ski Cross
+2026-02-21,2,SILVER,22755,TOMASONI Federico,M,ITA,Italy,Freestyle Skiing,FRS,Men's Ski Cross
+2026-02-21,3,BRONZE,48362,FIVA Alex,M,SUI,Switzerland,Freestyle Skiing,FRS,Men's Ski Cross
+2026-02-21,1,GOLD,24141,CURRAN Connor,M,USA,United States,Freestyle Skiing,FRS,Mixed Team Aerials
+2026-02-21,1,GOLD,24162,KUHN Kaila,F,USA,United States,Freestyle Skiing,FRS,Mixed Team Aerials
+2026-02-21,1,GOLD,24139,LILLIS Christopher,M,USA,United States,Freestyle Skiing,FRS,Mixed Team Aerials
+2026-02-21,2,SILVER,48652,ROTH Noe,M,SUI,Switzerland,Freestyle Skiing,FRS,Mixed Team Aerials
+2026-02-21,2,SILVER,48473,KOZOMARA Lina,F,SUI,Switzerland,Freestyle Skiing,FRS,Mixed Team Aerials
+2026-02-21,2,SILVER,48743,WERNER Pirmin,M,SUI,Switzerland,Freestyle Skiing,FRS,Mixed Team Aerials
+2026-02-21,3,BRONZE,50970,WANG Xindi,M,CHN,China,Freestyle Skiing,FRS,Mixed Team Aerials
+2026-02-21,3,BRONZE,50963,XU Mengtao,F,CHN,China,Freestyle Skiing,FRS,Mixed Team Aerials
+2026-02-21,3,BRONZE,50972,LI Tianma,M,CHN,China,Freestyle Skiing,FRS,Mixed Team Aerials
+2026-02-21,3,BRONZE,45885,AHO Sebastian,M,FIN,Finland,Ice Hockey,IHO,Men
+2026-02-21,3,BRONZE,45887,ARMIA Joel,M,FIN,Finland,Ice Hockey,IHO,Men
+2026-02-21,3,BRONZE,50540,GRANLUND Mikael,M,FIN,Finland,Ice Hockey,IHO,Men
+2026-02-21,3,BRONZE,45894,HAULA Erik,M,FIN,Finland,Ice Hockey,IHO,Men
+2026-02-21,3,BRONZE,45896,HEISKANEN Miro,M,FIN,Finland,Ice Hockey,IHO,Men
+2026-02-21,3,BRONZE,45900,HINTZ Roope,M,FIN,Finland,Ice Hockey,IHO,Men
+2026-02-21,3,BRONZE,45906,JOKIHARJU Henri,M,FIN,Finland,Ice Hockey,IHO,Men
+2026-02-21,3,BRONZE,45908,KAKKO Kaapo,M,FIN,Finland,Ice Hockey,IHO,Men
+2026-02-21,3,BRONZE,45909,KAPANEN Oliver,M,FIN,Finland,Ice Hockey,IHO,Men
+2026-02-21,3,BRONZE,45911,KIVIRANTA Joel,M,FIN,Finland,Ice Hockey,IHO,Men
+2026-02-21,3,BRONZE,45915,KORPISALO Joonas,M,FIN,Finland,Ice Hockey,IHO,Men
+2026-02-21,3,BRONZE,45922,LANKINEN Kevin,M,FIN,Finland,Ice Hockey,IHO,Men
+2026-02-21,3,BRONZE,45924,LEHKONEN Artturi,M,FIN,Finland,Ice Hockey,IHO,Men
+2026-02-21,3,BRONZE,45926,LEHTONEN Mikko,M,FIN,Finland,Ice Hockey,IHO,Men
+2026-02-21,3,BRONZE,45928,LINDELL Esa,M,FIN,Finland,Ice Hockey,IHO,Men
+2026-02-21,3,BRONZE,45929,LUNDELL Anton,M,FIN,Finland,Ice Hockey,IHO,Men
+2026-02-21,3,BRONZE,45930,LUOSTARINEN Eetu,M,FIN,Finland,Ice Hockey,IHO,Men
+2026-02-21,3,BRONZE,45931,MAATTA Olli,M,FIN,Finland,Ice Hockey,IHO,Men
+2026-02-21,3,BRONZE,45935,MATINPALO Nikolas,M,FIN,Finland,Ice Hockey,IHO,Men
+2026-02-21,3,BRONZE,45938,MIKKOLA Niko,M,FIN,Finland,Ice Hockey,IHO,Men
+2026-02-21,3,BRONZE,45951,RANTANEN Mikko,M,FIN,Finland,Ice Hockey,IHO,Men
+2026-02-21,3,BRONZE,45953,RISTOLAINEN Rasmus,M,FIN,Finland,Ice Hockey,IHO,Men
+2026-02-21,3,BRONZE,45958,SAROS Juuse,M,FIN,Finland,Ice Hockey,IHO,Men
+2026-02-21,3,BRONZE,45959,TERAVAINEN Teuvo,M,FIN,Finland,Ice Hockey,IHO,Men
+2026-02-21,3,BRONZE,45961,TOLVANEN Eeli,M,FIN,Finland,Ice Hockey,IHO,Men
+2026-02-21,1,GOLD,40544,HARROP Emily,F,FRA,France,Ski Mountaineering,SMT,Mixed Relay
+2026-02-21,1,GOLD,40545,ANSELMET Thibault,M,FRA,France,Ski Mountaineering,SMT,Mixed Relay
+2026-02-21,2,SILVER,48356,FATTON Marianne,F,SUI,Switzerland,Ski Mountaineering,SMT,Mixed Relay
+2026-02-21,2,SILVER,48465,KISTLER Jon,M,SUI,Switzerland,Ski Mountaineering,SMT,Mixed Relay
+2026-02-21,3,BRONZE,21674,CARDONA COLL Oriol,M,ESP,Spain,Ski Mountaineering,SMT,Mixed Relay
+2026-02-21,3,BRONZE,21673,ALONSO RODRIGUEZ Ana,F,ESP,Spain,Ski Mountaineering,SMT,Mixed Relay
+2026-02-21,1,GOLD,51770,BERGSMA Jorrit,M,NED,Netherlands,Speed Skating,SSK,Men's Mass Start
+2026-02-21,2,SILVER,37179,THORUP Viktor Hald,M,DEN,Denmark,Speed Skating,SSK,Men's Mass Start
+2026-02-21,3,BRONZE,22173,GIOVANNINI Andrea,M,ITA,Italy,Speed Skating,SSK,Men's Mass Start
+2026-02-21,1,GOLD,51774,GROENEWOUD Marijke,F,NED,Netherlands,Speed Skating,SSK,Women's Mass Start
+2026-02-21,2,SILVER,43996,BLONDIN Ivanie,F,CAN,Canada,Speed Skating,SSK,Women's Mass Start
+2026-02-21,3,BRONZE,26882,MANGANELLO Mia,F,USA,United States,Speed Skating,SSK,Women's Mass Start
+2026-02-22,1,GOLD,20055,FLEISCHHAUER Georg,M,GER,Germany,Bobsleigh,BOB,4-man
+2026-02-22,1,GOLD,20095,LOCHNER Johannes,M,GER,Germany,Bobsleigh,BOB,4-man
+2026-02-22,1,GOLD,20099,MARGIS Thorsten,M,GER,Germany,Bobsleigh,BOB,4-man
+2026-02-22,1,GOLD,20140,WENZEL Jorn,M,GER,Germany,Bobsleigh,BOB,4-man
+2026-02-22,2,SILVER,20057,FRIEDRICH Francesco,M,GER,Germany,Bobsleigh,BOB,4-man
+2026-02-22,2,SILVER,20125,SCHULLER Alexander,M,GER,Germany,Bobsleigh,BOB,4-man
+2026-02-22,2,SILVER,20130,SOMMER Matthias,M,GER,Germany,Bobsleigh,BOB,4-man
+2026-02-22,2,SILVER,20132,STRAUB Felix,M,GER,Germany,Bobsleigh,BOB,4-man
+2026-02-22,3,BRONZE,48251,AEBERHARD Mario,M,SUI,Switzerland,Bobsleigh,BOB,4-man
+2026-02-22,3,BRONZE,48401,HAAS Andreas,M,SUI,Switzerland,Bobsleigh,BOB,4-man
+2026-02-22,3,BRONZE,48601,NDIAYE Amadou David,M,SUI,Switzerland,Bobsleigh,BOB,4-man
+2026-02-22,3,BRONZE,48727,VOGT Michael,M,SUI,Switzerland,Bobsleigh,BOB,4-man
+2026-02-22,1,GOLD,30707,ANDERSSON Ebba,F,SWE,Sweden,Cross-Country Skiing,CCS,Women's 50km Mass Start Classic
+2026-02-22,2,SILVER,42290,WENG Heidi,F,NOR,Norway,Cross-Country Skiing,CCS,Women's 50km Mass Start Classic
+2026-02-22,3,BRONZE,48454,KAELIN Nadja,F,SUI,Switzerland,Cross-Country Skiing,CCS,Women's 50km Mass Start Classic
+2026-02-22,1,GOLD,21531,HASSELBORG Anna,F,SWE,Sweden,Curling,CUR,Women
+2026-02-22,1,GOLD,21536,HELDIN Johanna,F,SWE,Sweden,Curling,CUR,Women
+2026-02-22,1,GOLD,21530,KNOCHENHAUER Agnes,F,SWE,Sweden,Curling,CUR,Women
+2026-02-22,1,GOLD,21532,McMANUS Sara,F,SWE,Sweden,Curling,CUR,Women
+2026-02-22,1,GOLD,21537,SCHARBACK Sofia,F,SWE,Sweden,Curling,CUR,Women
+2026-02-22,2,SILVER,48283,BERSET Stefanie,F,SUI,Switzerland,Curling,CUR,Women
+2026-02-22,2,SILVER,48431,HOWALD Carole,F,SUI,Switzerland,Curling,CUR,Women
+2026-02-22,2,SILVER,48610,PAETZ Alina,F,SUI,Switzerland,Curling,CUR,Women
+2026-02-22,2,SILVER,48714,TIRINZONI Silvana,F,SUI,Switzerland,Curling,CUR,Women
+2026-02-22,2,SILVER,48756,WITSCHONKE Selina,F,SUI,Switzerland,Curling,CUR,Women
+2026-02-22,1,GOLD,40014,GU Ailing Eileen,F,CHN,China,Freestyle Skiing,FRS,Women's Freeski Halfpipe
+2026-02-22,2,SILVER,39851,LI Fanghui,F,CHN,China,Freestyle Skiing,FRS,Women's Freeski Halfpipe
+2026-02-22,3,BRONZE,39326,ATKIN Zoe,F,GBR,Great Britain,Freestyle Skiing,FRS,Women's Freeski Halfpipe
+2026-02-22,1,GOLD,25049,BOLDY Matt,M,USA,United States,Ice Hockey,IHO,Men
+2026-02-22,1,GOLD,25044,CONNOR Kyle,M,USA,United States,Ice Hockey,IHO,Men
+2026-02-22,1,GOLD,25041,EICHEL Jack,M,USA,United States,Ice Hockey,IHO,Men
+2026-02-22,1,GOLD,25019,FABER Brock,M,USA,United States,Ice Hockey,IHO,Men
+2026-02-22,1,GOLD,25034,GUENTZEL Jake,M,USA,United States,Ice Hockey,IHO,Men
+2026-02-22,1,GOLD,25053,HANIFIN Noah,M,USA,United States,Ice Hockey,IHO,Men
+2026-02-22,1,GOLD,25025,HELLEBUYCK Connor,M,USA,United States,Ice Hockey,IHO,Men
+2026-02-22,1,GOLD,25032,HUGHES Jack,M,USA,United States,Ice Hockey,IHO,Men
+2026-02-22,1,GOLD,25055,HUGHES Quinn,M,USA,United States,Ice Hockey,IHO,Men
+2026-02-22,1,GOLD,25023,KELLER Clayton,M,USA,United States,Ice Hockey,IHO,Men
+2026-02-22,1,GOLD,25029,LARKIN Dylan,M,USA,United States,Ice Hockey,IHO,Men
+2026-02-22,1,GOLD,25033,LaCOMBE Jackson,M,USA,United States,Ice Hockey,IHO,Men
+2026-02-22,1,GOLD,25012,MATTHEWS Auston,M,USA,United States,Ice Hockey,IHO,Men
+2026-02-22,1,GOLD,25042,MILLER JT,M,USA,United States,Ice Hockey,IHO,Men
+2026-02-22,1,GOLD,25021,McAVOY Charlie,M,USA,United States,Ice Hockey,IHO,Men
+2026-02-22,1,GOLD,25017,NELSON Brock,M,USA,United States,Ice Hockey,IHO,Men
+2026-02-22,1,GOLD,25036,OETTINGER Jake,M,USA,United States,Ice Hockey,IHO,Men
+2026-02-22,1,GOLD,25035,SANDERSON Jake,M,USA,United States,Ice Hockey,IHO,Men
+2026-02-22,1,GOLD,25031,SLAVIN Jaccob,M,USA,United States,Ice Hockey,IHO,Men
+2026-02-22,1,GOLD,25039,SWAYMAN Jeremy,M,USA,United States,Ice Hockey,IHO,Men
+2026-02-22,1,GOLD,25059,THOMPSON Tage,M,USA,United States,Ice Hockey,IHO,Men
+2026-02-22,1,GOLD,25014,TKACHUK Brady,M,USA,United States,Ice Hockey,IHO,Men
+2026-02-22,1,GOLD,25048,TKACHUK Matthew,M,USA,United States,Ice Hockey,IHO,Men
+2026-02-22,1,GOLD,25062,TROCHECK Vincent,M,USA,United States,Ice Hockey,IHO,Men
+2026-02-22,1,GOLD,25063,WERENSKI Zach,M,USA,United States,Ice Hockey,IHO,Men
+2026-02-22,2,SILVER,53796,BENNETT Sam,M,CAN,Canada,Ice Hockey,IHO,Men
+2026-02-22,2,SILVER,53797,BINNINGTON Jordan,M,CAN,Canada,Ice Hockey,IHO,Men
+2026-02-22,2,SILVER,53804,CELEBRINI Macklin,M,CAN,Canada,Ice Hockey,IHO,Men
+2026-02-22,2,SILVER,53811,CROSBY Sidney,M,CAN,Canada,Ice Hockey,IHO,Men
+2026-02-22,2,SILVER,53817,DOUGHTY Drew,M,CAN,Canada,Ice Hockey,IHO,Men
+2026-02-22,2,SILVER,53840,HAGEL Brandon,M,CAN,Canada,Ice Hockey,IHO,Men
+2026-02-22,2,SILVER,53843,HARLEY Thomas,M,CAN,Canada,Ice Hockey,IHO,Men
+2026-02-22,2,SILVER,53847,HORVAT Bo,M,CAN,Canada,Ice Hockey,IHO,Men
+2026-02-22,2,SILVER,53851,JARVIS Seth,M,CAN,Canada,Ice Hockey,IHO,Men
+2026-02-22,2,SILVER,53858,KUEMPER Darcy,M,CAN,Canada,Ice Hockey,IHO,Men
+2026-02-22,2,SILVER,53863,MAKAR Cale,M,CAN,Canada,Ice Hockey,IHO,Men
+2026-02-22,2,SILVER,53864,MARCHAND Brad,M,CAN,Canada,Ice Hockey,IHO,Men
+2026-02-22,2,SILVER,53866,MARNER Mitch,M,CAN,Canada,Ice Hockey,IHO,Men
+2026-02-22,2,SILVER,53877,MORRISSEY Josh,M,CAN,Canada,Ice Hockey,IHO,Men
+2026-02-22,2,SILVER,53862,MacKINNON Nathan,M,CAN,Canada,Ice Hockey,IHO,Men
+2026-02-22,2,SILVER,53868,McDAVID Connor,M,CAN,Canada,Ice Hockey,IHO,Men
+2026-02-22,2,SILVER,53884,PARAYKO Colton,M,CAN,Canada,Ice Hockey,IHO,Men
+2026-02-22,2,SILVER,53890,REINHART Sam,M,CAN,Canada,Ice Hockey,IHO,Men
+2026-02-22,2,SILVER,53893,SANHEIM Travis,M,CAN,Canada,Ice Hockey,IHO,Men
+2026-02-22,2,SILVER,53899,STONE Mark,M,CAN,Canada,Ice Hockey,IHO,Men
+2026-02-22,2,SILVER,53901,SUZUKI Nick,M,CAN,Canada,Ice Hockey,IHO,Men
+2026-02-22,2,SILVER,53905,THEODORE Shea,M,CAN,Canada,Ice Hockey,IHO,Men
+2026-02-22,2,SILVER,53907,THOMPSON Logan,M,CAN,Canada,Ice Hockey,IHO,Men
+2026-02-22,2,SILVER,53910,TOEWS Devon,M,CAN,Canada,Ice Hockey,IHO,Men
+2026-02-22,2,SILVER,53914,WILSON Tom,M,CAN,Canada,Ice Hockey,IHO,Men
